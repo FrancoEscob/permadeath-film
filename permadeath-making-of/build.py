@@ -188,7 +188,7 @@ toc.append(('costo-tokens-y-tiempo', 'Costo, tokens y tiempo'))
 toc.append(('links-y-recursos', 'Links y recursos'))
 
 # ---------------------------------------------------------------- links (every YouTube source was checked with YouTube's oEmbed)
-VIDEO = 'yK6PzUACrbg'
+VIDEO = 'Y8PJ9tmhyqs'
 REPO = 'https://github.com/FrancoEscob/permadeath-film'
 SITE = 'https://permadeath-making-of.vercel.app'
 YT = json.loads((HERE / 'sources_youtube.json').read_text())
@@ -202,7 +202,7 @@ def by(s): return f" <span class='by'>· {html.escape(s)}</span>"
 def yt(k): return a(f'https://www.youtube.com/watch?v={k}', YT[k]['title']) + by(YT[k]['author'])
 WIKI, WIKI2 = 'https://permadeath.fandom.com/es/wiki/', 'https://permadeath-wiki.fandom.com/es/wiki/'
 GROUPS = [
-    ('Este proyecto', [a(f'https://www.youtube.com/watch?v={VIDEO}', 'El video final en YouTube') + by('PERMADEATH video by Opus 5.5'),
+    ('Este proyecto', [a(f'https://www.youtube.com/watch?v={VIDEO}', 'El video final en YouTube') + by('Claude Opus 5.5 FILM: PERMADEATH'),
                        a(REPO, 'El código en GitHub') + by('film, investigación, skins, esta página y el cálculo de costos'),
                        a(SITE, 'Esta página')]),
     ('Fuentes principales', [yt(k) + by(note) for k, note in MAIN_YT.items()]),
@@ -329,7 +329,7 @@ details[open] summary{{margin-bottom:8px}}
  <div class='stats'><span>1920×1080 · 30 fps</span><span>14.015 frames</span><span>55 escenas</span><span>38 jugadores</span><span>−14 LUFS</span><span>{usd(T['usd'])} equivalente API</span></div>
  <div class='cta'><a class='btn red' href='#video'>▶ Ver el video</a><a class='btn' href='https://www.youtube.com/watch?v={VIDEO}' target='_blank' rel='noopener'>YouTube</a><a class='btn' href='{REPO}' target='_blank' rel='noopener'>Código en GitHub</a></div>
 </div></header>
-<div class='watch' id='video'><div class='frame'><iframe src='https://www.youtube-nocookie.com/embed/{VIDEO}?rel=0' title='PERMADEATH video by Opus 5.5' loading='lazy' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe></div>
+<div class='watch' id='video'><div class='frame'><iframe src='https://www.youtube-nocookie.com/embed/{VIDEO}?rel=0' title='Claude Opus 5.5 FILM: PERMADEATH' loading='lazy' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe></div>
 <p class='cap'>La versión final, 7:47. Mejor en pantalla grande y con sonido.</p></div>
 {gallery}
 <div class='wrap'>

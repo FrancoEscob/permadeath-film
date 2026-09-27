@@ -2,7 +2,7 @@
 
 Un video de motion graphics de 7:47 sobre **Permadeath**, el servidor hardcore de ElRichMC (25/03 al 24/05/2020). No usa metraje ni modelos de video: todo sale de HTML, JavaScript, three.js y WebAudio, y se exportó frame a frame a MP4.
 
-- **Video**: https://www.youtube.com/watch?v=yK6PzUACrbg
+- **Video**: https://www.youtube.com/watch?v=Y8PJ9tmhyqs
 - **Cómo se hizo** (proceso, aprendizajes, costos y fuentes): https://permadeath-making-of.vercel.app
 
 Lo hizo Claude Code (Claude Opus 5.5) con subagentes. La regla fue no inventar nada: cada muerte se contrastó con los frames de su clip, y lo que no se pudo confirmar quedó anotado en [`FACTS.md`](FACTS.md) y no se animó como hecho.
