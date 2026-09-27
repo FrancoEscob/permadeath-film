@@ -1,0 +1,69 @@
+{{Infobox_Jugador
+|title1= ReventXzz
+|image1= [[Archivo:Reven Youtube Channel.jpg]]
+|nick_de_minecraft= ReventXzz
+|nombre_en_youtube= Reven
+|nombre_en_twitch= ReventXz
+|redes_sociales=
+[[Archivo:Youtube.png|35px|link=https://www.youtube.com/user/LoLReven]][[Archivo:Twitch.png|35px|link=https://www.twitch.tv/reventxz]][[Archivo:Twitter.png|35px|link=https://twitter.com/LoLReven]]
+|suscriptores_en_youtube= +520.000
+|seguidores_en_twitch= +560.000
+|participaciones= 1 Edición
+|mejor_resultado= 32º lugar
+|muertes= Atacado por una Araña de Cueva
+|mensajes_de_muerte= ''"Partida equivalente a un AFK en el LoL"''
+}}<span style="color:red">'''ReventXzz'''</span> o simplemente "Reven", fue uno de los participantes de Permadeath. Participando en la 1ª Edición de este Evento. Formaba parte del equipo de G2 junto a [[BarbeQ]], [[Ander]] e [[Ibai]].
+
+==Desempeño==
+
+<span style="color:red"><u>'''1ª Edición:'''</u></span>
+
+*<u>'''Día 0 - Día 10:'''</u>
+El servidor abre sus puertas, '''ReventXzz''' se encuentra en el equipo original mas grande que existe conformado solamente por integrantes de G2. Aunque fuera así, la mayoría eran bastante novatos, provocando que 2 jugadores no tuvieran un gran interés en el juego, entre ellos tenemos al mismo '''Reven''' y a [[Ibai]]. Fueron jugadores bastante ausentes dentro del servidor en general, y si no fuera por la iniciativa de [[Ander]] o el cambio de dificultad, estos no hubiesen entrado de nuevo. El progreso de '''Reven''' fue ínfimo, sin embargo podemos destacar que pudo alcanzar conseguir diamantes en el poco tiempo que participo. En el transcurso de los demás días, '''Reven''' no estuvo presente. 
+
+*<u>'''Día 10 - Día 11:'''</u>
+Se introducen los nuevos cambios de dificultad, ahora las arañas tienen efectos bastante poderosos, pudiendo derrotar tanto a [[Kaumaru102|Kaumaru]], como al gran [[Felipez360|Felipez]]. Este ultimo hecho provoco que regresara aquel interés de lo que pasaba en el servidor tanto a '''Reven''' como a Ibai. Tenían que equiparse lo suficiente como para no morir por las arañas y para no ser baneados por AFK. Los jugadores empezaron el día 11 en malas condiciones en frente a los demás, por suerte [[Ander]] había dedicado un gran numero de horas al juego desde antes y los guió lo suficiente como para conseguir los primeros recursos. '''ReventXzz''' estaba minando e Ibai se le adelanta, pero comete el error de asustarse y desesperarse al momento de que ve a un Creeper, esto provoco que explotase y matara a Ibai en aquel momento. El equipo de G2 había perdido un integrante pero decidieron seguir adelante en busca de más recursos, tiempo más tarde, '''Reven''' se encuentra con una [[Araña con efectos|Araña de Cueva]], esta contaba con Velocidad III y Fuerza IV. Nuestro personaje subestimo completamente el poder de esta Araña y se enfrento a ella con 3/4 de armadura de hierro, unas botas de diamante y una espada de diamante encantada. Lamentablemente esto no fue suficiente y de un solo Hit, pudo arrebatarle la vida a este jugador. El equipo más grande de Permadeath "G2" se había quedado con solo 2 integrantes, arrebatados por enemigos que sumarían más y más muertes.
+
+==Equipos==
+{| class="wikitable"
+!Edición
+!Equipo Original
+!Equipo Temporal
+|-
+|'''1ª Edición'''
+|<center>'''<u>G2:</u> <span style="color:red">ReventXzz</span>, [[BarbeQ]], [[Ander]] e [[Ibai]]'''<center>
+|<center>'''-'''<center>
+|}
+
+==Resultados==
+{| class="wikitable"
+!Edición
+!Lugar
+!Causa de Muerte
+|-
+|'''1ª Edición'''
+|32º
+|[[Araña con efectos|Araña de Cueva]]
+|}
+
+==Totéms Utilizados==
+{| class="wikitable"
+!Edición
+!Totéms Utilizados
+|-
+|'''1ª Edición'''
+|'''0'''
+|}
+
+==Valoración de Jugador (porcentaje sobrevivido/participaciones)==
+{| class="wikitable"
+!Lugar
+!Cálculo
+!Valoración
+|-
+|'''32º'''
+|10,078%/1 participación
+|'''10,078'''
+|}
+
+[[Categoría:Participantes]]

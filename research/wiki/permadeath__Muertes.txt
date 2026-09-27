@@ -1,0 +1,574 @@
+La Muerte de un Jugador ocurre cuando su personaje pierde todos sus Puntos de Vida. En Permadeath, la muerte de un jugador lo lleva a ser Permabaneado, tras lo cual no puede volver a entrar al Servidor.
+
+<br />
+
+== Mensajes de Muerte ==
+Cuando un Jugador muere, el título "¡Permadeath!" aparece en pantalla, con el subtítulo "<code>Player</code> ha muerto" (donde Player es el nombre del jugador). Este mensaje se muestra a todos los jugadores, y viene acompañado de dos alertas sonoras: un rugido de dragón y un "Permadeath" dicho por Rich, seguidos por el sonido de muerte de un Jinete Esqueleto.
+
+En el Chat del juego se muestra el mensaje en rojo "Este es el comienzo del sufrimiento eterno de <code>Player</code>. ¡HA SIDO PERMABANEADO!", seguido por un mensaje de muerte personalizado, generalmente a modo de burla o chiste, con una frase personalizada según el Jugador (si bien no todos tienen). Por último, se muestra el mensaje de muerte normal de Minecraft, en el que especifica la Causa de Muerte.
+
+Tras su muerte, el jugador es baneado instantáneamente del servidor, sin posibilidad de volver a entrar. El mensaje mostrado dice "Conexión Perdida. Motivo: ¡Has sido PERMABANEADO!".
+
+Esta es una Lista de todos los Mensajes de Muerte Personalizados.
+
+-No tuvo por morir el primer día (Alvaro)
+
+-No tuvo por morir el primer día (Thegamermaldito)
+
+-No tuvo por morir el primer día (Cecililla)
+
+-Has sido deleteado, titi (Kau)
+
+-Su estado es muerto (Felipez) 
+
+-Llano estás en el server, Ebay (Ibai) 
+
+-Equivalente a quedarse AFK en el LOL (Raven) 
+
+-De noob a doble noob (AKA) 
+
+-No es cortés irse antes de tiempo (Ander)
+
+-No tuvo por ser baneado(a) por AFK (Lilicross)
+
+-Muere en el PvE otra vez (Rubik)
+
+-Ahora descansa en paz (Zeling)
+
+-Le han puesto mirando a Cuenca (Tonacho) 
+
+-No tuvo por ser baneado(a) por AFK (Perxita) 
+
+-No tuvo por ser baneado(a) por AFK (Alex) 
+
+-Se la han colado por el aro (Outconsumer) 
+
+-Comer niños no le confirió vida eterna (Rangu) 
+
+-Se ha quedado congelado (Frigo) 
+
+-Failagor a partir de ahora (Folagor) 
+
+-¿Dónde está el paracetamol? (Paracetamor) 
+
+-Verdaderamente lamentable (Gona) 
+
+-Por esto hizo 18 h de esclavitud (Carlos)
+
+-El diamantito le sirvió de poco (Mike) 
+
+-No tuvo por ser baneado(a) por AFK (BarbeQ) 
+
+-Ahora descansa en paz (Cibergun) 
+
+-MYM: Malo y muerto (ALKApone) 
+
+-Dice nyasu pero no tiene 7 vidas (Nia) 
+
+-¡Más bien EZylusky! (Hardy)
+
+-No tuvo por ser baneado(a) por AFK (Jaky)
+
+-No tuvo por ser baneado(a) por AFK (Antonio)
+
+-Ahora por fin descansa en paz (Breen)
+
+-Eso no ha sido muy Ey Ey Ey de tu parte... (ElRichMC)
+
+-Has sido promocionado al rango boomer (Esvandal)
+
+-Ahora por fin descansa en paz (kakytron)
+
+-Ahora por fin descansa en paz (Crisgreen)
+
+-Oui Oui, la baguette est bien mort (Shadoune666)
+
+-Más conocido como el jugador permabaneado (killer_creeper55))
+
+-HDluh. Código Luh-XD en el cementerio del server (Luh)
+
+-Ahora descansá en paz (omnirich)
+
+== Lista de Muertes ==
+
+=== Días 0-9 ===
+
+* '''Alvaro845 (25/03/2020, 19:15:18), Muerte por Creeper'''
+
+La muerte de Alvaro fue la primer muerte del Servidor, ocurriendo el primer día.
+
+* '''TheGamerMaldito (25/03/2020, 19:30:04), Muerte por Creeper'''
+
+.
+
+*'''Cecililla (25/03/2020, 21:29:16), Muerte por Creeper'''
+
+.<br />
+
+=== Días 10-19 ===
+
+* '''Kaumaru (4/04/2020, 16:50:27), Muerte por Araña de Cueva'''
+
+.
+
+* '''Felipez360 (4/04/2020, 20:19:39), Muerte por Araña'''
+
+.
+
+*'''Ibai (5/04/2020, 17:23:54), Muerte por Creeper'''
+
+.
+
+*'''ReventXzz (5/04/2020, 17:28:08), Muerte por Araña de Cueva'''
+
+.
+
+*'''AKAWonder (6/04/2020, 01:17:26), Muerte por Blaze'''
+
+.
+
+*'''Ander (12/04/2020, 22:46:29), Muerte por Araña'''
+
+.<br />
+
+=== Días 20-29 ===
+
+* '''LiliCross (19/04/2020, 15:03:00), Ban por AFK'''
+
+Pese a que en ese momento solo se aplicaba el Ban por AFK tras 10 días seguidos sin conectarse, Lili acordó con el administrador para ser Baneada debido a su inactividad, y sumado al hecho de que no iba a ser capaz de jugar durante los próximos días tampoco. Es el único Ban por AFK que no ocurre a las 00:00:00 horas.
+
+* '''Rubik (19/04/2020, 17:35:13), Muerte por Araña de Cueva'''
+
+..
+
+* '''Zeling (20/04/2020, 01:58:13), Muerte por Magma Cube'''
+
+.
+
+* '''Tonacho (20/04/2020, 14:30:30), Muerte por Slime'''
+
+.
+
+=== Días 30-39 ===
+
+* '''Perxitaa (24/04/2020, 00:00:00), Ban por AFK'''
+
+.
+
+* '''AlexElCapo (24/04/2020, 00:00:00), Ban por AFK'''
+
+.
+
+*'''OutConsumer (24/04/2020, 13:38:31), Muerte por Pollo'''
+
+.
+
+*'''RanguGamer (24/04/2020, 17:20:36), Muerte por Silverfish de la Muerte'''
+
+.
+
+*'''FrigoAdri (24/04/2020, 18:22:16), Muerte por Ender Creeper'''
+
+.
+
+*'''Folagor (26/04/2020, 20:54:43), Muerte por Ender Ghast'''
+
+.
+
+*'''Paracetamor (26/04/2020, 20:58:49), Muerte por Caer al Vacío'''
+
+.
+
+*'''Gona89 (28/04/2020, 17:03:26), Muerte por Shulker Explosivo'''
+
+.
+
+*'''MrCarlosNoob (28/04/2020, 17:23:34), Muerte por Caída escapando de una Araña de Cueva'''
+
+.
+
+*'''Mikecrack (29/04/2020, 22:49:47), Muerte por Ender Ghast'''
+
+.
+
+*'''BarbeQ (30/04/2020, 00:00:00), Ban por AFK'''
+
+.
+
+*'''Cibergun (30/04/2020, 19:55:59), Muerte por Ender Ghast'''
+
+.
+
+*'''Alkapone (2/05/2020, 04:07:22), Muerte por Caída'''
+
+.
+
+*'''Lakshart (2/05/2020, 18:22:00), Muerte por Ender Ghast'''
+
+.
+
+=== Días 40-49 ===
+
+*'''Hardyluski (8/05/2020, 14:10:12), Muerte por Gato Supernova'''
+
+.<br />
+
+=== Días 50-59 ===
+
+*'''ELRICHMC (15/05/2020, 19:23:55), Muerte por Caer al vacío'''
+
+<br />
+
+* '''EsVandal (16/05/2020, 22:58:41), Muerte por Wither Skeleton Emperador'''
+
+.
+
+=== Días 60-69 ===
+'''* Kakytron (24/05/2020, 14:58:18), Muerte por Ender Quantum Creeper'''
+
+.
+
+* '''CrisGreen (24/05/2020, 15:32:41), Muerte por Ender Quantum Creeper'''
+
+.
+
+* '''Shadoune (24/05/2020, 15:37:14), Muerte por Ahogarse'''
+
+.
+
+*''' Killercreeper (24/05/2020, 20:43:39), Muerte por Ender Quantum Creeper
+
+.
+
+*''' Luh (24/05/2020, 20:50:35), Muerte por Ahogarse<nowiki>'''</nowiki>''' ''
+
+=== Días 70-79 ===
+
+*''' omnirich (5/06/2020, 14:30:20), Muerte por Vex
+
+== Orden de Muertes ==
+Aclaración: PermadeathSMP no es una competición entre jugadores, sino entre el jugador y el juego. El Número de Superviviente se determina según el orden de las muertes, pero no tiene ningún valor (el mérito es por el tiempo sobrevivido, no por su posición en comparación con otros jugadores).
+{| class="wikitable sortable"
+|+Muertes de Permadeath
+!
+!Fecha de Muerte
+!Hora de Muerte
+!Causa de Muerte
+!N° de Muerte
+!N° de Superviviente
+!Totem
+|-
+|Alvaro845
+|25/03/2020
+|19:15:18
+|Creeper
+|#1
+|#39
+|No Equipado
+|-
+|TheGamerMaldito
+|25/03/2020
+|19:30:04
+|Creeper
+|#2
+|#38
+|No Equipado
+|-
+|Cecililla
+|25/03/2020
+|21:29:16
+|Creeper
+|#3
+|#37
+|No Equipado
+|-
+|Kaumaru
+|04/04/2020
+|16:50:27
+|Araña de Cueva
+|#4
+|#36
+|No Equipado
+|-
+|Felipez360
+|04/04/2020
+|20:19:39
+|Araña
+|#5
+|#35
+|Consumido
+|-
+|Ibai
+|05/04/2020
+|17:23:54
+|Creeper
+|#6
+|#34
+|No Equipado
+|-
+|ReventXzz
+|05/04/2020
+|17:28:08
+|Araña de Cueva
+|#7
+|#33
+|No Equipado
+|-
+|AKAWonder
+|06/04/2020
+|01:17:26
+|Blaze
+|#8
+|#32
+|No Equipado
+|-
+|Ander
+|12/04/2020
+|22:46:29
+|Araña
+|#9
+|#31
+|Consumido
+|-
+|LiliCross
+|19/04/2020
+|15:03:00
+|AFK
+|#10
+|#30
+|AFK
+|-
+|RubikYT
+|19/04/2020
+|17:35:13
+|Araña de Cueva
+|#11
+|#29
+|Consumido
+|-
+|Zeling
+|20/04/2020
+|01:58:13
+|Magma Cube
+|#12
+|#28
+|Consumido
+|-
+|Tonacho
+|20/04/2020
+|14:30:30
+|Slime
+|#13
+|#27
+|Consumido
+|-
+|Perxitaa
+|24/04/2020
+|00:00:00
+|AFK
+|#14
+|#26
+|AFK
+|-
+|AlexElCapo
+|24/04/2020
+|00:00:00
+|AFK
+|#15
+|#25
+|AFK
+|-
+|OutConsumer
+|24/04/2020
+|13:38:31
+|Pollo
+|#16
+|#24
+|Consumido
+|-
+|RanguGamer
+|24/04/2020
+|17:20:36
+|Silverfish de la Muerte
+|#17
+|#23
+|No Equipado
+|-
+|FrigoAdri
+|24/04/2020
+|18:22:16
+|Ender Creeper
+|#18
+|#22
+|No Activado (1%)
+|-
+|Folagor
+|26/04/2020
+|20:54:43
+|Ender Ghast
+|#19
+|#21
+|Consumido
+|-
+|Paracetamor
+|26/04/2020
+|20:58:49
+|Caer al Vacío
+|#20
+|#20
+|No Activado (Vacío)
+|-
+|Gona89
+|28/04/2020
+|17:03:26
+|Shulker Explosivo
+|#21
+|#19
+|No Activado (1%)
+|-
+|MrCarlosNoob
+|28/04/2020
+|17:23:34
+|Caída escapando de una Araña de Cueva
+|#22
+|#18
+|No Activado (1%)
+|-
+|Mikecrack
+|29/04/2020
+|22:49:47
+|Ender Ghast
+|#23
+|#17
+|Consumido
+|-
+|BarbeQ
+|30/04/2020
+|00:00:00
+|AFK
+|#24
+|#16
+|AFK
+|-
+|Cibergun
+|30/04/2020
+|19:55:59
+|Ender Ghast
+|#25
+|#15
+|Consumido
+|-
+|Alkapone
+|02/05/2020
+|04:07:22
+|Caída
+|#26
+|#14
+|Consumido
+|-
+|Lakshart
+|02/05/2020
+|18:22:00
+|Ender Ghast
+|#27
+|#13
+|Consumido
+|-
+|Hardyluski
+|08/05/2020
+|14:10:12
+|Gato Supernova
+|#28
+|#12
+|No Activado (3%)
+|-
+|Th3Antonio
+|14/05/2020
+|00:00:00
+|AFK
+|#29
+|#11
+|AFK
+|-
+|CooLifeGame
+|14/05/2020
+|00:00:00
+|AFK
+|#30
+|#10
+|AFK
+|-
+|BriiHD
+|14/05/2020
+|07:59:25
+|Ghast Demoníaco
+|#31
+|#9
+|No Equipado (Por falta de slots)
+|-
+|ElRichMC
+|20/05/2020
+|19:23:55
+|Caer al Vacío
+|#32
+|#8
+|No Activado (Vacío)
+|-
+|EsVandal
+|23/05/2020
+|22:58:41
+|Wither Skeleton Emperador
+|#33
+|#7
+|Consumido
+|-
+|Kakytron
+|24/05/2020
+|14:58:18
+|Ender Quantum Creeper
+|#34
+|#6
+|No Equipado (Por falta de slots)
+|-
+|CrisGreen
+|24/05/2020
+|15:32:41
+|Ender Quantum Creeper
+|#35
+|#5
+|No Equipado (Por falta de slots)
+|-
+|Shadoune
+|24/05/2020
+|15:37:14
+|Ahogarse
+|#36
+|#4
+|Consumido
+|-
+|Killercreeper55
+|24/05/2020
+|20:43:39
+|Ender Quantum Creeper
+|#37
+|#3
+|No Equipado (Equipaba su medalla en la mano derecha por la falta de slots, pero en el ultimo segundo se puso el escudo, y tuvo tiempo de usarlo)
+|-
+|Luh
+|24/05/2020
+|20:50:35
+|Ahogarse
+|#38
+|#2
+|Consumido
+|-
+|omnirich
+|5/06/2020
+|14:30:20
+|Vex
+|#39
+|#1
+|No Equipado
+|-
+|}
+<br />

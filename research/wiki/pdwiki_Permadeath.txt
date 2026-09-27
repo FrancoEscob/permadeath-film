@@ -1,0 +1,864 @@
+[[Archivo:Permadeath Captura.png|thumb|316px|Logotipo de la intro de Permadeath.]]
+<span style=color:red>'''PERMADEATH'''</span> es un evento creado por ElRichMC y hosteado por [[KernelFreeze]]. Este evento se realiza en un mundo supervivencia sin limites en la versión 1.15.2 de Minecraft. En este evento la dificultad se encuentra en Difícil Hardcore,es decir, tu muerte dentro del servidor sería permanente y quedarías <span style=color:red>permabaneado.</span> Si un jugador queda inactivo por 9 días o toma malas acciones dentro del servidor también podría ser <span style=color:red>permabaneado</span>.
+
+La característica general de esta serie es la unión de diferentes Youtubers de todo el mundo de habla hispana, sin importar que se dediquen al minecraft o no, y verlos sufrir dentro de este evento, ejemplo tenemos a [[Alvaro845]], [[Ibai]], [[Shadoune666]], [[iLuh]], [[Folagor03|Folagor]], [[Mikecrack]] y muchos más. 
+
+En esta 1ª Edición participaron 38 jugadores y comenzó el 25 de marzo de 2020. De estos 38 jugadores, 19 pudieron formar un total de 7 equipos, quedando los demás por fuera. El Objetivo de esta edición era sobrevivir hasta el día 110 y entrar en el "''Hall of Flame''".
+
+La cuenta de Permadeath oficial de twitter es [https://twitter.com/PermadeathSMP PermadeathSMP].
+
+== Reglas ==
+<big>
+*Si un jugador muere es baneado permanentemente.
+*Cuando un jugador muere comienza el <span style=color:red>''Death Train''</span>, provocando que haya una lluvia perpetua, hasta que se acabe el tiempo determinado por el día en que murió el jugador.
+*Los jugadores harán contenido cuando puedan/quieran
+*Si se detectan malas acciones de un jugador será permabaneado
+*Si un jugador queda inactivo por 9 días será permabaneado
+*Si un jugador sobrevive 110 días entrará en el "Hall of Flame", proporcionándole ventajas.
+*Solo los integrantes de los equipos originales pueden compartir objetos y recursos
+*Los integrantes de los equipos pueden participar en actividades juntos (tanto los originales como los temporales).
+</big>
+
+== Desarrollo de la Temporada ==
+
+En esta edición, cada 10 días, el mundo es actualizado, subiendo la dificultad del mismo, eso sin contar que cada 25 días se originan unas actualizaciones sorpresa con cambios en el <span style=color:red>''Death Train''</span>. Por esta razón el desarrollo de la competencia era diferente mientras pasaban los días y es necesario en pasar uno por uno para explicarlo de mejor manera.
+<big><big>
+*[[Día 0  - Día 10]]
+*[[Día 10 - Día 20]]
+*[[Día 20 - Día 25]]
+*[[Día 25 - Día 30]]
+*[[Día 30 - Día 40]]
+*[[Día 40 - Día 50]]
+*[[Día 50 - Día 60]]
+*[[Día 60]]
+</big></big>
+
+== Estadísticas de los jugadores ==
+
+===Resumen===
+{| class="wikitable"
+! Fecha de inicio
+! Fecha de fin
+! Cantidad de días sobrevividos
+! Ganador
+! Ultimo Permaviviente
+|-
+|25 de marzo de 2020
+|24 de mayo de 2020
+|60 días
+|¡Luh
+|Luh
+|}
+
+=== Cantidad de días jugados por cada participante:===
+{| class="wikitable"
+! Jugador
+! Cantidad de días
+! Motivo de Muerte
+|-
+|[[Alvaro845]]
+|0 días
+|Creeper
+|-
+|[[TheGamerMaldito]]
+|0 días
+|Creeper
+|-
+|[[Cecililla Juega|Cecililla]]
+|0 días
+|Creeper
+|-
+|[[Kaumaru102|Kaumaru]]
+|10 días
+|Araña de Cueva
+|-
+|[[Felipez360]]
+|10 días
+|Araña
+|-
+|[[Ibai]]
+|11 días
+|Creeper
+|-
+|[[ReventXzz]]
+|11 días
+|Araña de Cueva
+|-
+|[[AkaWonder]]
+|12 días
+|Blaze
+|-
+|[[Ander]]
+|18 días
+|Araña
+|-
+|[[Lilicross]]
+|25 días
+|AFK
+|-
+|[[RubikYT]]
+|25 días
+|Araña de Cueva
+|-
+|[[Zeling]]
+|26 días
+|GigaMagmacube
+|-
+|[[Tonacho]]
+|26 días
+|GigaSlime
+|-
+|[[Perxitaa]]
+|30 días
+|AFK
+|-
+|[[AlexElCapo]]
+|30 días
+|AFK
+|-
+|[[OutConsumer]]
+|30 días
+|Pollo
+|-
+|[[RanguGamer]]
+|30 días
+|Silverfish de la Muerte
+|-
+|[[FrigoAdri]]
+|30 días
+|Ender Creeper
+|-
+|[[Folagor03|Folagor]]
+|32 días
+|Ender Ghast
+|-
+|[[Paracetamor]]
+|32 días
+|Caída en el Vacío
+|-
+|[[Gona89]]
+|34 días
+|Shulker Explosivo
+|-
+|[[MrCarlosNoob]]
+|34 días
+|Caída por escapar de una Araña de Cueva
+|-
+|[[Mikecrack]]
+|35 días
+|Ender Ghast
+|-
+|[[BarbeQ]]
+|36 días
+|AFK
+|-
+|[[Cibergun]]
+|36 días
+|Ender Ghast
+|-
+|[[MYM ALK4PON3|Alkapone]]
+|38 días
+|Caída
+|-
+|[[Lakshart Nia]]
+|38 días
+|Ender Ghast
+|-
+|[[HardyLuski]]
+|44 días
+|Gato Supernova
+|-
+|[[Th3Antonio]]
+|50 días
+|AFK
+|-
+|[[CooLifeGame]]
+|50 días
+|AFK
+|-
+|[[BriiHD|ElBrean]]
+|50 días
+|Ghast Demoníaco
+|-
+|[[ElRichMC]]
+|56 días
+|Caída en el Vacío
+|-
+|[[EsVandal]]
+|59 días
+|Esqueleto Wither Emperador
+|-
+|[[Kakytron]]
+|60 días
+|Ender Quantum Creeper
+|-
+|[[Crisgreen]]
+|60 días
+|Ender Quantum Creeper
+|-
+|[[Shadoune666]]
+|60 días
+|Ahogamiento
+|-
+|[[KillerCreeper55]]
+|60 días
+|Ender Quantum Creeper
+|-
+|[[iLuh]]
+|60 días
+|Ahogamiento
+|}
+
+=== Motivos de Muerte ===
+{| class="wikitable"
+! Cantidad
+! Motivo
+! Jugadores
+|-
+|<span style="color:red">'''8'''
+|<span style="color:red">'''Creepers'''
+|
+*[Día 0]:'''Alvaro845''' ha explotado por un '''Creeper'''
+*[Día 0]:'''TheGamerMaldito''' ha explotado por un '''Creeper'''
+*[Día 0]:'''Cecililla''' ha explotado por un '''Creeper'''
+*[Día 11]:'''Ibaillanos''' ha explotado por un '''Creeper'''
+*[Día 30]:'''FrigoAdri''' ha explotado por un '''Ender Creeper'''
+*[Día 60]:'''Kakytron''' ha explotado por un '''Ender Quantum Creeper'''
+*[Día 60]:'''Crisgreen''' ha explotado por un '''Ender Quantum Creeper'''
+*[Día 60]:'''KillerCreeper55''' ha explotado por un '''Ender Quantum Creeper'''
+|-
+|6
+|AFK
+|
+*[Día 25]:'''Lilicross''' ha sido baneada por '''AFK'''
+*[Día 30]:'''Perxitaa''' ha sido baneado por '''AFK'''
+*[Día 30]:'''AlexElCapo''' ha sido baneado por '''AFK'''
+*[Día 36]:'''BarbeQ''' ha sido baneado por '''AFK'''
+*[Día 50]:'''Th3Antonio''' ha sido baneado por '''AFK'''
+*[Día 50]:'''CooLifeGame''' ha sido baneado por '''AFK'''
+|-
+|5
+|Ghast
+|
+*[Día 32]:'''Folagoro''' ha explotado por un '''Ender Ghast'''
+*[Día 35]:'''Mikecrack''' ha explotado por un '''Ender Ghast'''
+*[Día 36]:'''Cibergun''' ha explotado por un '''Ender Ghast'''
+*[Día 38]:'''LakshartNia''' ha explotado por un '''Ender Ghast'''
+*[Día 50]:'''ElBrean''' ha explotado por un '''Ghast Demoníaco'''
+|-
+|5
+|Arañas
+|
+*[Día 10]:'''Kaumaru''' fue asesinado por una '''Araña de Cueva'''
+*[Día 10]:'''xXmineCr4fterXx''' fue asesinado por una '''Araña'''
+*[Día 11]:'''ReventXzz''' fue asesinado por una '''Araña de Cueva'''
+*[Día 18]:'''4ndeR''' fue asesinado por una '''Araña'''
+*[Día 25]:'''RubikYT''' fue asesinado por una '''Araña de Cueva'''
+|-
+|2
+|Ahogamiento
+|
+*[Día 60]:'''Shadoune666''' se ha '''ahogado'''
+*[Día 60]:'''iLuh''' se ha '''ahogado'''
+|-
+|2
+|Caída al vacío
+|
+*[Día 32]:'''Paracetamor''' se ha '''caído del mundo'''
+*[Día 56]:'''ElRichMC''' se ha '''caído del mundo'''
+|-
+|2
+|Caída
+|
+*[Día 34]:'''MrCarlosNoob''' ha '''caído desde un lugar muy alto''' intentando huir de una '''Araña de Cueva'''
+*[Día 38]:'''Leyville''' ha '''caído desde un lugar muy alto'''
+|-
+|1
+|Esqueleto Wither
+|
+*[Día 59]:'''EsVandal''' fue disparado por un '''Esqueleto Wither Emperador'''
+|-
+|1
+|Gato
+|
+*[Día 44]:'''Hardyluski''' ha explotado por un '''Gato SuperNova'''
+|-
+|1
+|Shulker
+|
+*[Día 34]:'''Gona89''' ha explotado por un '''Shulker Explosivo'''
+|-
+|1
+|Silverfish
+|
+*[Día 30]:'''RanguGamer''' fue asesinado por un '''Silverfish de la Muerte'''
+|-
+|1
+|Pollo
+|
+*[Día 30]:'''OutConsumer''' fue asesinado por un '''Pollo'''
+|-
+|1
+|Slime
+|
+*[Día 26]:'''Tonacho''' fue asesinado por un '''GigaSlime'''
+|-
+|1
+|Magmacube
+|
+*[Día 26]:'''Zeling''' fue asesinada por un '''GigaMagmaCube'''
+|-
+|1
+|Blaze
+|
+*[Día 12]:'''AkaWonder''' fue asesinado por un '''Blaze'''
+|}
+
+=== Cantidad de Totems utilizados ===
+{| class="wikitable"
+! Jugador
+! Cantidad de Totems utilizados
+|-
+| [[EsVandal|'''EsVandal''']]
+| '''7''' [(2)Ender Creeper, (1)Ghast Demoníaco, (1)Enderman, (1)Caída, (1)Ender Ghast, (1)Esqueleto Wither Emperador]
+|-
+| [[ElRichMC|'''ElRichMC''']]
+| '''7''' [(3)Gato SuperNova, (2 Lava, (1)Slime, (1)Ender Ghast]
+|-
+| [[Mikecrack|'''Mikecrack''']]
+| '''7''' [(2)Ender Ghast, (1)Zombie Pigman,(1)Ravager, (1)Permadeath Demon, (1)Enderman, (1)Caída]
+|-
+| [[Kakytron]]
+| '''5''' [(1)Caída, (1)Ravager, (1)Salmón, (1)Esqueleto Pesadilla, (1)Ghast Demoníaco] 
+|-
+| [[Shadoune666]]
+| '''4''' [(2)Ender Quantum Creeper, (1)Golem de Hierro, (1)Ghast Demoniaco]
+|-
+| [[Crisgreen]]
+| '''4''' [(1)Ghast Demoníaco, (1)Ender Creeper, (1)Quantum Creeper, (1)Guardián]
+|-
+| [[Cibergun]]
+| '''4''' [(2)Ghast Demoníaco, (1)Esqueleto Pesadilla, (1)Ender Ghast]
+|-
+| [[BriiHD|ElBrean]]
+| '''3''' [(2)Caída, (1)Zombie Pigman]
+|-
+| [[CooLifeGame]]
+| '''3''' [(2)Ender Creeper, (1)Enderman]
+|-
+| [[Luh]]
+| '''2''' [(1)Romper un Bloque, (1)Ahogamiento]
+|-
+| [[KillerCreeper55]]
+| '''2''' [(1)Ender Ghast, (1)Wither Chikito]
+|-
+| [[Hardyluski]]
+| '''2''' [(1)Enderman, (1)Caída]
+|-
+| [[Lakshart Nia]]
+| '''2''' [(1)Caída, (1)Enderman]
+|-
+| [[MYM ALK4PON3|Alkapone]]
+| '''2''' [(1)Ender Ghast, (1)Enderman]
+|-
+| [[Gona89]]
+| '''2''' [(2)Ender Ghast]
+|-
+| [[Felipez360]]
+| '''2''' [(1)Caída, (1)Araña]
+|-
+| [[Th3Antonio]]
+| '''1''' [(1)Ender Ghast]
+|-
+| [[MrCarlosNoob]]
+| '''1''' [(1)Silverfish de la Muerte]
+|-
+| [[Paracetamor]]
+| '''1''' [(1)Magmacube]
+|-
+| [[Folagor03|Folagor]]
+| '''1''' [(1)Ender Ghast]
+|-
+| [[FrigoAdri]]
+| '''1''' [(1)Ghast Demoníaco]
+|-
+| [[Outconsumer]]
+| '''1''' [(1)Pollo]
+|-
+| [[AlexElCapo]]
+| '''1''' [(1)Caída]
+|-
+| [[Tonacho]]
+| '''1''' [(1)Giga Slime]
+|-
+| [[Zeling]]
+| '''1''' [(1)Giga Magmacube]
+|-
+| [[RubikYT]]
+| '''1''' [(1)Araña de Cueva]
+|-
+| [[Ander]]
+| '''1''' [(1)Araña]
+|}
+
+=== Mensajes de Muerte: ===
+{| class="wikitable"
+!Jugador
+!Mensaje de Muerte
+|-
+| [[Alvaro845]]
+| '''Null'''
+|-
+| [[TheGamerMaldito]]
+| '''Null'''
+|-
+| [[Cecililla Juega|Cecililla]]
+| '''Null'''
+|-
+| [[Kaumaru102|Kaumaru]]
+| ''Has sido deleteado,titi''
+|-
+| [[Felipez360]]
+| ''Su estado es:muerto''
+|-
+| [[Ibai]]
+| ''Llano esta en el server,ebay''
+|-
+| [[ReventXzz]]
+| ''Partida equivalente a un AFK en el LoL''
+|-
+| [[AkaWonder]]
+| ''De noob a doble noob''
+|-
+| [[Ander]]
+| ''No es cortés irse antes de tiempo''
+|-
+| [[Lilicross]]
+| '''Null'''
+|-
+| [[RubikYT]]
+| ''Muere en el PvE otra vez''
+|-
+| [[Zeling]]
+| ''Ahora por fin descansa en paz''
+|-
+| [[Tonacho]]
+| ''Le han puesto mirando a cuenca''
+|-
+| [[Perxitaa]]
+| '''Null'''
+|-
+| [[AlexElCapo]]
+| '''Null'''
+|-
+| [[Outconsumer]]
+| ''Se la han colado por el aro''
+|-
+| [[RanguGamer]]
+| ''Comer niños no le confirió la vida eterna''
+|-
+| [[FrigoAdri]]
+| ''Se ha quedado congelado''
+|-
+| [[Folagor03]]
+| ''Failagor a partir de ahora''
+|-
+| [[Paracetamor]]
+| ''Donde está el paracetamol?''
+|-
+| [[Gona89]]
+| ''Verdaderamente Lamentable''
+|-
+| [[MrCarlosNoob]]
+| ''Por esto se esclavizo por 18 horas''
+|-
+| [[Mikecrack]]
+| ''El diamantito le sirvió de poco''
+|-
+| [[BarbeQ]]
+|'''Null'''
+|-
+| [[Cibergun]]
+| ''Ahora por fin descansa en paz''
+|-
+| [[MYM ALK4PON3]]
+| ''MYM: Malo Y Muerto''
+|-
+| [[Lakshart Nia]]
+| ''Dice nyasu pero no tiene 7 vidas''
+|-
+| [[Hardyluski]]
+| ''Más bien EZyluski''
+|-
+| [[Th3Antonio]]
+| '''Null'''
+|-
+| [[CooLifeGame]]
+| '''Null'''
+|-
+| [[BriiHD|ElBrean]]
+| ''Ahora por fin descansa en paz''
+|-
+| [[ElRichMC]]
+| ''Eso no ha sido muy ey ey ey de tu parte''
+|-
+| [[EsVandal]]
+| ''Has sido promocionado al rango boomer''
+|-
+| [[Kakytron]]
+| ''Ahora por fin descansa en paz''
+|-
+| [[Crisgreen]]
+| ''Mucho pony, poco swag''
+|-
+| [[Shadoune666]]
+| ''Oui oui la baguette est bien mort''
+|-
+| [[KillerCreeper55]]
+| ''Más conocido como el jugador permabaneado''
+|-
+| [[iLuh|Luh]]
+| ''HDluh, Codigo Luh-XD en el cementerio del server''
+|-
+| [[OmniRich]]
+| ''Ahora por fin descansa en paz''
+|-
+| [[KernelFreeze]]
+| ''Admitió que era tierno''
+|}
+
+=== IronMan de muerte: ===
+{| class="wikitable"
+! Jugador
+! Tiempo sin utilizar tótem o morir
+|-
+| [[iLuh|Luh]]
+| 60 días
+|}
+
+===Primer Nether, Primer End, Primer The Beginning===
+{| class="wikitable"
+!Dimensión
+!Jugador
+|-
+|'''Nether'''
+|'''[[Shadoune666]]'''
+|-
+|'''End'''
+|[[ElRichMC]]
+|-
+|'''The Beginning'''
+|'''[[Shadoune666]]'''
+|}
+
+=== Equipos Originales ===
+{| class="wikitable"
+!Lugar
+!Nombre
+!Jugadores
+|-
+|'''1º'''
+|Imperio 31
+|
+*[[Shadoune666]]
+*[[Crisgreen]]
+*[[RubikYT]]
+|-
+|2º
+|<center>-
+|
+*[[BriiHD]]
+*[[AlexElCapo]]
+*[[Felipez360]]
+|-
+|3º
+|<center>-
+|
+*[[CooLifeGame]]
+*[[Th3Antonio]]
+*[[Zeling]]
+|-
+|4º
+|<center>Mikardy
+|
+*[[Hardyluski]]
+*[[Mikecrack]]
+|-
+|5º
+|<center>-
+|
+*[[Cibergun]]
+*[[Cecililla Juega|Cecililla]]
+|-
+|6º
+|<center>G2
+|
+*[[BarbeQ]]
+*[[Ander]]
+*[[ReventXzz]]
+*[[Ibai]]
+|-
+|7º
+|<center>-
+|
+*[[Paracetamor]]
+*[[Outconsumer]]
+|}
+
+=== Equipos Temporales ===
+{| class="wikitable"
+!Lugar
+!Jugadores
+|-
+|'''1º'''
+|
+*[[iLuh|Luh]]
+*[[KillerCreeper55|KillerCreeper]]
+|-
+|2º
+|
+*[[Shadoune666]]
+*[[Crisgreen]]
+|-
+|3º
+|
+*[[Kakytron]]
+*[[EsVandal]]
+|-
+|4º
+|
+*[[KillerCreeper55|KillerCreeper]]
+*[[ElRichMC]]
+|-
+|5º
+|
+*[[iLuh|Luh]]
+*[[BriiHD|ElBrean]]
+|-
+|6º
+|
+*[[iLuh|Luh]]
+*[[Hardyluski]]
+|}
+
+===Duración de la Edición===
+{| class="wikitable"
+!Edición
+!Duración
+|-
+|'''Permadeath'''
+|60 días, 6 horas, 21 minutos y 33 segundos
+|}
+
+===Valoración total por jugador [porcentaje sobrevivido/participaciones]===
+{| class="wikitable"
+!Lugar
+!Jugador
+!Calculo
+!Valoración
+|-
+|1°
+|[[iLuh|'''Luh''']]
+|55,043%/1 participación
+|'''55,043'''
+|-
+|2°
+|[[KillerCreeper_55]]
+|55,039%/1 participación
+|'''55,039'''
+|-
+|3°
+|[[Shadoune666]]
+|54,844%/1 participación
+|'''54,844'''
+|-
+|4°
+|[[Crisgreen]]
+|54,841%/1 participación
+|'''54,841'''
+|-
+|5°
+|[[Kakytron]]
+|54,81%/1 participación
+|'''54,82'''
+|-
+|6°
+|[[EsVandal]]
+|53,9%/1 participación
+|'''54,2'''
+|-
+|7°
+|[[ElRichMC]]
+|51%/1 participación
+|'''51,3'''
+|-
+|8°
+|
+[[BriiHD]]
+|45,1%/1 participación
+|'''45,4'''
+|-
+|9°
+|[[CooLifeGame]]
+|45,1%/1 participación
+|'''45,1'''
+|-
+|10°
+|[[Th3Antonio]]
+|45,1%/1 participación
+|'''45,1'''
+|-
+|11°
+|[[Hardyluski]]
+|40,1%/1 participación
+|'''40,1'''
+|-
+|12°
+|[[Lakshart Nia]]
+|34,8%/1 participación
+|'''34,8'''
+|-
+|13°
+|[[MYM ALK4PON3|Alkapone]]
+|34,3%/1 participación
+|'''34,3'''
+|-
+|14°
+|[[Cibergun]]
+|32,8%/1 participación
+|'''33'''
+|-
+|15°
+|
+[[BarbeQ]]
+|32,1%/1 participación
+|'''32,3'''
+|-
+|16°
+|[[Mikecrack]]
+|32%/1 participación
+|'''32,2'''
+|-
+|17°
+|[[MrCarlosNoob]]
+|31,12%/1 participación
+|'''31,12'''
+|-
+| 18°
+|
+[[Gona89]]
+|30,11%/1 participación
+|'''30,11'''
+|-
+|19°
+|[[Paracetamor]]
+|29,428%/1 participación
+|'''29,428'''
+|-
+|20°
+|[[Folagor03]]
+|29,425%/1 participación
+|'''29,425'''
+|-
+|21°
+|[[FrigoAdri]]
+|27,5%/1 participación
+|'''27,5'''
+|-
+|22°
+|[[RanguGamer]]
+|27,46%/1 participación
+|'''27,46'''
+|-
+|23°
+|[[OutConsumer]]
+|27,3%/1 participación
+|'''27,3'''
+|-
+|24°
+|[[AlexElCapo]]
+|26,8%/1 participación
+|'''26,8'''
+|-
+|25°
+|[[Perxitaa]]
+|26,8%/1 participación
+|'''26,8'''
+|-
+|26°
+|[[Tonacho]]
+|23,7%/1 participación
+|'''23,7'''
+|-
+|27°
+|
+[[Zeling]]
+|23,2%/1 participación
+|'''23,2'''
+|-
+| 28°
+|[[RubikYT]]
+|22,9%/1 participación
+|'''22,9'''
+|-
+|29°
+|[[Lilicross]]
+|22,8%/1 participación
+|'''22,8'''
+|-
+|30°
+|[[Ander]]
+|16,7%/1 participación
+|'''16,7'''
+|-
+|31°
+|[[AkaWonder]]
+|10,4%/1 participación
+|'''10,4'''
+|-
+|32°
+|[[ReventXzz]]
+|10,078%/1 participación
+|'''10,078'''
+|-
+|33°
+|[[Ibai]]
+|10,076%/1 participación
+|'''10,076'''
+|-
+|34°
+|[[Felipez360]]
+|9,3%/1 participación
+|'''9,3'''
+|-
+|35°
+|[[Kaumaru102|Kaumaru]]
+|9,1%/1 participación
+|'''9,1'''
+|-
+|36°
+|[[Cecililla Juega|Cecililla]]
+| 0,2%/1 participación
+|'''0,2'''
+|-
+|37°
+|[[TheGamerMaldito]]
+|0,09%/1 participación
+|'''0,09'''
+|-
+|38°
+|[[Alvaro845]]
+|0,08%/1 participación
+|'''0,08'''
+|}
+
+== Trivia ==
+*El Creeper es el enemigo que más jugadores asesino, con 8 en total
+*4 jugadores murieron por errores técnicos: '''Kaumaru''' (Bug de Iluminación), '''MrCarlosNoob''' (Mal entendido fuera del juego), '''Paracetamor''' (Error de generación de mundo), '''Kakytron''' (Error de generación de mundo). 2 de ellos fueron revividos posteriormente: '''MrcarlosNoob''' y '''Kakytron'''
+*3 jugadores tienen una valoración menor a 1, por no haber sobrevivido el primer día.
+*Los 7 jugadores que llegaron a '''The Beginning''' participaron en EliteCraft, 4 participaron en UHC España y 1 en UHC Latam.
+*'''Luh''' además de ser el jugador que más sobrevivió en Permadeath, también es el que más tiempo duro para utilizar un tótem.
+*ElRichMC fue el único jugador en morir en TheBeginning
+*Shadoune fue uno de los últimos en morir, pero fue el primer jugador en utilizar tótem
+
+[[Categoría:Ediciones]]

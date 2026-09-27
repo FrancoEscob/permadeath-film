@@ -1,0 +1,61 @@
+{{Infobox Enemigos
+|title1=Gólems de Hierro
+|image1=[[Archivo:Golem de hierro.gif]]
+|puntos_de_salud= '''100''' [[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]]
+|ataque= '''11 [[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Half Heart.png]] - 31''' [[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Half Heart.png]]
+|recompensa= 
+<u>Normal:</u>
+[[Archivo:Rosa.png|15px]] '''Rosa'''
+<br>[[Archivo:Lingote de hierro.png|15px]] '''Lingote de Hierro'''
+<br><u>Día 20:</u>
+<br>[[Archivo:Rosa.png|15px]] '''Eliminado'''
+<br>[[Archivo:Lingote de hierro.png|15px]] '''Eliminado'''
+|aparece_en:=
+*Puestos de Pillagers
+*Aldeas
+*Cualquier lugar si un jugador lo invoca
+|día_de_aparición= Día 30
+|jugadores_asesinados= '''0'''
+|tótems_utilizados= '''1'''}}Los '''Gólems de Hierro''' son un mob neutral proveniente de Minecraft, y al ser originario de este, estuvo en [[Permadeath]] desde el día 0.
+
+== Cambios ==
+<u>'''Día 20'''</u>
+* Todos los <span style=color:red>drops</span> de los Iron Golems, <span style=color:red>Eliminados</span>.
+
+== Desarrollo ==
+*<span style=color:red><u>'''Día 0 - Día 20'''</u></span>
+Los Gólems de Hierro son un mob neutral, por lo tanto no deberían causar un gran problema, ya que deberían ayudar al jugador.
+Lamentablemente, [[Shadoune666]] no lo vio de esta misma manera. Este jugador bastante experimentado en el juego, estaba preparado sus aldeanos para que le puedan ofrecer tradeos necesarios para avanzar rápidamente en recursos, como sabemos una gran cantidad de aldeanos pueden spawnear Gólems de Hierro, obstaculizando una granja o puesto de aldeanos, y este fue el caso. '''Shadoune''' decide eliminar uno de estos Gólems de Hierro, atacándolo con una espada de diamante, provocando que este mob neutral se vuelva hostil contra él, Shadoune sabe esto y se coloca justo encima de él, pero su error fue utilizar grava, cayendo estrepitosamente sufriendo muchísimo daño de enemigo, por fortuna este fue el primer jugador en conseguir una mansión y ya contaba con tótems de la resurrección, aguantando el tiempo suficiente como para derrotarlo. Este jugador sin importar ser muy experimentado, fue el primero en perder un tótem.
+
+Este no es el único roce que tuvo '''Shadoune666''' con estos mobs, solo faltaron unos pocos días para que volvieran a spawnear gólems de hierro en el mismo sitio, pero ahora con ayuda de [[MrCarlosNoob]] y [[Crisgreen]] pudieron hacer frente a la gran cantidad de estos mobs. Aun así fue una gran batalla, y Shadoune quedo con poca vida nuevamente.
+
+Después de estos acontecimientos, la participación de los Gólems de Hierro no fue muy relevante, a menos que se utilizaran para granjas.
+
+*<span style=color:red><u>'''Día 20 - Día 30'''</u></span>
+Llega un cambio de dificultad, ahora los Gólems de hierro no cuentan con ningún drop, con suerte [[ElRichMC]] aviso con anterioridad desde días atrás, sobre este cambio y que acumularan todos los recursos necesarios de este mob.
+A partir de este momento cualquier granja de hierro quedo completamente inútil.
+
+== Estadísticas ==
+
+=== Cantidad de muertes ===
+{| class="wikitable"
+! Lugar
+! Cantidad de Muertes
+! Jugadores
+|-
+| <center>'''7º'''</center>
+| <center>'''0'''</center>
+|
+|}
+
+=== Cantidad de Tótems ===
+{| class="wikitable"
+! Cantidad de Tótems
+! Jugadores
+|-
+| <center>'''1'''</center>
+| 
+*[Día 4]:'''Shadoune666''' ha usado un tótem contra un '''Gólem de Hierro'''
+|}
+
+[[Categoría:Enemigos]]

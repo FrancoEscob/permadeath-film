@@ -1,0 +1,78 @@
+{{Infobox_Jugador
+|title1= AKAWonder
+|image1= [[Archivo:AKAWonder Youtube.jpg]]
+|nick_de_minecraft= AKAWonder
+|nombre_en_youtube= AKAWonder
+|nombre_en_twitch= AKAWonder
+|redes_sociales=
+[[Archivo:Youtube.png|35px|link=https://www.youtube.com/channel/UCSRhT_9Oto_MaLbOCO0Bo4Q]][[Archivo:Twitch.png|35px|link=https://www.twitch.tv/akawonder]][[Archivo:Twitter.png|35px|link=https://twitter.com/aka_wonder]]
+|suscriptores_en_youtube= +12.000
+|seguidores_en_twitch= +95.000
+|participaciones= 1 Edición
+|mejor_resultado= 31º lugar
+|muertes= Reducido en Cenizas por un Blaze
+|mensajes_de_muerte= ''"De noob a doble noob"''
+|row13=
+[[Archivo:¡COMIENZO DE LA AVENTURA! Dead = 🚫 I PermaDeath Minecraft ☠ -1|255px|center]]
+|row14=
+[[Archivo:¡COMIENZO DE LA AVENTURA! Dead = 🚫 I PermaDeath Minecraft ☠ -1|255px|center]]
+}}<span style="color:red">'''AKAWonder'''</span> o simplemente "AKA", fue uno de los participantes de Permadeath. Participando en la 1ª Edición de este Evento. Este personaje es conocido por haber participado en una de las series de [[ElRichMC]], '''''"De Noob a Pro 2"'''''.
+
+==Desempeño==
+
+<span style="color:red"><u>'''1ª Edición:'''</u></span>
+
+*<u>'''Día 0 - Día 10:'''</u>
+El Servidor de Permadeath abre sus puertas, '''AKAWonder''' comienza lento pero bastante seguro, esto debido a que era un jugador bastante novato en conocimientos sobre Minecraft. Sin embargo, en solo un día pudo conseguirse un Full Diamante Encantado gracias a lo aprendido en '''''"De Noob a Pro 2"'''''.
+Durante estos días logra armarse una gran base para soportar las intensas tormentas provocadas por el Death Train.
+Con ayuda de su audiencia, este jugador sigue progresando con el paso del tiempo, logrando conseguir un gran número de aldeanos para conseguir encantamientos como Protección IV. También pudo crear varias granjas de cultivo, y sorprendentemente una granja de Pesca AFK.
+Este jugador ya lo único que desconocía, eran los pasos para avanzar en el Nether. AKA aun no contaba con pociones, porque simplemente no sabía como realizarlas. Gracias a los jugadores [[iLuh|Luh]] y [[Lakshart Nia]] que se convirtieron en los tutores de AKA en el Nether, este logro aprender como conseguir Varas de Blazes y Verrugas, y cuales eran sus diferentes usos a la hora de crear pociones.
+AKA teniendo estos nuevos conocimientos, no podía contenerse con esta nueva herramienta, tenía que prepararse para cuando llegara el primer cambio de dificultad, esta travesía se hizo mas sencilla gracias a otros jugadores como [[Cibergun]], [[EsVandal|Vandal]] y [[Kakytron|Kaky]], y nuevamente por Luh y [[Lakshart Nia|Nia]].
+
+*<u>'''Día 10 - Día 12:'''</u>
+Llega el primer cambio de dificultad, las arañas son horriblemente poderosas, gracias a los diferentes efectos de poción que pueden llegar a conseguir. Estas arañas ya pudieron quitarle la vida a 3 jugadores, [[Kaumaru102|Kaumaru]], [[Felipez360]] y a [[ReventXzz]]. AKA no podía dejarse pisotear por este enemigo, por ello fue en busca de más pociones, con mucha más preparación, este jugador se acerca a la zona donde los jugadores consiguen sus Varas de Blazes, lamentablemente AKAWonder entra en una zona de mucho peligro para conseguir los recursos obtenidos, sin poder salir con facilidad. Su personaje sufre de graves quemaduras, por suerte este jugador traía consigo pociones de Resistencia al Fuego, pero estas no le sirvieron de mucho. Este jugador al ser tan novato, no sabía que para tomar una poción tenía que esperar un pequeño delay para poder conseguir sus efectos, al final este jugador murió por un error bastante técnico.
+Jugadores como [[ElRichMC]], Luh y Nia se arrepienten de no haberle enseñado correctamente como tomar una poción. ElRichMC por no habérselo enseñado en la seria de '''''"De Noob a Pro 2"''''', y Luh y Nia mientras enseñaban de donde se consiguen las Varas de Blazes.
+
+==Equipos==
+{| class="wikitable"
+!Edición
+!Equipo Original
+!Equipo Temporal
+|-
+|'''1ª Edición'''
+|<center>'''-'''<center>
+|<center>'''-'''<center>
+|}
+
+==Resultados==
+{| class="wikitable"
+!Edición
+!Lugar
+!Causa de Muerte
+|-
+|'''1ª Edición'''
+|31º
+|Blaze
+|}
+
+==Totéms Utilizados==
+{| class="wikitable"
+!Edición
+!Totéms Utilizados
+|-
+|'''1ª Edición'''
+|'''0'''
+|}
+
+==Valoración de Jugador (porcentaje sobrevivido/participaciones)==
+{| class="wikitable"
+!Lugar
+!Cálculo
+!Valoración
+|-
+|'''31º'''
+|10,4%/1 participación
+|'''10,4'''
+|}
+
+[[Categoría:Participantes]]

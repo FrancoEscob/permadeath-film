@@ -1,0 +1,22 @@
+== <big>[[Permadeath]]</big> ==
+<big>En Permadeath participaron un total de 38 jugadores hispanohablantes bastante diversos, sin importar que fueran experimentados en Minecraft o no. En este apartado veremos uno por uno cada participante con su desempeño en el servidor, y hasta veremos a aquellas personas que estuvieron presentes pero que no participaron directamente.</big>
+
+{| class="article-table article-table-selected" border="0" cellpadding="1" cellspacing="1" style="width: 50px;"
+|-
+! scope="col" style="text-align:center;"| [[Alvaro845]] [[Archivo:Alvaro845 Youtube Channel.jpg|thumb|100px|link=Alvaro845]]
+! scope="col" style="text-align:center;"| [[TheGamerMaldito|GamerMaldito]] [[Archivo:TheGamerMaldito Youtube.jpg|thumb|100px|link=TheGamermaldito]]
+! scope="col" style="text-align:center;"| [[Cecililla Juega|Cecililla]] [[Archivo:Cecililla Juega Youtube.jpg|thumb|100px|link=Cecililla Juega]]
+! scope="col" style="text-align:center;"| [[Kaumaru102|Kaumaru]] [[Archivo:Kaumaru102 Youtube.jpg|thumb|100px|link=Kaumaru102]]
+|-
+! scope="col" style="text-align:center;"| [[Felipez360|Felipez]] [[Archivo:Felipe y los Directos Youtube.jpg|thumb|100px|link=Felipez360]]
+! scope="col" style="text-align:center;"| [[Ibai]] [[Archivo:Ibai Youtube.jpg|thumb|100px|link=Ibai]]
+! scope="col" style="text-align:center;"| [[ReventXzz|Reven]] [[Archivo:Reven Youtube Channel.jpg|thumb|100px|link=ReventXzz]]
+! scope="col" style="text-align:center;"| [[AkaWonder]] [[Archivo:AKAWonder Youtube.jpg|thumb|100px|link=AkaWonder]]
+|-
+! scope="col" style="text-align:center;"| [[Ander]] [[Archivo:Ander Cortés Youtube.jpg|thumb|100px|link=Ander]]
+! scope="col" style="text-align:center;"| [[Lilicross|LiliCross]] [[Archivo:Lilicross Youtube.jpg|thumb|100px|link=Lilicross]]
+! scope="col" style="text-align:center;"| [[RubikYT|Rubik]] [[Archivo:Rusbi Youtube.jpg|thumb|100px|link=RubikYT]]
+! scope="col" style="text-align:center;"| [[ElRichMC]] [[Archivo:ElRichMC Youtube.jpg|thumb|100px|link=ElRichMC]]
+|-
+! scope="col" style="text-align:center;"| [[OmniRich]] [[Archivo:OmiRich?.gif|thumb|100px|link=OmniRich]]
+|}

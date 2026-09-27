@@ -1,0 +1,10 @@
+import puppeteer from 'puppeteer-core';
+const b = await puppeteer.launch({executablePath:'/usr/bin/chromium', headless:true, args:['--allow-file-access-from-files','--enable-gpu','--ignore-gpu-blocklist']});
+const p = await b.newPage();
+p.on('console', m => { if (m.type()!=='log') console.log('[page]', m.text()); });
+p.on('pageerror', e => console.log('[pageerror]', e.message));
+await p.goto('file:///home/franescob/Gaming/film/index.html?render=1');
+await p.waitForFunction('window.FILM && window.FILM.ready === true', {timeout: 180000});
+const info = await p.evaluate(() => ({ dur: FILM.duration, frames: FILM.frames, scenes: FILM.scenes.map(s => [s.id, +s.start.toFixed(2), +s.dur.toFixed(2)]), missing: window.MISSING_SKINS }));
+console.log(JSON.stringify(info));
+await b.close();

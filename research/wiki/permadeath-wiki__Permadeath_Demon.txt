@@ -1,0 +1,15 @@
+{{Infobox Enemigos
+|title1= Permadeath Demon
+|image1= [[Archivo:Permadeath Demon.gif]]
+|puntos_de_salud= '''≈1600 (800x[[Archivo:9px-Heart.png]])'''
+|ataque= '''Indefinido'''
+|explosión= '''85''' [[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]]
+|recompensa=[[Archivo:End.png]] '''End City Abierto'''
+|aparece_en:= '''End'''
+|día_de_aparición= Día 30
+|jugadores_asesinados= 1 (FrigoAdri)
+|tótems_utilizados= 6 Totems
+-EsVandal (1 Totem)
+-Mikecrack (1 Totem)
+-JackyMaster (2 Totems)
+-Hardyluski (2 Totems)|regeneración=Por EndCrystals|Fases=2}}

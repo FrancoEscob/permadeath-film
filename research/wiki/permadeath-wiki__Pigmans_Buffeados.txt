@@ -1,0 +1,17 @@
+{{Infobox Enemigos
+|title1=Pigmans Buffeados
+|image1=[[Archivo:Diamond Pigman.png]]
+|puntos_de_salud= '''20''' [[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]]
+|defensa= '''22''' [[Archivo:Armor.png]][[Archivo:Armor.png]][[Archivo:Armor.png]][[Archivo:Armor.png]][[Archivo:Armor.png]][[Archivo:Armor.png]][[Archivo:Armor.png]][[Archivo:Armor.png]][[Archivo:Armor.png]][[Archivo:Armor.png]][[Archivo:Armor.png]]
+|ataque= '''12''' [[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]]
+|recompensa=
+<u>día 20:</u>
+[[Archivo:Carne podrida.png|15px]] '''Eliminado'''
+<br>[[Archivo:Pepita de Oro.png|15px]] '''Eliminado'''
+<br>[[Archivo:Lingote de Oro.png|15px]] '''Eliminado'''
+<br>[[Archivo:Espada de oro.png|15px]] '''Eliminado'''
+|aparece_en:= '''Nether'''
+|día_de_aparición= '''día 30'''
+|jugadores_asesinados=0
+|tótems_utilizados=0}}
+[[Categoría:Enemigos]]

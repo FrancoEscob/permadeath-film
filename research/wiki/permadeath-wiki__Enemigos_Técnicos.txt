@@ -1,0 +1,37 @@
+== <big><span style=color:red>'''Minecraft'''</span></big> ==
+<big>En <span style=color:red>Minecraft</span>, uno no solo puede morir por culpa de los mobs, existen otras formas de sufrir daños que te pueden llevar a la muerte. Entre ellos, los que han tenido más protagonismo en [[Permadeath]], fueron:</big>
+
+=== <big><u>'''Día 0'''</u></big> ===
+{| class="article-table article-table-selected" border="0" cellpadding="1" cellspacing="1" style="width: 50px;"
+|-
+! scope="col" style="text-align:center;"| [[Caída]] [[Archivo:Caída.png|thumb|100px|link=Caída]]
+! scope="col" style="text-align:center;"| [[Lava]] [[Archivo:Lava.gif|thumb|100px|link=Lava]]
+|}
+
+=== <big><u>'''Día 30'''</u></big> ===
+{| class="article-table article-table-selected" border="0" cellpadding="1" cellspacing="1" style="width: 50px;"
+|-
+! scope="col" style="text-align:center;"| [[Caída al Vacío]] [[Archivo:Vacío.gif|thumb|100px|link=Caída al Vacío]]
+|}
+
+== <big>'''[[Permadeath]]'''</big> ==
+<big>En [[Permadeath]], hay enemigos entre las sombras no representados como mobs, si estamos hablando de aquellos obstáculos técnicos que te pueden llevar a la muerte en el servidor. Entre ellos:
+
+=== <big><u>'''Día 0'''</u></big> ===
+{| class="article-table article-table-selected" border="0" cellpadding="1" cellspacing="1" style="width: 50px;"
+|-
+! scope="col" style="text-align:center;"| [[AFK]] [[Archivo:Away From Keyboard.gif|thumb|100px|link=AFK]]
+|}
+
+=== <big><u>'''Día 50'''</u></big> ===
+{| class="article-table article-table-selected" border="0" cellpadding="1" cellspacing="1" style="width: 50px;"
+|-
+! scope="col" style="text-align:center;"| [[Agua Buffeada]] [[Archivo:Agua.png|thumb|100px|link=Agua Buffeada]]
+! scope="col" style="text-align:center;"| [[Picar un Bloque|Bloque]] [[Archivo:Bloque.gif|thumb|100px|link=Picar un Bloque]]
+|}
+
+=== <big><u>'''Día 60'''</u></big> ===
+{| class="article-table article-table-selected" border="0" cellpadding="1" cellspacing="1" style="width: 50px;"
+|-
+! scope="col" style="text-align:center;"| [[Temporizador]] [[Archivo:Temporizador.png|thumb|400px|link=Temporizador]]
+|}

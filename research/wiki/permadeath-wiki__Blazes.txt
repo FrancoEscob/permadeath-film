@@ -1,0 +1,56 @@
+{{Infobox Enemigos
+|title1=Blazes
+|image1=[[Archivo:Blazes.gif]]
+|puntos_de_salud= '''20''' [[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]]
+|ataque= <u>Contacto:</u> '''9'''
+[[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Half Heart.png]]
+<br><u>Bola de Fuego:</u> '''5'''
+<br>[[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Half Heart.png]]
+|daño_ígneo= '''4''' [[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]]
+|recompensa= 
+<u>Normal:</u>
+[[Archivo:Vara de Llama.png|20px]] '''Vara de Blaze'''
+<br><u>Día 20:</u>
+<br>[[Archivo:Vara de Llama.png|20px]] '''Eliminado'''
+|aparece_en:= Fortalezas del Nether
+|día_de_aparición= Día 0
+|jugadores_asesinados= '''1'''
+|tótems_utilizados= '''0'''}}Los '''Blazes''' son un mob hóstil proveniente de Minecraft, y al ser originario de este, estuvo en [[Permadeath]] desde el día 0.
+
+== Cambios ==
+<u>'''Día 20'''</u>
+*Todos los <span style=color:red>drops</span> de los Blazes, <span style=color:red>Eliminados</span>.
+
+== Desarrollo ==
+*<span style=color:red><u>'''Día 0 - Día 20'''</u></span>
+Estos enemigos originarios del nether, son la fuente de cualquier poción que se quiera realizar junto a las verrugas del nether. Por ello los jugadores de [[Permadeath]], buscaron diferentes formas para poder farmearlos con facilidad con el fin de prepararse para los cambios de dificultad. Para esto los participantes buscaron Fortalezas del Nether y modificaron las zonas donde spawnean estos enemigos convirtiéndolas en zonas bastante seguras.
+Lamentablemente el jugador [[AkaWonder]] no contaba con los conocimientos necesarios como para poder tomarse exitosamente un poción de resistencia contra el fuego, por ello al momento de entrar en una de estas zonas, lo único que le deparo fue la misma muerte. Como se ha mencionado, esta muerte fue completamente técnica, fuera de este acontecimiento los enemigos no mostraron gran dificultad.
+
+*<span style=color:red><u>'''Día 20 - Día 30'''</u></span>
+Llega un cambio de dificultad que elimina los drops de mobs bastante importantes, entre ellos tenemos los '''Blazes'''. Con suerte el organizador [[ElRichMC]], presente este cambio con anterioridad, específicamente 5 días antes, a cada uno de los jugadores. Por ello el plazo entre el día 15 y día 20, una gran cantidad de jugadores se concentro en farmear los drops de estos enemigos de forma masiva.
+Gracias al ultimo cambio de dificultad los puestos artificiales de estos enemigos quedaron desolados por su inutilidad.
+
+== Estadísticas ==
+
+=== Cantidad de muertes ===
+{| class="wikitable"
+! Lugar
+! Cantidad de Muertes
+! Jugadores
+|-
+| <center>'''6º'''</center>
+| <center>'''1'''</center>
+|
+*[Día 12]:'''AkaWonder''' fue asesinado por un '''Blaze'''
+|}
+
+=== Cantidad de Tótems ===
+{| class="wikitable"
+! Cantidad de Tótems
+! Jugadores
+|-
+| <center>'''0'''</center>
+| '''null'''
+|}
+
+[[Categoría:Enemigos]]

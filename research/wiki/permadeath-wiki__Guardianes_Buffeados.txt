@@ -1,0 +1,15 @@
+{{Infobox Enemigos
+|title1=Guardianes Buffeados
+|image1=[[Archivo:Guardian.gif]]
+|puntos_de_salud= '''30''' [[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]]
+|resistencia= <u>'''día 40:'''</u> '''10''' [[Archivo:Armor.png]][[Archivo:Armor.png]][[Archivo:Armor.png]][[Archivo:Armor.png]][[Archivo:Armor.png]]
+|ataque= '''9''' [[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Half Heart.png]]
+|recompensa= <u>'''día 20:</u> 
+[[Archivo:Pescado crudo.png|20px]] '''Eliminado'''
+<br>[[Archivo:Cristales de prismarina.png|20px]] '''Eliminado'''
+<br>[[Archivo:Fragmento de prismarina.png|20px]] '''Eliminado'''
+|aparece_en:= Cuerpos de Agua
+|día_de_aparición= '''día 30'''
+|jugadores_asesinados=0
+|tótems_utilizados=1}}
+[[Categoría:Enemigos]]

@@ -1,0 +1,80 @@
+{{Infobox Enemigos
+|title1= Esqueleto Guerrero
+|image1= [[Archivo:Esqueleto Guerrero.png]]
+|puntos_de_salud= 
+<u>Normal:</u> '''20''' [[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]]
+<u>Día 30:</u> '''40''' [[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]]
+<br><u>Día 50:</u> '''100''' [[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]]
+|defensa= 
+<u>Normal:</u> '''20''' [[Archivo:Armor.png]][[Archivo:Armor.png]][[Archivo:Armor.png]][[Archivo:Armor.png]][[Archivo:Armor.png]][[Archivo:Armor.png]][[Archivo:Armor.png]][[Archivo:Armor.png]][[Archivo:Armor.png]][[Archivo:Armor.png]]
+<u>Día 30:</u> '''24''' [[Archivo:Armor.png]][[Archivo:Armor.png]][[Archivo:Armor.png]][[Archivo:Armor.png]][[Archivo:Armor.png]][[Archivo:Armor.png]][[Archivo:Armor.png]][[Archivo:Armor.png]][[Archivo:Armor.png]][[Archivo:Armor.png]]
+|ataque= 
+<u>Normal:</u> '''1''' [[Archivo:9px-Half Heart.png]] - '''5''' [[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Half Heart.png]]
+<u>Día 30:</u> '''7''' [[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Half Heart.png]] - '''11''' [[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Half Heart.png]]
+|aparece_en:= Cualquier Bioma
+|día_de_aparición= Día 20
+|jugadores_asesinados= 0
+|tótems_utilizados= 0}}
+
+Los '''Esqueletos Guerreros''' son una de las 5 clases de Esqueletos de Clase, que pasan a ser una modificación de los '''Esqueletos''', que se incorporó en [[Permadeath]] a partir del día 20.
+
+== Cambios ==
+<u>'''Día 20'''</u>
+*Todas las <span style=color:red>arañas</span> aparecen con un <span style=color:red>esqueleto</span> encima de <span style=color:red>1</span> a <span style=color:red>5</span> clases:<br><span style=color:cyan><u>Esqueleto Guerrero:</u>
+**<span style=color:cyan>Full Diamante
+**<span style=color:cyan>Sin nada en especial
+**<span style=color:cyan>20 puntos de salud (<span style=color:white>10x[[Archivo:9px-Heart.png|12px]]</span>)
+
+<u>'''Día 30'''</u>
+*<span style=color:cyan><u>Esqueleto Guerrero:</u>
+**<span style=color:cyan>Full Protection IV
+**<span style=color:cyan>Full Diamante
+**<span style=color:cyan>Sus puntos de salud aumentan a 40 (<span style=color:white>20x[[Archivo:9px-Heart.png|12px]]</span>)
+*Todos los <span style=color:red>Esqueletos</span> ahora son <span style=color:cyan>Esqueletos con CLASE</span> y llevan encima en la mano izquierda flechas de <span style=color:red>Daño II</span>.
+
+<u>'''Día 40'''</u>
+*Los <span style=color:red>Phantoms</span> llevan ahora encima un <span style=color:red>Esqueleto de Clase</span>.
+
+<u>'''Día 50'''</u>
+*<br><span style=color:cyan><u>Esqueleto Guerrero:</u>
+**<span style=color:cyan>Full Protection IV
+**<span style=color:cyan>Full Diamante
+**<span style=color:cyan>Sus puntos de salud aumentan a 100 (<span style=color:white>50x[[Archivo:9px-Heart.png|12px]]</span>)
+
+== Desarrollo ==
+*<span style=color:red><u>'''Día 20 - Día 30'''</span></u>
+Debutan los esqueletos de clase, aunque por ahora solamente como spider jockeys. La mayoría de veces estos enemigos junto a las demás clases de esqueleto se soltaban de la araña que tenían, provocando que tuvieran la misma inteligencia artificial del esqueleto y fueran muy peligrosos.
+Pero los jugadores se adaptaron a ellos rápidamente.
+
+*<span style=color:red><u>'''Día 30 - Día 40'''</span></u>
+En el evento de la búsqueda, estos esqueletos fueron un enemigo muy fastidioso y feroz, estos equeletos al tener Full Protection 4 (Anula el 96% del daño recibido), eran casi imposibles de derrotar y más cuando su cantidad de vida también aumento, oto cambio fue que estos al utilizar flechas con daño II, se ataque aumentaba, sin importar la armadura. Estos esqueletos no provocaron más problemas posteriormente.
+
+*<span style=color:red><u>'''Día 40 - Día 50'''</span></u>
+Ahora existían los Phantoms Jockeys, aunque no duraran mucho en esta forma, esta combinación era muy dificultosa para los jugadores, ya que los esqueletos podían atacar ahora de forma área, obligando al jugador utilizar flechas o arriesgarse para golpearlos con la espada cuando bajaran.
+
+*<span style=color:red><u>'''Día 50 - Día 60'''</span></u>
+Nueva actualización de esqueletos, y los puntos de salud del esqueleto guerrero son iguales a la de un Ravager común, cada vez estos enemigos se vuelven más dificiles de derrotar, simplemente por la cantidad de daño necesario para tan siquiera llegar a la mitad de su vida.
+Estos enemigos no destacaron tanto, por la nueva dimensión The Beginning.
+
+== Estadísticas ==
+
+=== Cantidad de Muertes: ===
+{| class ="wikitable"
+!Lugar
+!Cantidad de Muertes
+!Jugadores
+|-
+| <center>'''6º'''</center>
+| <center>'''0'''</center>
+| '''null'''
+|}
+
+=== Cantidad de Tótems: ===
+{| class ="wikitable"
+!Cantidad de Tótems
+!Jugadores
+|-
+| <center>'''0'''</center>
+| '''null'''
+|}
+[[Categoría:Enemigos]]

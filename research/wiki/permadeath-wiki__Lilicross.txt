@@ -1,0 +1,77 @@
+{{Infobox Jugador
+|title1= Lilicross
+|image1= [[File:Lilicross Youtube.jpg|thumb|180px]]
+|nick_de_minecraft= LiliCross
+|nombre_en_youtube= Lili Cross
+|nombre_en_twitch= LiliCross
+|redes_sociales= 
+[[Archivo:Youtube.png|35px|link=https://www.youtube.com/user/LiliCrossing1]][[Archivo:Twitch.png|35px|link=https://www.twitch.tv/lilicross]][[Archivo:Twitter.png|35px|link=https://twitter.com/LiliCross_]]
+|suscriptores_en_youtube= +1.200.000
+|seguidores_en_twitch= +60.000
+|participaciones= 1 Edición
+|mejor_resultado= 29º lugar
+|muertes= AFK
+|mensajes_de_muerte= '''Null'''
+|row13=
+[[Archivo:🔴 Permadeath en directo|255px|center]]
+|row14=
+[[Archivo:🔴 Permadeath en directo|255px|center]]}}<span style="color:red">'''LiliCross'''</span> fue una de las participantes de Permadeath. Participando en la 1ª Edición de este Evento.
+
+==Desempeño==
+<span style="color:red"><u>'''1ª Edición:'''</u></span>
+
+*<u>'''Día 0 - Día 10:'''</u>
+
+Inicia las aventuras de '''Lili''' en Permadeath. En el mismo día 0, vemos como se relaciona con su gran compañero [[ILuh|Luh]] en donde van hablando sobre sus tempranos progresos dentro del servidor y es donde dentro de un rato es contactada por [[Hardyluski]] y [[Mikecrack]], quienes comentan que desde un principio pensaban incluir a '''Lili''' en su equipo, pero que por torpeza se les había olvidado. De todas formas Hardy y Mike, que conformaban el equipo <span style="color:yellow">"Mikardy"</span>, decidieron acompañarla en busca de recursos, aprovechando que las reglas de los equipos aun eran bastante flojas.
+
+Lili no tiene problemas para sobrevivir los siguientes días, y mas teniendo un equipo que la respalde, al punto de compartir su propia base.
+
+*<u>'''Día 10 - Día 20:'''</u>
+
+Se introducen nuevos cambios que cobrarían la vida de bastante jugadores dentro del servidor, la introducción de Arañas con efectos dentro del servidor capaces de llevarse a cualquiera con unos cuantos toques. '''Lili''' pudo aguantar hasta el día 20, sin embargo pudimos observar como cada vez se iba conectaba menos hasta el punto de ya no conectarse más.
+
+*<u>'''Día 20 - Día 25:'''</u>
+
+Llegan los temidos cambios de dificultad del día 20, pero lamentablemente '''Lili''' ya no se podía conectar más dentro del server, la razón es bastante triste para muchos, la profesión de esta jugadora en la vida real es de enfermera, y durante esos momentos estaba comenzando el apogeo del virus conocido como Covid-19, toda esta situación le restaba bastante tiempo, era un época de emergencia que requería al sistema de salud lo más pendiente posible. Por el poco tiempo libre libre que tenia '''Lili''' para seguir participando, prefirió contactarse con [[ElRichMC]] y solicitar su retiro por completo del server.
+
+Desde sus propias palabras, ella hubiese querido seguir jugando y divirtiéndose con sus amigos, sin embargo con la gran crisis sanitaria que se estaba presentando, prefirió poner primero su labor de enfermera y ayudar a personas que lo necesitaban.
+
+==Equipos==
+{| class="wikitable"
+!Edición
+!Equipo Original
+!Equipo Temporal
+|-
+|'''1ª Edición'''
+|<center>'''-'''<center>
+|<center>'''-'''<center>
+|}
+==Resultados==
+{| class="wikitable"
+!Edición
+!Lugar
+!Causa de Muerte
+|-
+|'''1ª Edición'''
+|29º
+|AFK
+|}
+==Totéms Utilizados==
+{| class="wikitable"
+!Edición
+!Totéms Utilizados
+|-
+|'''1ª Edición'''
+|'''0'''
+|}
+==Valoración de Jugador (porcentaje sobrevivido/participaciones)==
+{| class="wikitable"
+!Lugar
+!Cálculo
+!Valoración
+|-
+|'''29º'''
+|22,8%/1 participación
+|'''22,8'''
+|}
+[[Categoría:Participantes]]

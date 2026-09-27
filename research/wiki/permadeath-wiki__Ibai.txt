@@ -1,0 +1,73 @@
+{{Infobox_Jugador
+|title1= Ibai
+|image1= [[Archivo:Ibai Youtube.jpg]]
+|nick_de_minecraft= DONIBAILLANOS
+|nombre_en_youtube= Ibai
+|nombre_en_twitch= ibai
+|redes_sociales=
+[[Archivo:Youtube.png|35px|link=https://www.youtube.com/channel/UCaY_-ksFSQtTGk0y1HA_3YQ]][[Archivo:Twitch.png|35px|link=https://www.twitch.tv/ibai]][[Archivo:Twitter.png|35px|link=https://twitter.com/IbaiLlanos]]
+|suscriptores_en_youtube= +4.300.000
+|seguidores_en_twitch= +4.100.000
+|participaciones= 1 Edición
+|mejor_resultado= 33º lugar
+|muertes= Explosión de un Creeper
+|mensajes_de_muerte= ''"Llano estás en el server, Ebay"''
+|row13=
+[[Archivo:SI MUERO se ACABA LA PARTIDA - PERMADEATH con Ander y Reven|255px|center]]
+|row14=
+[[Archivo:SI MUERO se ACABA LA PARTIDA - PERMADEATH con Ander y Reven|255px|center]]
+}}<span style="color:red">'''Ibai Llanos'''</span> o simplemente "Ibai", fue uno de los participantes de Permadeath. Participando en la 1ª Edición de este Evento. Formaba parte del equipo de G2 junto a [[BarbeQ]], [[Ander]] y [[ReventXzz]].
+
+==Desempeño==
+
+<span style="color:red"><u>'''1ª Edición:'''</u></span>
+
+*<u>'''Día 0 - Día 10:'''</u>
+El servidor abre sus puertas, '''Ibai''' se encuentra en el equipo original mas grande que existe conformado solamente por integrantes de G2. Aunque fuera así, la mayoría eran bastante novatos, provocando que 2 jugadores no tuvieran un gran interés en el juego, entre ellos tenemos al mismo '''Ibai''' y a [[ReventXzz]]. Fueron jugadores bastante ausentes e '''Ibai''' solamente jugo un total de 1 hora y media dentro del servidor. El progreso del jugador fue ínfimo, sin embargo podemos destacar que pudieron alcanzar conseguir diamantes en el poco tiempo que participaron. En el transcurso de los demás días, esos 2 jugadores no estuvieron presentes. 
+
+*<u>'''Día 10 - Día 11:'''</u>
+Se introducen los nuevos cambios de dificultad, ahora las arañas tienen efectos bastante poderosos, pudiendo derrotar tanto a [[Kaumaru102|Kaumaru]], como al gran [[Felipez360|Felipez]]. Este ultimo hecho provoco que regresara aquel interes de lo que pasaba en el servidor tanto a '''Ibai''' como a ReventXzz, tenían que equiparse lo suficiente como para no morir por las arañas y para no ser baneados por AFK. Los jugadores empezaron el día 11 en malas condiciones en frente a los demás, por suerte [[Ander]] había dedicado un gran numero de horas al juego desde antes y los guió lo suficiente como para conseguir los primeros recursos. ReventXzz estaba minando e '''Ibai''' se le adelanta, pero comete el error de asustarse y desesperarse al momento de que ve a un Creeper, esto provoco que explotase y matara a '''Ibai''' en aquel momento. Los integrantes del equipo de G2 empezaron a sentir miedo.
+
+==Equipos==
+{| class="wikitable"
+!Edición
+!Equipo Original
+!Equipo Temporal
+|-
+|'''1ª Edición'''
+|<center>'''<u>G2:</u> <span style="color:red">Ibai</span>, [[BarbeQ]], [[Ander]] y [[ReventXzz]]'''<center>
+|<center>'''-'''<center>
+|}
+
+==Resultados==
+{| class="wikitable"
+!Edición
+!Lugar
+!Causa de Muerte
+|-
+|'''1ª Edición'''
+|33º
+|Creeper
+|}
+
+==Totéms Utilizados==
+{| class="wikitable"
+!Edición
+!Totéms Utilizados
+|-
+|'''1ª Edición'''
+|'''0'''
+|}
+
+==Valoración de Jugador (porcentaje sobrevivido/participaciones)==
+{| class="wikitable"
+!Lugar
+!Cálculo
+!Valoración
+|-
+|'''33º'''
+|10,076%/1 participación
+|'''10,076'''
+|}
+
+[[Categoría:Participantes]]

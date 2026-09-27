@@ -1,0 +1,72 @@
+{{Infobox_Jugador
+|title1= Cecililla
+|image1= [[Archivo:Cecililla Juega Youtube.jpg]]
+|nick_de_minecraft= Cecililla
+|nombre_en_youtube= Cecililla Juega
+|nombre_en_twitch= CeciliaJuega
+|redes_sociales=
+[[Archivo:Youtube.png|35px|link=https://www.youtube.com/channel/UCfXeNgLmj038dEBzdO6va1g]][[Archivo:Twitch.png|35px|link=https://www.twitch.tv/ceciliajuega]][[Archivo:Twitter.png|35px|link=https://twitter.com/CecilillaJuega]]
+|suscriptores_en_youtube= +180.000
+|seguidores_en_twitch= +90.000
+|participaciones= 1 Edición
+|mejor_resultado= 36º lugar
+|muertes= Explosión de un Creeper
+|mensajes_de_muerte= '''Null'''
+|row13=
+[[Archivo:PERMADEATH - SOBREVIVIRE EL PRIMER DIA? - EP 1|255px|center]]
+|row14=
+[[Archivo:PERMADEATH - LA RESPUESTA ES... NO!!! PERMABANEADA!! 💀 - EP 2|255px|center]]
+}}<span style="color:red">'''Cecililla Juega'''</span> o como la llaman sus amigos "Ceci", fue una de las participantes de Permadeath. Participando en la 1ª Edición de este Evento, siendo parte de un equipo original con [[Cibergun]]. Fue la tercera jugadora en morir en el servidor.
+
+
+
+==Desempeño==
+
+<span style="color:red"><u>'''1ª Edición:'''</u></span>
+*<u>'''Día 0:'''</u>
+El servidor abrió sus puertas, y por suerte Cecililla era una de las pocas personas que contaba con un Equipo Original, Formando equipo con el jugador experimentado tanto en PvE como En Pvp, por haber participado en 2B2T, [[Cibergun]]. Durante este tiempo pudimos ver el increíble trabajo en equipo que tenían estos 2, consiguiendo cada uno un Full Hierro. Pudimos ver como estos 2 jugadores se asientan en cierta zona para empezar a farmear, un rato después Ceci decide separarse de Cibergun en busca de minerales y se adentra en las minas, Alvaro y TheGamerMaldito mueren y salir a la superficie no es una grandiosa opción. Pasan las horas, y Cecililla sigue en las minas tratando de seguir con su objetivo, pero mientras hablaba con Cibergun no se percata de que un Creeper la ataca por la espalda, explotando y llevándose la vida de su personaje.
+Se cree que lo sucedido, fue una secuencia de malos sucesos que provocaron la muerte de Ceci. Al parecer un Esqueleto y un Creeper se habían concentrado en un lugar poco iluminado detrás de ella, el Esqueleto le dispara al Creeper provocando que prácticamente explote al instante, otra de las razones por la que Ceci no se había dado cuenta es que debido al lag de su PC, no cargo correctamente el zumbido del Creeper antes de morir, pero esto solamente es una suposición de parte de muchos jugadores. Lo que si es cierto es que Ceci fue la primera jugadora en morir y provoco que fuera el primer equipo en perder un integrante.
+
+==Equipos==
+{| class="wikitable"
+!Edición
+!Equipo Original
+!Equipo Temporal
+|-
+| '''1ª Edición'''
+|<center>'''<span style="color:red">Cecililla</span> y [[Cibergun]]'''<center>
+|<center>'''-'''<center>
+|}
+
+==Resultados==
+{| class="wikitable"
+!Edición
+!Lugar
+!Causa de Muerte
+|-
+| '''1ª Edición'''
+| 36º
+| Creeper
+|}
+
+==Totéms Utilizados==
+{| class="wikitable"
+!Edición
+!Totéms Utilizados
+|-
+| '''1ª Edición'''
+| '''0'''
+|}
+
+==Valoración de Jugador (porcentaje sobrevivido/participaciones)==
+{| class="wikitable"
+!Lugar
+!Cálculo
+!Valoración
+|-
+|'''36º'''
+|0,2%/1 participación
+|'''0,2'''
+|}
+
+[[Categoría:Participantes]]

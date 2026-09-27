@@ -1,0 +1,74 @@
+{{Infobox_Jugador
+|title1= Alvaro845
+|image1= [[Archivo:Alvaro845 Youtube Channel.jpg]]
+|nick_de_minecraft= Alvaro845
+|nombre_en_youtube= Alvaro845
+|nombre_en_twitch= TheAlvaro845
+|redes_sociales=
+[[Archivo:Youtube.png|35px|link=https:https://www.youtube.com/user/TheAlvaro845]][[Archivo:Youtube.png|35px|link=https:https://www.youtube.com/c/TheAlvaro845Gamer]][[Archivo:Twitch.png|35px|link=https://www.twitch.tv/TheAlvaro845]][[Archivo:Twitter.png|35px|link=https://twitter.com/Alvaro845]]
+|suscriptores_en_youtube= 
+<u>Alvaro845:</u> 
++4.800.000<br>
+<u>TheAlvaro845:</u><br>
++600.000
+|seguidores_en_twitch= +400.000
+|participaciones= 1 Edición
+|mejor_resultado=38º lugar
+|muertes=Explosión de un Creeper
+|mensajes_de_muerte= '''Null'''
+|row13=
+[[Archivo:JUEGO MINECRAFT EXTREMO ¡¡SALE MAL!! - Permadeath -1|255px|center]]
+|row14=
+[[Archivo:JUEGO MINECRAFT EXTREMO ¡¡SALE MAL!! - Permadeath -1|255px|center]]
+}}<span style="color:red">'''Alvaro845'''</span> o simplemente "Alvaro", fue uno de los participantes de Permadeath. Participando en la 1ª Edición de este Evento. Es conocido como el primer jugador en morir en el servidor.
+
+==Desempeño==
+
+<span style="color:red"><u>'''1ª Edición:'''</u></span>
+*<u>'''Día 0:'''</u>
+El evento comenzó, y Alvaro comenzó rápidamente, con mucha facilidad consiguió en apenas 1 hora, una armadura completa de hierro, una espada de este mismo material y se había encontrada una aldea como para comenzar a tradear. Este personaje se adentra en las minas para adquirir más materiales, los suficientes como para seguir en juego. Pica y pica, y se encuentra una Ravine, un lugar muy peligroso por la posibilidad de que te caiga un mob encima, pero que te deja ver minerales por doquier, confiado cree que si mantiene en un cuerpo de agua, ningún mob spawnearia alrededor de él y no correría gran peligro, pero en ese momento lo ataca una araña común, y mientras esta peleando con ella no se percata de que un creeper cae, explotando casi al instante, matándolo de una.
+Este jugador solamente pudo aguantar una cantidad de 2 horas en el servidor.
+
+==Equipos==
+{| class="wikitable"
+!Edición
+!Equipo Original
+!Equipo Temporal
+|-
+| '''1ª Edición'''
+|<center>'''-'''<center>
+|<center>'''-'''<center>
+|}
+
+==Resultados==
+{| class="wikitable"
+!Edición
+!Lugar
+!Causa de Muerte
+|-
+| '''1ª Edición'''
+| 38º
+| Creeper
+|}
+
+==Totéms Utilizados==
+{| class="wikitable"
+!Edición
+!Totéms Utilizados
+|-
+| '''1ª Edición'''
+| '''0'''
+|}
+
+==Valoración de Jugador (porcentaje sobrevivido/participaciones)==
+{| class="wikitable"
+!Lugar
+!Cálculo
+!Valoración
+|-
+|'''38º'''
+|0,08%/1 participación
+|'''0,08'''
+|}
+
+[[Categoría:Participantes]]

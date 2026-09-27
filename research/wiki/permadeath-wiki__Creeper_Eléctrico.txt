@@ -1,0 +1,52 @@
+{{Infobox Enemigos
+|title1=Creeper Eléctrico
+|image1=[[Archivo:Creeper Eléctrico.gif]]
+|puntos_de_salud= '''20''' [[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]]
+|explosión= '''127''' [[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Half Heart.png]]
+|recompensa=
+[[Archivo:Pólvora.png|20px]] '''Pólvora'''
+[[Archivo:Disco de Música.png|20px]] '''Disco de Música'''
+<br>[[Archivo:Cabeza de Creeper.png|20px]] '''Cabeza de Creeper'''
+|aparece_en:=
+<u>Normal:</u>
+Tormentas Eléctricas
+<br><u>Día 30:</u>
+<br>En la Oscuridad
+|día_de_aparición=Día 0
+|jugadores_asesinados= '''0'''
+|tótems_utilizados= '''0'''}}Los '''Creepers Eléctricos''' son un mob hóstil proveniente de Minecraft, y al ser originario de este, estuvo en [[Permadeath]] desde el día 0.
+
+== Cambios ==
+<u>'''Día 30'''</u>
+*Los <span style=color:red>Creepers</span> son ahora <span style=color=red>Eléctricos</span>.
+
+== Desarrollo ==
+*<span style=color:red><u>'''Día 0 - Día 30'''</u></span>
+Todos sabemos que los Creepers Eléctricos son una variación de los Creepers con un poder de explosión significativamente mayor, y en el Vanilla es el enemigo que más daño puede producir en un solo hit. Aunque estos enemigos son realmente poco comunes, con el añadido de las Death Train, con tormentas eléctricas bastante duraderas, pudiendo tardar horas en terminarse. Estos enemigos se han producido cada vez que un rayo le diera a un Creeper Común. Por suerte podemos decir que estos enemigos nunca produjeron realmente una dificultad durante estos días. La razón de esto, es que aunque estos enemigos se originaran con mayor facilidad aun eran poco comunes encontrarlos.
+
+*<span style=color:red><u>'''Día 30 - Día 40'''</u></span>
+Nuevos cambios de dificultad entran en juego, junto a la entrada hacia el End. Uno de los cambios afecta a todos los Creepers, transformándolos inmediatamente en su variación eléctrica, sin necesidad de una tormenta. Las noches se volvieron realmente peligrosas, y más sabiendo que no podían ser saltadas. Estos Creepers siempre rondaban por el servidor, y el miedo que originaba de que estos llegaran a tu base, origino que la iluminación en estas fuese mucho mejor en los siguientes días.
+
+== Estadísticas ==
+
+=== Cantidad de muertes ===
+{| class="wikitable"
+! Lugar
+! Cantidad de Muertes
+! Jugadores
+|-
+| <center>'''7º'''</center>
+| <center>'''0'''</center>
+| '''null'''
+|}
+
+=== Cantidad de Tótems ===
+{| class="wikitable"
+! Cantidad de Tótems
+! Jugadores
+|-
+| <center>'''0'''</center>
+| '''null'''
+|}
+
+[[Categoría:Enemigos]]

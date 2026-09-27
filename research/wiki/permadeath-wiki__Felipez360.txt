@@ -1,0 +1,82 @@
+{{Infobox_Jugador
+|title1= Felipez360
+|image1= [[Archivo:Felipe y los Directos Youtube.jpg]]
+|nick_de_minecraft= xXmineCr4fterXx
+|nombre_en_youtube= Felipe y los directos
+|nombre_en_twitch= SoyFelipez360
+|redes_sociales=
+[[Archivo:Youtube.png|35px|link=https://www.youtube.com/channel/UCAfmDImhkEYzb7b4QueLx1Q]][[Archivo:Youtube.png|35px|link=https://www.youtube.com/user/SoyFelipez360]][[Archivo:Twitch.png|35px|link=https://www.twitch.tv/soyfelipez360]][[Archivo:Twitter.png|35px|https://twitter.com/Felipez360]]
+|suscriptores_en_youtube= 
+<u>Felipe y los directos:</u>
++90.000<br>
+<u>SoyFelipez360</u><br>
++230.000
+|seguidores_en_twitch= +220.000
+|participaciones= 1 Edición
+|mejor_resultado= 34º lugar
+|muertes= Atacado por una Araña
+|mensajes_de_muerte= ''"Su estado es: muerto"''
+|row13=
+[[Archivo:Minecubos edición te mueres y se acabó - Permadeath Ep. 1|255px|center]]
+|row14=
+[[Archivo:Da comiendo el imperio de los nariz gigante - Permadeath Ep.6|255px|center]]
+}}<span style="color:red">'''Felipez360'''</span> o simplemente "Felipe", fue uno de los participantes de Permadeath. Participando en la 1ª Edición de este Evento. Formaba parte de un equipo original con [[AlexElCapo]] y [[BriiHD]]
+
+==Desempeño==
+
+<span style="color:red"><u>'''1ª Edición:'''</u></span>
+
+*<u>'''Día 0 - Día 10:'''</u>
+El Evento de Permadeath comienza, Felipez es de los pocos jugadores que cuentan con un equipo original junto a [[AlexElCapo]] y [[BriiHD]]. Felipez y AlexElCapo son reconocidos por ser muy buenos amigos y ser bastante experimentados en este "juego de cubitos". Su humor y habilidad los convierten en una de las mejores perspectivas que se pueden observar. Ya apenas comenzaron, ya poseían algunas granjas. Durante este periodo de 10 días, Felipez y Compañía lograron montar su gran base <span style="color:purple">"La Cueva Gaming House"</span>, una base bastante decorada y funcional, que habían sido hecho a partir de una cueva subterránea que habían avistado. Felipez por su parte, armo su pequeña habitación en la base basada en su personaje favorito de Anime Itachi y como buen decorador, consiguió un buen resultado en poco tiempo.
+Felipez tuvo la oportunidad de hacer grandes granjas, como pudiese ser la Granja de Hierro de las nuevas versiones de Minecraft, como una recreación más sencilla y funcional de la granja de zombie pigmans de Ilmango llamada <span style="color:orange">"Ilmango's Gold/XP farm"</span>.
+
+Ya para el día Nº6, Felipez y compañía, se proponen a conseguir totems que les ayudarían para días posteriores. Para ello activan una raid, y consiguen llevarse la victoria. Unos cuantos minutos más tarde para hacerle una pequeña broma a los integrantes de los demás equipos y además conseguir el logro de <span style="color:green">[Post Mortem]</span>, con ayuda de los tridentes deciden quitarse grandes números de vida con caída, y así activar los tótems. La broma resulta ser un éxito, y todos los integrantes del equipo de Felipez obtienen el logro <span style="color:green">[Post Mortem]</span>.
+
+*<u>'''Día 10:'''</u>
+El primer cambio de dificultad ha llegado, las arañas ahora tienen efectos aleatorios capaces de derrotar a cualquier jugador. Felipez había sido llamado por [[Tonacho]] y Alex para hacer unas cuantas Raids con el objetivo de conseguir algunos Totems de Inmortalidad. Mientras se acerca rapidamente al lugar de encuentro, Kaumaru es deleteado del server. Esto provoco que aquella Raid que tenían planeado fuera mas complicada de lo esperado, sin embargo, pudo ser completada con honores.
+En OffStream, Felipez se encontraba junto a [[Th3Antonio]] y [[Zeling]] en su base, cuando observaron una araña acercarse. Felipez quiso enfrentarse a la nueva dificultad con una espada con ''"Perdición de los Artrópodos"'', lamentablemente esta araña contaba con 3 efectos de 3, siendo estos Resistencia III, Regeneración IV y Fuerza IV. La araña prácticamente era un tanque contra Felipez, le logro quitar un tótem y cuando al final intento escapar, solo origino que la Araña hiciera su estocada final y al final Felipez acabara muerto. La muerte fue un golpe duro para todos, un jugador bastante experimentado había muerto apenas en el décimo día, y los que más lo sintieron fueron los integrantes de su equipo.
+Por suerte Th3Antonio y Zeling estaban ahí, y pudimos ver los últimos momentos de Felipe Zeta Circunferencia en el servidor y la divertida reacción de FrigoAdri al enterarse de lo sucedido.
+
+==Equipos==
+{| class="wikitable"
+!Edición
+!Equipo Original
+!Equipo Temporal
+|-
+|'''1ª Edición'''
+|<center>'''<span style="color:red">Felipez360</span>, [[AlexElCapo]] y [[BriiHD]]'''<center>
+|<center>'''-'''<center>
+|}
+
+==Resultados==
+{| class="wikitable"
+!Edición
+!Lugar
+!Causa de Muerte
+|-
+|'''1ª Edición'''
+|34º
+|[[Arañas con efectos|Araña]]
+|}
+
+==Totéms Utilizados==
+{| class="wikitable"
+!Edición
+!Totéms Utilizados
+|-
+|'''1ª Edición'''
+|'''2''' [(1)Caída, (1)Araña]
+|}
+
+==Valoración de Jugador (porcentaje sobrevivido/participaciones)==
+{| class="wikitable"
+!Lugar
+!Cálculo
+!Valoración
+|-
+|'''34º'''
+|9,3%/1 participación
+|'''9,3'''
+|}
+
+[[Categoría:Participantes]]

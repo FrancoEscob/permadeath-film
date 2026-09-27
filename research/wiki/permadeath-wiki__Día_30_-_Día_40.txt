@@ -1,0 +1,13 @@
+== Permadeath Demon ==
+El Permadeath Demon fue el 1er y unico boss del servidor,este era un dragon del end modificado con una cantidad ridícula de vida,ademas de varios ataques 
+
+=== General: ===
+Como general,los pilares de obsidiana del end habían sido reemplazados por bedrock,esto seguramente para que los jugadores no consigan obsidiana ni tampoco suban hacia arriba para romper los end crystals,ya que la bedrock daba efecto de Levitación X.
+
+Tambien las bolas de fuego del dragón convertían bloques de endstone en lava o bedrock para dificultar la batalla
+
+=== Tnt: ===
+Este ataque consistía en que 6 tnts con la misma potencia de explosión del Wither spawnwaban alrededor del dragon,explotando en un tiempo 3-6 segundos
+
+=== Nube Verde ===
+Este ataque consistoa en que una nube verde apaceria en una zona aleatoria en la isla del end,con la propiedad de que volvía inmortales a los endernans que la toquen

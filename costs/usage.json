@@ -1,0 +1,461 @@
+{
+ "rows": [
+  {
+   "name": "main",
+   "calls": 423,
+   "inp": 850,
+   "out": 666454,
+   "rd": 209169702,
+   "cw": 2021093,
+   "w5": 0,
+   "w1": 2021093,
+   "usd": 71.33516440000001,
+   "start": "2026-09-26T23:38:20.746000+00:00",
+   "end": "2026-09-27T03:52:47.959000+00:00",
+   "first": "[{\"type\": \"text\", \"text\": \"Create a motion-graphics film in code, then export it",
+   "speeds": [
+    "standard"
+   ],
+   "models": [
+    "claude-opus-5-5"
+   ],
+   "fast": 0
+  },
+  {
+   "name": "a1ceb9fd9b0824a91",
+   "calls": 183,
+   "inp": 366,
+   "out": 165384,
+   "rd": 34036426,
+   "cw": 1328435,
+   "w5": 1328435,
+   "w1": 0,
+   "usd": 16.7586042,
+   "start": "2026-09-26T23:39:44.836000+00:00",
+   "end": "2026-09-27T01:19:35.366000+00:00",
+   "first": "You are a research + asset agent. Topic: **Permadeath**, the Minecraft hardcore-",
+   "speeds": [
+    "standard"
+   ],
+   "models": [
+    "claude-opus-5-5"
+   ],
+   "fast": 0
+  },
+  {
+   "name": "a2bc110c0af55f51c",
+   "calls": 123,
+   "inp": 246,
+   "out": 87697,
+   "rd": 30908015,
+   "cw": 419914,
+   "w5": 419914,
+   "w1": 0,
+   "usd": 10.036097,
+   "start": "2026-09-26T23:44:45.902000+00:00",
+   "end": "2026-09-27T00:08:57.748000+00:00",
+   "first": "You are helping research every player death on ElRichMC's Minecraft server \"Perm",
+   "speeds": [
+    "standard"
+   ],
+   "models": [
+    "claude-opus-5-5"
+   ],
+   "fast": 0
+  },
+  {
+   "name": "a4dcb6b4412a8d4c7",
+   "calls": 119,
+   "inp": 238,
+   "out": 102176,
+   "rd": 27533238,
+   "cw": 1040917,
+   "w5": 1040917,
+   "w1": 0,
+   "usd": 12.755704600000001,
+   "start": "2026-09-26T23:39:24.370000+00:00",
+   "end": "2026-09-27T00:22:02.490000+00:00",
+   "first": "You are a research agent. Topic: **Permadeath**, the Minecraft server/series run",
+   "speeds": [
+    "standard"
+   ],
+   "models": [
+    "claude-opus-5-5"
+   ],
+   "fast": 0
+  },
+  {
+   "name": "a4f874c62d73636ea",
+   "calls": 126,
+   "inp": 252,
+   "out": 186105,
+   "rd": 30053855,
+   "cw": 808064,
+   "w5": 808064,
+   "w1": 0,
+   "usd": 13.774199,
+   "start": "2026-09-27T02:13:56.401000+00:00",
+   "end": "2026-09-27T02:59:26.643000+00:00",
+   "first": "You're improving animated retellings of Minecraft deaths in a code-rendered film",
+   "speeds": [
+    "standard"
+   ],
+   "models": [
+    "claude-opus-5-5"
+   ],
+   "fast": 0
+  },
+  {
+   "name": "a521b45bba063e132",
+   "calls": 119,
+   "inp": 238,
+   "out": 129639,
+   "rd": 29003418,
+   "cw": 757482,
+   "w5": 757482,
+   "w1": 0,
+   "usd": 12.181825600000002,
+   "start": "2026-09-26T23:46:34.354000+00:00",
+   "end": "2026-09-27T00:10:24.188000+00:00",
+   "first": "Read /home/franescob/Gaming/research/AGENT_BRIEF.txt first and follow it exactly",
+   "speeds": [
+    "standard"
+   ],
+   "models": [
+    "claude-opus-5-5"
+   ],
+   "fast": 0
+  },
+  {
+   "name": "a65d93910bcfa2fcd",
+   "calls": 118,
+   "inp": 236,
+   "out": 147228,
+   "rd": 24398873,
+   "cw": 317607,
+   "w5": 317607,
+   "w1": 0,
+   "usd": 9.413313600000002,
+   "start": "2026-09-27T02:26:51.090000+00:00",
+   "end": "2026-09-27T02:57:35.725000+00:00",
+   "first": "You're improving animated retellings of Minecraft deaths in a code-rendered film",
+   "speeds": [
+    "standard"
+   ],
+   "models": [
+    "claude-opus-5-5"
+   ],
+   "fast": 0
+  },
+  {
+   "name": "a7dacfd04b5ed2416",
+   "calls": 147,
+   "inp": 294,
+   "out": 113657,
+   "rd": 39100981,
+   "cw": 447615,
+   "w5": 447615,
+   "w1": 0,
+   "usd": 12.332587199999999,
+   "start": "2026-09-26T23:45:21.709000+00:00",
+   "end": "2026-09-27T00:23:01.847000+00:00",
+   "first": "You are helping research every player death on ElRichMC's Minecraft server \"Perm",
+   "speeds": [
+    "standard"
+   ],
+   "models": [
+    "claude-opus-5-5"
+   ],
+   "fast": 0
+  },
+  {
+   "name": "a9e28f79b6c3287b5",
+   "calls": 72,
+   "inp": 144,
+   "out": 113415,
+   "rd": 13459661,
+   "cw": 1750579,
+   "w5": 1750579,
+   "w1": 0,
+   "usd": 13.7137032,
+   "start": "2026-09-26T23:39:34.869000+00:00",
+   "end": "2026-09-27T00:35:14.532000+00:00",
+   "first": "You are a research agent. Topic: **every player death on Permadeath**, the Minec",
+   "speeds": [
+    "standard"
+   ],
+   "models": [
+    "claude-opus-5-5"
+   ],
+   "fast": 0
+  },
+  {
+   "name": "aa0dd14c82db0950d",
+   "calls": 103,
+   "inp": 206,
+   "out": 94612,
+   "rd": 19398615,
+   "cw": 342671,
+   "w5": 342671,
+   "w1": 0,
+   "usd": 7.486142,
+   "start": "2026-09-26T23:45:40.347000+00:00",
+   "end": "2026-09-27T00:11:20.311000+00:00",
+   "first": "You are helping research every player death on ElRichMC's Minecraft server \"Perm",
+   "speeds": [
+    "standard"
+   ],
+   "models": [
+    "claude-opus-5-5"
+   ],
+   "fast": 0
+  },
+  {
+   "name": "aa6ec9bc6ae818ba2",
+   "calls": 88,
+   "inp": 176,
+   "out": 94874,
+   "rd": 14426055,
+   "cw": 857913,
+   "w5": 857913,
+   "w1": 0,
+   "usd": 9.07296,
+   "start": "2026-09-26T23:39:56.732000+00:00",
+   "end": "2026-09-27T00:21:52.624000+00:00",
+   "first": "You are a visual-research agent. Topic: the **player deaths on Permadeath**, the",
+   "speeds": [
+    "standard"
+   ],
+   "models": [
+    "claude-opus-5-5"
+   ],
+   "fast": 0
+  },
+  {
+   "name": "aa96fe602e1e65b9c",
+   "calls": 98,
+   "inp": 196,
+   "out": 176750,
+   "rd": 20027312,
+   "cw": 353743,
+   "w5": 353743,
+   "w1": 0,
+   "usd": 9.3099614,
+   "start": "2026-09-27T02:14:20.181000+00:00",
+   "end": "2026-09-27T02:46:05.213000+00:00",
+   "first": "You're improving animated retellings of Minecraft deaths in a code-rendered film",
+   "speeds": [
+    "standard"
+   ],
+   "models": [
+    "claude-opus-5-5"
+   ],
+   "fast": 0
+  },
+  {
+   "name": "abbffa3c84c23da2f",
+   "calls": 82,
+   "inp": 164,
+   "out": 123592,
+   "rd": 13974432,
+   "cw": 284235,
+   "w5": 284235,
+   "w1": 0,
+   "usd": 6.6885574000000005,
+   "start": "2026-09-27T02:14:07.750000+00:00",
+   "end": "2026-09-27T02:37:25.147000+00:00",
+   "first": "You're improving animated retellings of Minecraft deaths in a code-rendered film",
+   "speeds": [
+    "standard"
+   ],
+   "models": [
+    "claude-opus-5-5"
+   ],
+   "fast": 0
+  },
+  {
+   "name": "abe6c84dbdf2d8579",
+   "calls": 107,
+   "inp": 214,
+   "out": 104278,
+   "rd": 20079064,
+   "cw": 890989,
+   "w5": 890989,
+   "w1": 0,
+   "usd": 10.557173800000001,
+   "start": "2026-09-26T23:46:55.854000+00:00",
+   "end": "2026-09-27T00:07:46.150000+00:00",
+   "first": "Read /home/franescob/Gaming/research/AGENT_BRIEF.txt first and follow it exactly",
+   "speeds": [
+    "standard"
+   ],
+   "models": [
+    "claude-opus-5-5"
+   ],
+   "fast": 0
+  },
+  {
+   "name": "adc249a27e4e1df82",
+   "calls": 82,
+   "inp": 164,
+   "out": 148106,
+   "rd": 17326144,
+   "cw": 335733,
+   "w5": 335733,
+   "w1": 0,
+   "usd": 8.1066698,
+   "start": "2026-09-27T02:27:01.756000+00:00",
+   "end": "2026-09-27T02:59:22.814000+00:00",
+   "first": "You're improving animated retellings of Minecraft deaths in a code-rendered film",
+   "speeds": [
+    "standard"
+   ],
+   "models": [
+    "claude-opus-5-5"
+   ],
+   "fast": 0
+  },
+  {
+   "name": "ae9d3dcac210a9f74",
+   "calls": 134,
+   "inp": 268,
+   "out": 136540,
+   "rd": 28138452,
+   "cw": 1254311,
+   "w5": 1254311,
+   "w1": 0,
+   "usd": 14.6311174,
+   "start": "2026-09-26T23:46:49.983000+00:00",
+   "end": "2026-09-27T00:14:02.546000+00:00",
+   "first": "Read /home/franescob/Gaming/research/AGENT_BRIEF.txt first and follow it exactly",
+   "speeds": [
+    "standard"
+   ],
+   "models": [
+    "claude-opus-5-5"
+   ],
+   "fast": 0
+  },
+  {
+   "name": "aebd8fb3496c86c88",
+   "calls": 157,
+   "inp": 314,
+   "out": 138725,
+   "rd": 35880950,
+   "cw": 1379720,
+   "w5": 1379720,
+   "w1": 0,
+   "usd": 16.850546,
+   "start": "2026-09-26T23:46:38.879000+00:00",
+   "end": "2026-09-27T00:16:46.943000+00:00",
+   "first": "Read /home/franescob/Gaming/research/AGENT_BRIEF.txt first and follow it exactly",
+   "speeds": [
+    "standard"
+   ],
+   "models": [
+    "claude-opus-5-5"
+   ],
+   "fast": 0
+  },
+  {
+   "name": "af310306c07740eb3",
+   "calls": 103,
+   "inp": 206,
+   "out": 100666,
+   "rd": 20810948,
+   "cw": 851768,
+   "w5": 851768,
+   "w1": 0,
+   "usd": 10.435173599999999,
+   "start": "2026-09-26T23:46:43.630000+00:00",
+   "end": "2026-09-27T00:06:42.503000+00:00",
+   "first": "Read /home/franescob/Gaming/research/AGENT_BRIEF.txt first and follow it exactly",
+   "speeds": [
+    "standard"
+   ],
+   "models": [
+    "claude-opus-5-5"
+   ],
+   "fast": 0
+  },
+  {
+   "name": "af9c18b09233ed2ff",
+   "calls": 214,
+   "inp": 428,
+   "out": 106753,
+   "rd": 56343515,
+   "cw": 438664,
+   "w5": 438664,
+   "w1": 0,
+   "usd": 15.598795,
+   "start": "2026-09-26T23:45:02.664000+00:00",
+   "end": "2026-09-27T00:25:52.910000+00:00",
+   "first": "You are helping research every player death on ElRichMC's Minecraft server \"Perm",
+   "speeds": [
+    "standard"
+   ],
+   "models": [
+    "claude-opus-5-5"
+   ],
+   "fast": 0
+  }
+ ],
+ "total": {
+  "calls": 2598,
+  "inp": 5200,
+  "out": 2936651,
+  "rd": 684069656,
+  "cw": 15881453,
+  "w5": 13860360,
+  "w1": 2021093,
+  "usd": 281.0382952
+ },
+ "span": [
+  "2026-09-26T23:38:20.746000+00:00",
+  "2026-09-27T03:52:47.959000+00:00"
+ ],
+ "active_s": 12249.626,
+ "gaps": [
+  [
+   "2026-09-27T01:30:50.393000+00:00",
+   "2026-09-27T01:40:51.071000+00:00",
+   600.678
+  ],
+  [
+   "2026-09-27T01:45:31.254000+00:00",
+   "2026-09-27T02:07:38.246000+00:00",
+   1326.992
+  ],
+  [
+   "2026-09-27T03:00:31.773000+00:00",
+   "2026-09-27T03:18:41.690000+00:00",
+   1089.917
+  ]
+ ],
+ "tools": {
+  "Bash": 1735,
+  "Agent": 18,
+  "Write": 125,
+  "Read": 1758,
+  "ToolSearch": 18,
+  "SendMessage": 12,
+  "mcp__claude_ai_Claude_Docs__batch": 2,
+  "mcp__claude_ai_Claude_Docs__guide": 4,
+  "Skill": 2,
+  "mcp__claude_ai_Claude_Docs__update": 23,
+  "mcp__claude_ai_Claude_Docs__read": 2,
+  "mcp__claude_ai_Claude_Docs__create": 1,
+  "WebFetch": 34,
+  "mcp__claude_ai_Claude_Docs__export": 1,
+  "WebSearch": 94,
+  "Monitor": 2,
+  "Edit": 13
+ },
+ "price": {
+  "inp": 4.0,
+  "w5": 5.0,
+  "w1": 8.0,
+  "rd": 0.2,
+  "out": 20.0
+ }
+}

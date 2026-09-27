@@ -1,0 +1,59 @@
+{{Infobox Enemigos
+|title1=Jinetes Esqueléticos
+|image1=[[Archivo:Jinete Esquelético.png]]
+|puntos_de_salud= <u>Caballo Esquelético:</u> '''15'''
+[[Archivo:Mob Heart.png]][[Archivo:Mob Heart.png]][[Archivo:Mob Heart.png]][[Archivo:Mob Heart.png]][[Archivo:Mob Heart.png]][[Archivo:Mob Heart.png]][[Archivo:Mob Heart.png]][[Archivo:Mob Half Heart Image.png|10px]]
+<br><u>Esqueleto:</u> '''20'''
+<br>[[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]]
+<br><u>Jinete Esquelético:</u> '''35'''
+<br>[[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:Mob Heart.png]][[Archivo:Mob Heart.png]][[Archivo:Mob Heart.png]][[Archivo:Mob Heart.png]][[Archivo:Mob Heart.png]][[Archivo:Mob Heart.png]][[Archivo:Mob Heart.png]][[Archivo:Mob Half Heart Image.png|10px]]
+|defensa= <u>Esqueleto:</u> 
+'''2''' [[Archivo:Armor.png]]
+<br><u>Protección III:</u>
+<br>'''4''' [[Archivo:Armor.png]][[Archivo:Armor.png]]
+|ataque= <u>Esqueleto:</u> 
+'''1''' [[Archivo:9px-Half Heart.png]] - '''5''' [[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Half Heart.png]]
+<br><u>Poder III:</u>
+<br>'''2''' [[Archivo:9px-Heart.png]] - '''10''' [[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]]
+|recompensa= <u>Caballo Esquelético:</u>
+[[Archivo:Hueso.png|20px]] '''Hueso'''
+<br><u>Esqueleto:</u>
+<br>[[Archivo:Hueso.png|20px]] '''Hueso'''
+<br>[[Archivo:Lingote de hierro.png|20px]] '''Lingote de Hierro'''
+<br>[[Archivo:Flecha.png|20px]] '''Flecha'''
+<br>[[Archivo:Arco Encantado.gif|20px]] '''Arco Encantado'''
+<br>[[Archivo:Casco de Hierro Encantado.gif|20px]] '''Casco de Hierro Encantado'''
+|aparece_en:= Trampas de Esqueletos
+|día_de_aparición= día 0
+|jugadores_asesinados= '''0'''
+|tótems_utilizados= '''0'''}}Los '''Jinetes Esqueléticos''' son un mob del tipo Jockey proveniente de Minecraft, y al ser originario de este, estuvo en [[Permadeath]] desde el día 0.
+
+== Desarrollo ==
+*<span style=color:red><u>'''Día 0 - Día 20'''</u></span>
+Los Jinetes Esqueléticos son un Mob Jockey bastante extraño, que solamente spawnea en tormentas eléctricas con una probabilidad de 2.25 al 6.75%. Estos enemigos están conformados por un esqueleto bastante potente y un caballo esquelético, siendo este una variación no muerta del caballo.
+<br><br>Estos enemigos tuvieron gran representación durante los primeros días del servidor, la causa de ello, es el añadido de los ''Death Train''. Cada vez que moría un jugador, una lluvia perpetua que podía durar horas se establecía en el servidor, provocando así que estos enemigos fueran bastante comunes y más por estar en el modo difícil de Minecraft.
+Los Jinetes Esqueléticos fueron una de las tantas razones por las que muchos jugadores tuvieron que hacer sus bases con extrema prisa, no por nada cuando se habilita una Trampa Esquelética se consideran los enemigos más feroces del Vanilla sin contar a los Jefes.
+
+== Estadísticas ==
+
+=== Cantidad de muertes ===
+{| class="wikitable"
+! Lugar
+! Cantidad de Muertes
+! Jugadores
+|-
+| <center>'''7º'''</center>
+| <center>'''0'''</center>
+| '''null'''
+|}
+
+=== Cantidad de Tótems ===
+{| class="wikitable"
+! Cantidad de Tótems
+! Jugadores
+|-
+| <center>'''0'''</center>
+| '''null'''
+|}
+
+[[Categoría:Enemigos]]

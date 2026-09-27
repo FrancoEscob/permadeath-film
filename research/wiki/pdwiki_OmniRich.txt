@@ -1,0 +1,66 @@
+{{Infobox Jugador
+|title1=OmniRich
+|image1=[[Archivo:OmiRich?.gif|900px]]
+|nick_de_minecraft=OmniRich
+|nombre_en_youtube=[[Archivo:What.gif|35px]]
+|nombre_en_twitch=[[Archivo:What.gif|35px]]
+|redes_sociales=[[Archivo:What.gif|35px]]
+|suscriptores_en_youtube=[[Archivo:What.gif|35px]]
+|seguidores_en_twitch=[[Archivo:What.gif|35px]]
+|participaciones= 1 Edición
+|mejor_resultado=[[Archivo:What.gif|35px]]
+|mensajes_de_muerte= ''"Ahora por fin descansa en paz"''
+|muertes=*Vex
+|row13=
+[[Archivo:OmiRich?.gif|273px|link=OmniRich]]
+|row14=
+[[Archivo:OmiRich?.gif|273px|link=OmniRich]]
+}}<span style="color:red">'''OmniRich'''</span> es el administrador de Permadeath,  y ya casi para el final asumiendo también el papel de jugador. Participó en la 1ª Edición ya para el día 60.
+
+==Desempeño==
+
+<span style="color:red"><u>'''1ª Edición:'''</u></span>
+*<u>'''Día 0 - Día 56:'''</u>
+El '''OmniRich''' de Permadeath siempre actuaba entre las sombras, no participaba directamente.
+Este jugador se dedicaba a resolver bugs y algunas cosas dentro del servidor.
+<br>Algunas teorías dicen que es un ente proveniente del mismísimo '''Permadeath Demon''', algunos otros dicen que solamente puede ser un alma perdida ligada directamente con [[ElRichMC]].
+Una de las veces en donde podemos ver su presencia es cuando [[Th3Antonio]] pierde la cabeza de su amada [[Zeling]] en la lava después de que muriera al ser aplastada por un [[Giga Magmacube|'''Giga Magmacube''']].
+<br> '''OmniRich''' sabe que las cabezas no son un objeto prioritario dentro del juego, y para alegrarle el día y que pueda recuperar a su amada, hace todo lo posible para devolverle la cabeza. Después de 3 intentos sin éxito, [[Th3Antonio]] por fin lo logra y '''OmniRich''' desaparece.
+
+*<u>'''Día 56 - Día 60:'''</u>
+Muere el Comandante, el señor [[ElRichMC]] cae en las fauces del vacío de '''TheBeginning'''. '''OmniRich''' vuelve, pero no muy contento.
+<br> Al primero que ataca es a [[KillerCreeper55]] quien perturba constantemente por no ayudarlo y no prestarle atención en sus últimos momentos de vida, [[KillerCreeper55]] entra al borde de la locura y trata de deshacerse de este ente cada vez que lo encuentra.
+
+Al próximo que ataca es a [[Kakytron]], de una forma menos perturbadora y enseñcardastrarándole los dones que tiene dentro del mundo.
+Pero no mucho más, '''OmniRich''' se queda vigilando a los participantes para que nada se descontrole dentro de este mundo tan inhóspito.
+
+*<u>'''Día 60:'''</u>
+Los jugadores van muriendo uno por uno, '''OmniRich''' solamente puede observar con tristeza como su pequeño gran mundo se destruye ante sus pies, hasta que muere el ultimo <span style="color:yellow">'''permaviviente'''</span> que venia vigilando y dando consejos desde hace un tiempo [[iLuh|Luh]].
+
+OmniRich para no quedarse ante tal tristeza, decide participar bastante tarde en este juego de la muerte y tratando de hacer lo que [[ElRichMc]] nunca pudo hacer.<br>Anda vigilante por los caminos del nether para no morir en la misma situación en la que se encontro [[Crisgreen]] con el '''Ender Quantum Creeper'''. Cuando por fin llega a su base, pasa algo completamente inesperado, los aldeanos del Rich se habrían convertido en '''Vindicators''' invocando '''Vexes''' por todas partes, eso sin contar que '''OmniRich''' no tenia los corazones extra, causando al final la muerte de '''OmniRich'''.
+
+==Resultados==
+{| class="wikitable"
+!Edición
+!Lugar
+!Causa de Muerte
+|-
+| '''1ª Edición'''
+| [[Archivo:What.gif|35px]]
+| Vex
+|}
+
+==Valoración de Jugador (porcentaje sobrevivido/participaciones)==
+{| class="wikitable"
+!Lugar
+!Cálculo
+!Valoración
+|-
+| [[Archivo:What.gif|35px]]
+|0,08%/1 participación
+|'''0,08'''
+|}
+
+==Trivia==
+*El Personaje de Omnirich no es original de Permadeath, su origen viene desde hace años con la serie Ragecraft II Insomnia de [[ElRichMC]], específicamente el episodio 31.
+[[Categoría:Participantes]]

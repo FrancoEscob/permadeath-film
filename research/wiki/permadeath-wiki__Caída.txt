@@ -1,0 +1,77 @@
+{{Infobox_Enemigos_Técnicos
+|title1=Caída
+|image1=[[Archivo:Caída.png]]
+|daño= 
+<u>Normal:</u>
+'''1''' [[Archivo:9px-Half Heart.png]] - '''252''' [[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]]
+<br><u>Perla de Ender:</u> 
+<br>'''5''' [[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Half Heart.png]]
+|aparece_en= 
+*Gran Altura
+*Perla de Ender
+|día_de_aparición= Día 0
+|jugadores_asesinados= '''2'''
+|tótems_utilizados= '''9'''}}El '''Daño de Caída''' es una forma de recibir daño dentro de Minecraft, y al ser originario de este, estuvo en [[Permadeath]] desde el día 0.
+
+== Desarrollo ==
+*<span style=color:red><u>'''Día 0 - Día 60'''</u></span>
+El daño de caída se da cuando una persona cae de una altura excesiva, de 4 bloques específicamente. Podemos decir que es una de las formas de recibir daño más comunes dentro de Minecraft, y no solo eso, este daño también puede ser recibido si lanzamos alguna Ender Pearl.
+Dentro de [[Permadeath]], este daño se hizo de que notar, llevando casi a la muerte a muchos jugadores.
+
+Pero antes, hablemos de lo sucedido con [[Felipez360]], [[AlexElCapo]] y [[BriiHD]], este equipo de jugadores durante el día 6 después del inicio de Permadeath, consiguieron terminar una Raid con éxito, teniendo montones de totems a su disposición. Para conseguir el logro de <span style=color:green>[Post Mortem]</span> y hacer una pequeña broma dentro del server, deciden subir a grandes alturas con sus tridentes y dejarse caer para bajarse toda la vida, y utilizar el tótem que tienen en la mano. Los 3 integrantes del equipo son los que realizan estas acciones que conmocionaron a todos los demás jugadores.
+
+Ahora podemos hablar del caso de [[Kakytron]] que resulta bastante gracioso y parecido al caso anterior. Este jugador se caracterizó dentro del server, en fingir su muerte varias veces, en una de ellas podemos ver como este jugador se lanza de una estructura bastante grande, con un tótem en la mano, esto provocó que se activara y alcanzará el logro <span style=color:green>[Post Mortem]</span>. Antes de este acontecimiento notificó con tiempo por el chat, que estaba a punto de morirse para añadirle un poco más de drama.
+
+Ahora, toquemos el caso de [[Lakshart Nia]], que lamentablemente estaba en OffStream. Esta jugadora se encontraba en su reciente  granja de Ahogados, no se había dado cuenta de que uno de estos enemigos la atacó por la espalda, y esto provoca a que cayera a una cantidad inmensa de bloques. Con suerte tuvo el tiempo suficiente para colocarse un tótem y sobrevivir. A palabras de '''Nia''', esta caída superaba los 200 bloques.
+
+Llega el día 20, y se realiza el evento de construir el monumento para los caídos en forma de F. [[BriiHD]] se encontraba en Offstream cuando perdió otro tótem durante este evento, y que este comento posteriormente comento la situación, aunque se desconoce la causa por completo. Se cree que sufrió un tropiezo mientras construía la parte superior de la F, y la caída era tan alta que era imposible no utilizar un tótem, si no se tenía nada para amortiguar la caída.
+
+Con los mismos cambios de dificultad del día 20, uno de los jugadores, [[MrCarlosNoob]], no había sido invitado al grupo de Discord por el meme de ser el único <span style=color:green>[Invitado]</span> constante. Esto provocó que no estuviese preparado para la eliminación de drops de este día. Como no había recibido ninguna contesta de [[ElRichMC]]. Este jugador decidió suicidarse para llamar la atención de los jugadores. Al final logró su cometido y antes de que terminara su directo murió lanzándose desde una estructura muy alta. Esto llamó la atención de los jugadores, y '''MrCarlosNoob''' fue invitado al grupo de Discord. Esta muerte causó una pequeña polémica entre los fans, si estaba permitido revivir a este jugador. Pero al final las palabras del Rich contestaron todas las dudas y '''Carlos''' pudo seguir jugando.
+
+Ahora saltemos rápidamente a los cambios del día 30, los jugadores derrotan al [[Permadeath Demon]], y habilitan el End. Este lugar se volvió bastante peligroso con la llegada de los [[Ender Creepers]] y [[Ender Ghasts]]. Por ello muchos jugadores decidieron ir en tandas, para tomarse su debido tiempo. [[Hardyluski]] y [[Mikecrack]] deciden ir durante el día 33 del servidor. Estos jugadores que conformaban el equipo [[Mikardy]], encontraron una End City sin reclamar. '''Mikecrack''' había encontrado unas cuantas End Rods o Varas del End, que aunque no tienen ningún uso técnico, son una fuente de luz muy decorativa. Este jugador decide picar unas cuantas con un pico encantado con <span style=color:purple>Eficiencia V</span>, este encantamiento provocó que no solo rompiese la Vara del End, sino que también el suelo donde se encontraba. Al final '''Mikecrack''' cayó desde una cantidad bastante considerable de bloques, pero como es un jugador habilidoso sabe que si utiliza una Perla de Ender, su daño será disminuido a '''5''' [[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Half Heart.png]]. El lag del servidor fue un gran inconveniente y el efecto de la Perla no se dio en el tiempo dado, y '''Mikecrack''' perdió un tótem.
+
+No pasa dos días en el servidor, y vuelve a haber problemas. El jugador [[Gona89]] muere repentinamente por un enemigo del servidor. Todos lamentan su muerte, pero lo que nadie se da cuenta, es que otro jugador se encontraba en peligro. [[MrCarlosNoob]] se encontraba buscando recursos de las [[Arañas con efectos|Arañas]], esto para poder lograr pociones de veneno y así poder derrotar a los [[Shulkers Explosivos]]. Los mismos enemigos que mataron a '''Gona89'''. Una de estas arañas lo alcanza y logra hacerle muchísimo daño, este jugador trata de escapar utilizando una Perla de Ender. Pero como ya hemos dicho antes las perlas, también quitan puntos de vida como daño de caída. Al final este fue el caso, el tótem que tenía en su mano izquierda no se activa gracias al cambio de dificultad del [[Totém de Inmortalidad Nerfeado|1%]] y '''Carlos''' muere. Este muerte fue muy sorpresiva, y más sabiendo que '''Gona''' le había pasado igual con el 1%. Desde ahora utilizar tótems no te salvaba con toda la seguridad.
+
+Un día después el día 35, el jugador [[Mikecrack]] muere por un enemigo conocido como [[Ender Ghasts|Ender Ghast]]. [[Hardyluski]] con el lamento de su muerte, y más por ser de su mismo equipo, va en busca de su cabeza. A '''Hardy''' no se le hace mucho problema encontrarla y llevarla gracias a las nuevas elytras, pero cuando está a punto de salir de esa dimensión tan tenebrosa, se pone nervioso y hace contacto con un bloque. Cuando llega al Overworld, el daño de caída recibido se hace presente quitándole un tótem inmediatamente. Al final este tótem no presentó ningún peligro, si no contamos el [[Totém de Inmortalidad Nerfeado|1%]].
+
+Nos trasladamos al día 37, [[EsVandal]] y [[KillerCreeper55]] son algunos de los jugadores que les faltaba, adentrarse en el End. [[EsVandal]] logra un recorrido perfecto, cuando encuentra un Barco del Fin. '''Vandal''' cuenta con elytras y va de regreso a su casa. Pero en un momento dado, este jugador pierde la orientación al no ver absolutamente nada y cae una cantidad considerable de bloques. Al final esto originó que perdiera un tótem, y su nerviosismo surgiera.
+
+Ahora observemos el día 38, [[MYM ALK4PON3|Alkapone]] se encuentra en el End en busca de más recursos, en un momento se encuentra amenazado por enemigos al contar con armadura, mientras baja a una End City. Algunos [[Ender Ghasts]] reconocen su ubicación y empiezan a atacarlo, cuando por fin se quita la armadura y baja lentamente con caída lenta, un último proyectil lo alcanza, dañandolo, quitándole un tótem, luego un enderman lo ataca y pierde otro tótem nuevamente. '''Alkapone''' escapa lo más rápido posible gracias a las elytras y puede volver a colocarse la armadura. Este jugador da un par de vueltas para despistar y vuelve a bajar a la End City sin totem en la mano izquierda, confiado por caer en agua, se quita la armadura mientras baja. Lo que no se da cuenta es que calculo mal y cae en suelo, matandolo al instante. Esta muerte se consideró como la más graciosa y más estúpida por mucho tiempo.
+
+Es el día 40, y llegan nuevos cambios de dificultad, entre ellos uno de los enemigos más peligrosos antes vistos, los [[Gatos Supernova]]. Un enemigo de destrucción masiva capaz de arrasar todo lo que tiene en frente. Este cambio se le fue avisado a cada uno de los participantes como siempre, 5 días antes, dando oportunidad para que matasen a su lobos y gatos. Además los jugadores se colocaron a alturas extremas, por si las moscas un Gato Supernova explotará cerca de ellos. [[Kakytron]] fue uno de los jugadores que utilizó esta técnica, pero lamentablemente cuando se instalo el plugin, hubo un error al cargarse el mundo, y '''Kaky''' solo cayó como si nada, este acontecimiento fue bastante repentino, '''Kaky''' no pensó bien la situación, al final esto terminó en la muerte del individuo. [[ElRichMC]] y [[KernelFreeze]] comprobaron que esta muerte fue por generación del mundo, y a diferencia de la muerte de [[Paracetamor]], esta fue por culpa del plugin de '''Permadeath'''. Por ello se decidió revivir a '''Kakytron'''.
+
+En los siguientes días, y por la cantidad mínima de jugadores, no hubo más problemas con las caídas.
+
+== Estadísticas ==
+
+=== Cantidad de muertes ===
+{| class="wikitable"
+! Lugar
+! Cantidad de Muerte
+! Jugadores
+|-
+| <center>'''5º'''</center>
+| <center>'''2'''</center>
+|
+*[Día 34]: '''MrCarlosNoob''' ha '''caído desde un lugar muy alto''' intentando huir de una '''Araña de Cueva'''
+*[Día 38]: '''Leyville''' ha '''caído desde un lugar muy alto'''
+|}
+
+=== Cantidad de Tótems ===
+{| class="wikitable"
+! Cantidad de Tótems
+! Jugadores
+|-
+| <center>'''9'''</center>
+|
+*[Día 6]: '''xXmineCr4fterXx''' ha usado un tótem al '''caer desde un lugar muy alto'''
+*[Día 6]: '''AlexElCapo''' ha usado un tótem al '''caer desde un lugar muy alto'''
+*[Día 6]: '''ElBrean''' ha usado un tótem al '''caer desde un lugar muy alto'''
+*[Día 15]: '''Kakytron''' ha usado un tótem al '''caer desde un lugar muy alto'''
+*[Día 19]: '''LakshartNia''' ha usado un tótem al '''caer desde un lugar muy alto'''
+*[Día 20]: '''ElBrean''' ha usado un tótem al '''caer desde un lugar muy alto'''
+*[Día 33]: '''Mikecrack''' ha usado un tótem al '''caer desde un lugar muy alto'''
+*[Día 35]: '''Hardyluski''' ha usado un tótem al '''caer desde un lugar muy alto'''
+*[Día 37]: '''EsVandal''' ha usado un tótem al '''caer desde un lugar muy alto'''
+|}
+[[Categoría:Enemigos Técnicos]]

@@ -1,0 +1,281 @@
+Los Cambios de Dificultad consisten en diferentes alteraciones al juego original (Vanilla), con el objetivo de dificultar la Supervivencia de los jugadores. Están planeados para publicarse con una regularidad de 10 días, aunque en ocasiones se producen Aumentos de Dificultad sorpresa, cuyo contenido es desconocido tanto por los jugadores como para el público. Estos son publicados en la cuenta oficial de Twitter del servidor el mismo día del Cambio, aunque cinco días antes los Jugadores reciben un adelanto por Discord.
+
+* Día 0-9
+
+Los primeros días fueron totalmente tranquilos, con solo una modificación (plugin) que aportase dificultad adicional, el Death train: Cada vez que moría alguien iniciaba una tormenta dependiendo en los días que lleven jugando.
+
+== Día 10-19 ==
+[[Archivo:Primero cambio de dificultad.jpg|miniaturadeimagen|224x224px|[https://twitter.com/PermadeathSMP/status/1246200654516887558 Imagen utilizada para anunciar el primer Cambio de Dificultad.]]]
+¡Todas las arañas ahora tienen efectos de poción! entre 1 y 3 efectos aplicados de esta lista:
+
+Velocidad 3, Regeneración 4, Fuerza 4, Salto 4, Brillo, Invisibilidad, Caida lenta y Resistencia 3
+
+Hay el doble de Mobs
+
+Minimo 4 jugadores para pasar la noche
+
+*
+
+== Día 20-29 ==
+Estrenando los cambios de dificultad de aquel día se llevó a cabo el primer Evento del servidor, el cual consistía en un Homenaje a los Caídos.. En esta ocasión fueron tres anuncios que se publicaron el día 13 de abril de 2020. "9 muertes no son suficientes... ¡SUBAMOS LA DIFICULTAD!"
+
+* Todos los drops de esta lista, eliminados:  Iron Golems,[[Archivo:Segundo cambio de dificultad.jpg|miniaturadeimagen|221x221px|[https://twitter.com/PermadeathSMP/status/1249800483151249410 Esta es la imagen que se usó para el segundo cambio de dificultad.]]]Pigmans,  Ghasts,  Guardianes,  Magma Cubes,   Endermans,  Brujas,  Wither Skeletons,  Evokers,  Phantoms,  Slimes,  Drowneds,  Blazes.
+
+[[Archivo:Tercer cambio de dificultad.jpg|izquierda|miniaturadeimagen|[https://twitter.com/PermadeathSMP/status/1249801404065202181 Esta es la imagen que se usó para el tercer cambio de dificultad.]]]
+9 muertes no son nada... ¡DOLOR, SUFRIMIENTO... PERMANENTE! ¡MORID TODOS!
+
+* Ciclo de día y noche constante, no puedes saltar la noche.
+* Todos los mobs pacíficos son ahora agresivos, y los pigmans están cabreados de antemano.
+* Todas las arañas tienen ahora de 3 a 5 efectos. 
+* 1 de cada 100 Ravagers suelta un Tótem de Inmortalidad.
+* Todos los Phantoms son ahora de tamaño 9 y doble de vida. 
+* Ya no puedes ayudar o ser ayudado por jugadores externos a tu equipo a cazar/sobrevivir (Hacer raids, cacerías, wither bosses,..).
+
+¿9 muertes? Que sean mejor 20. ¡MUERTE! ¡MUERTE! ¡MUERTE! ¡MUERTE! ¡MUERTE!
+[[Archivo:Cuarto cambio de dificultad.jpg|miniaturadeimagen|174x174px|[https://twitter.com/PermadeathSMP/status/1249802102291009536 Esta es la imagen que se usó para el cuarto cambio de dificultad.]]]
+Todas las arañas aparecen ahora con un esqueleto encima de 1 a 5 clases:
+
+* Nada especial- Esqueleto full diamante con 10 corazones.
+* Bow- Arco con punch XX (20), wither skeleton full mayas con 20 corazones. 
+* Iron axe- Hacha de hierro con fire aspect II (2), esqueleto full hierro con 10 corazones.
+* Crossbow- Ballesta con sharpness XX (20), esqueleto fulll oro con 20 corazones.
+* Bow- Arco con power X (10), wither skeleton full cuero con 20 corazones. 
+
+[[Archivo:Primer cambio sorpresa de dificultad.jpg|izquierda|miniaturadeimagen|[https://twitter.com/PermadeathSMP/status/1251903907686690821 Esta es la imagen que se usó para el primer cambio de dificultad sorpresa.]]]
+
+=== Cambio sorpresa ===
+
+
+
+Además el día 19 de abril de 2020 se publicaron tres cambios extras ya que no hubo ningún muerto en 24h, contando con 6 muertes después de los cambios:
+
+¡DEATH TRAIN HYPE! 
+
+RESET DEL DEATH TRAIN!
+
+* Cada 25 días el Death Train se vuelve más peligroso la cantidad de horas de tormenta en X día se reinicia como si fuese el día 0.
+* Durante el Death Train ahora todos los mobs tienen Fuerza I (1), Velocidad I (1) y Resistencia I (1),
+
+¡AUMENTO DE DIFICULTAD SORPRESA!
+[[Archivo:Segundo cambio sorpresa de dificultad.jpg|miniaturadeimagen|168x168px|[https://twitter.com/PermadeathSMP/status/1251903907686690821 Esta es la imagen que se usó para el segundo cambio de dificultad sorpresa.]]]
+
+* Todas las arañas tienen ahora 5 efectos.
+
+* Todos los Ravagers tiene ahora Fuerza II (2) y Speed I (1), los tótems ahora los sueltan con un 20%. 
+* GIGASLIMES:  Los slimes solo spwanean de tamaño 15 con doble de vida.
+* GIGA MAGMACUBES:  Los magmacubes solo spawnean de tamaño 16 .
+* GHAST DEMONÍACOS:  Los ghats se spawnean con 40 a 60 de vida y sus bolas de fuego pueden ser de explosionpwer: 3, 4 y 5.
+
+<br />
+[[Archivo:Tercer cambio sorpresa de dificultad.jpg|izquierda|miniaturadeimagen|208x208px|[https://twitter.com/PermadeathSMP/status/1251907640525033482 Esta es la imagen que se usó para el tercer cambio de dificultad sorpresa.]]]
+¡DESBLOQUEAMOS NUEVA ARMADURA!
+
+AUMENTO DE DIFICULTAD SORPRESA
+
+* ¡ARMADURA DE NETHERITE! 
+* Puedes obtener una mejor armadura matando GIGASLIMES, GIGA MAGMACUBES, GHAST DEMONÍACOS y ARAÑAS DE CUEVA. 
+* Estos enemigos son extremadamente peligrosos.
+* La armadura de Netherite será completamente necesaria para poder sobrevivir más días.
+
+=== Reacción ===
+Además la cuenta de twitter de ElRichMC publicó, el día 9 de abril de 2020, las reacciones de algunos miembros antes de hacer la revelación al publico.
+
+hardyluski: Ay dios... qué locura.
+
+KillerCreeper55: Bueno chicos, ha sido un placer. 
+
+Luh: L O L  Con permiso pongo esto y se puede continuar con la conversación. Pero es que creo que es importante que lo adjunte:
+
+Brian: Pero, qué cojones, esas subidas de dificultad? omg
+[[Archivo:Reacción de Hardy.png|izquierda|miniaturadeimagen|[https://twitter.com/ElRichMC/status/1248280082868768768 Esta fue la reacción de Hardy cuando se revelaron en el discord los cambios.] ]]
+[[Archivo:Reacción de Brian.png|miniaturadeimagen|[https://twitter.com/ElRichMC/status/1248280082868768768 Esta fue la reacción de Brian cuando se revelaron en el discord los cambios.]|alt=|195x195px]]
+[[Archivo:Reacción de Killer.png|miniaturadeimagen|[https://twitter.com/ElRichMC/status/1248280082868768768 Esta fue la reacción de Killer cuando se revelaron en el discord los cambios.]|alt=|centro|210x210px]]
+
+<br />
+== Día 30-39 ==
+El día 24 de abril de 2020 se publicó los nuevos cambios de dificultad, justo antes del evento de la batalla contra el dragón. 
+
+EMPECEMOS CON UN AUMENTO DE DIFICULTA QUE LOS MIEMBROS DESCONOCÍAN
+
+* AUMENTO DE DIFICULTAD [[Archivo:Quinto cambio de dificultad.jpg|izquierda|miniaturadeimagen|187x187px|[https://twitter.com/PermadeathSMP/status/1253710272830803968 Esta es la imagen que se usó para el quinto cambio de dificultad.]]]<br />Esqueleto Guerrero- Esqueleto Full Diamante, Full Protection IV (4) con 20 corazones.  Esqueleto Infernal- Esqueleto Full Hierro, Diamond Axe con Fire Aspect X (10) y 20 corazones.   Esqueleto Asesino- Esqueleto Full Oro, Crossbow con Sharpness XXV (25), Speed II (2) y 20 corazones.   Esqueleto Táctico- Wither Skeleton Full Mayas, Bow con Punch XXX (30) y Power XXV (25), con 20 corazones.   Esqueleto Pesadilla- Wither Skeleton Full Cuero, Bow con power L (50) y 20 corazones.
+
+
+Morid. :)
+
+* AUMENTO DE DIFICULTAD  Ya no se puede obtener la armadura de Netherite.  Ya no se pueden usar las Zonas Comunitarias a excepción del SPAWN.  Los Tótems tienen un 99% de probabilidades de activarse y 1% de fallar.[[Archivo:Sexto cambio de dificultad.jpg|miniaturadeimagen|236x236px|[https://twitter.com/PermadeathSMP/status/1253715210046767105 Esta imagen se usó para el sexto cambio de dificultad.]]]La batalla contra la dragona está completamente modificada.   Los Mobs Especiales ahora tienen nombre especial.   Los Calamares son ahora Guardianes con Speed II (2).  Los Murciélagos son ahora Blazes de Resistencia II (2).  Los Creepers son ahora Eléctricos.  Los Pillagers son ahora invisibles y tienen ballestas de Quick Charge X (10).  Los Esqueletos son ahora Esqueletos con CLASE y llevan en la mano izquierda flechas de Daño II (2).  Los Pigmans tienen ahora armadura de diamante.  Los Iron Golems tienen ahora Velocidad IV (4).  Los Endermans tienen ahora Fuerza II (2).  Los Silverfish tienen 5 efectos de la misma lista que las Arañas.   Los Shulkers son Shulkers Explosivos y dropean con 20% de probabilidad una Shulker Shell.   Aparecen Ender Ghasts y Ender Creepers en el End.
+
+=== Cambio sorpresa ===
+[[Archivo:Cuarto cambio sorpresa de dificultad.jpg|miniaturadeimagen|[https://twitter.com/PermadeathSMP/status/1255200454113406978 Esta imagen se usó para el cuarto cambio de dificultas sorpresa.]|alt=|134x134px]]Cuatro días después, el 28 de abril de 2020, se publicó un cambio de dificultad sorpresa: En el mismísimo infierno no habrá ítem que te salve. Vuestro destino está escrito, solo estáis alargando lo inevitable.
+
+* ANUNCIO DE DIFICULTAD <br />Los Tótems se activarán con un 3% de probabilidad de fallar.
+
+Junto con este cambio, en total murieron 11 personas de los días 30-39.
+
+<br />
+
+== Día 40-49 ==
+El día 4 de mayo de 2020 se publicó la primera gran cantidad de cambios, con un adelante el día anterior.
+
+¿Es este el fin? 
+
+* ANUNCIO DE DIFICULTAD[[Archivo:Séptimo cambio de dificultad.jpg|miniaturadeimagen|[https://twitter.com/PermadeathSMP/status/1256993425506947072 Esta imagen se usó para el séptimo cambio de dificultad.]]]Todos los jugadores perderán 5 Slots del inventario.
+
+11 jugadores vivos, próximamente: 0 ¡NUEVO AUMENTO DE DIFICULTAD! Bienvenidos al mismísimo INFIERNO.
+
+* AUMENTO DE DIFICULTAD Se habilita el fuego amigo.  Se eliminan 5 slots del inventario.  Se establecen nuevas normas para evitar jugar de forma sedentaria y monótona.  Ya no se puede hacer ni stripmining ni branchmining.  Ya no se pueden craftear antorchas ni antorchas de redstone.  Ya no se generan algunas estructuras nuevas.  Todos los jugadores pierden 4 contenedores de vida.   Los Tótems tienen un 3% de probabilidad de fallar y al activarse se consumen 2 en vez de 1.  Las Elytras en los barcos ahora aparecen rotas.  Respawnear al Dragón genera un Permadeath Demond, el aliento de dragón se obtiene de las Chorus Flower.  Aparecen Mobs en las Mushroom Islands.  Los Shulkers dropean Shulkers Shells con una 2%.  Un % de los Endermans spawnean hostiles.[[Archivo:Octavo cambio de dificultad.jpg|miniaturadeimagen|258x258px|[https://twitter.com/PermadeathSMP/status/1257340928135704576 Esta imagen se usó para el octavo cambio de dificultad.]]]Los Phantoms llevan ahora encima un Esqueleto de Clase.  Los Creepers tienen ahora Velocidad II (2) y Resistencia II (2).  Los Iron Golems tienen ahora Fuerza I (1).  Los guardianes tienen ahora Resistencia II (2) y Velocidad III (3) y el rayo es el doble de rápido.  Las arañas son ahora Arañas de Cuevas.  Los zombies son ahora Vindicators con fuerza I (1) y doble de vida.   Los perros son ahora Gatos.  Las Vacas, Ovejas, Cerdos, Pollos y Vacasetas son ahora Ravagers.  Los Endermans del Nether son ahora Ender Creepers.  Las brujas son ahora brujas imposibles, tienen el doble de vida, Speed II (2) y las pociones que lanzan son Daño Instantáneo IV (4), Veneno III (3) 5m, Slowness V (5) 20s.
+* AUMENTO DE DIFICULTAD[[Archivo:Noveno cambio de dificultad.jpg|izquierda|miniaturadeimagen|[https://twitter.com/PermadeathSMP/status/1257344597019242497 Esta imagen se usó para el noveno cambio de dificultad.]]]Todos los jugadores tienen 1/10000 de recibir 1 minuto de efecto de CEGUERA si están bajo la lluvia.[[Archivo:Décimo cambio de dificultad.jpg|izquierda|miniaturadeimagen|[https://twitter.com/PermadeathSMP/status/1257345623998808068 Esta imagen se usó para el décimo cambio de dificultad.] ]]El Death Train ahora es más peligroso que nunca.
+* AUMENTO DE DIFICULTAD   ¡NUEVO ÍTEM!  La Super Golden Apple+ proporciona 5 minutos de Heath Boost I (1), puede comerse siempre que se quiera pero su efecto no es stackable. [[Archivo:Océano cambio de dificultad.jpg|miniaturadeimagen|187x187px|[https://twitter.com/PermadeathSMP/status/1257345674716348416 Esta imagen se usó para el undécimo cambio de dificultad.]]]AUMENTO DE DIFICULTAD   ¡NUEVO ÍTEM!  La Hyper Golden Apple+ solo puede ser consumida 1 vez y proporciona 2 contenedores permanentes de vida adicional.
+* MORID  AUMENTO DE DIFICULTAD  Los gatos son ahora Gatos Supernova.[[Archivo:Docéavo cambio de dificultad.jpg|izquierda|miniaturadeimagen|[https://twitter.com/PermadeathSMP/status/1257345993936384005 Esta imagen se usó para el duodécimo cambio de dificultad.]]]Su poder de explosión es capaz de arrasar una base entera.
+* ¿Compañeros? [[Archivo:Decimotercero cambio de dificultad.jpg|miniaturadeimagen|189x189px|[https://twitter.com/PermadeathSMP/status/1257348233111703554 Esta imagen se usó para el decimotercero cambio de dificultad.]]]AUMENTO DE DIFICULTAD   Todos lo jugadores tienen derecho ahora a un compañero de equipo. La norma es:  Desde tu cama, la cama de tu vecino más cercana se convierte en tu compañero.   (No puedes compartir ítems con tu compañero pero puedes salvarle, hacer actividades con él).
+* ¡NUEVO ÍTEM, RELIQUIA DEL FIN![[Archivo:Decimocuarto cambio de dificultad.jpg|izquierda|miniaturadeimagen|[https://twitter.com/PermadeathSMP/status/1257352310478573569 Esta imagen se usó para el decimocuarto cambio de dificultad.]]]¡NUEVO ÍTEM![[Archivo:Decimoquinto cambio de dificultad.jpg|miniaturadeimagen|189x189px|[https://twitter.com/PermadeathSMP/status/1257361435816005635 Esta imagen se usó para el decimoquinto cambio de dificultad.]]]Esta Reliquia permite recuperar los 5 slots que se han perdido. Se debe llevar siempre en el inventario.   Ahora se pueden descraftear Shulker Boxes para obtener Shulker Shells.  AUMENTO DE DIFICULTAD  Se ha generado en algún lugar del mundo un portal al 'The Beginning'.   Se recomienda a los jugadores buscarlo en grupo antes de 10 días. [[Archivo:Decimosexto cambio de dificultad.jpg|izquierda|miniaturadeimagen|[https://twitter.com/PermadeathSMP/status/1257387006558076929 Esta imagen se usó para el decimosexto cambio de dificultad.]]]AUMENTO DE DIFICULTAD  Los Ghasts Demoníacos son ahora un 75% de las veces Demonios Flotantes.[[Archivo:Decimoséptimo cambio de dificultad.jpg|miniaturadeimagen|190x190px|[https://twitter.com/PermadeathSMP/status/1257413913068605448 Esta imagen se usó para el decimoséptimo cambio de dificultad.]]]Las bolas de los Demonios Flotantes dan Levitación 50 y Wither V (5) 20s. No explotan y o hacen daño.
+* ¡PIGMAN JOCKEYS!   Pigman sobre Cerdo- El Cerdo tiene 5 efectos como las arañas, 20 de daño y armadura rosa. Pigman sobre Abeja- La Abeja tiene 50 corazones, el Pigman armadura amarilla y 6 de daño base.   Pigman sobre Ghast- El Ghast no es peligroso pero se tpea el 80% de las veces, el Pigman tiene Velocidad IV (4) y 4 de daño base.   Pigman sobre Magma Cube- Tiene medio corazón, inmunes a proyectiles.
+* ¡MÁS DOLOR! ¡MÁS SUFRIMIENTO!  AUMENTO DE DIFICULTAD  Jess la Emperatriz- Drop: 2 manzanas doradas. 120 corazones.  Carlos el Esclavo- Drop: 32 lingotes de oro. 75 corazones. Full Mayas Protección II (2). Espada de madera Empuje X (10).  Ultra Ravager-  Drop: 1 tótem. 250 corazones. Velocidad II (2) y Fuerza II (2).  A pesar de la gran cantidad de cambios, a día de hoy solo ha muerto una persona.
+
+[[Archivo:Decimoctavo cambio de dificultad.jpg|miniaturadeimagen|[https://twitter.com/PermadeathSMP/status/1257423054872985600 Esta imagen se usó para el decimoctavo cambio de dificultad.]|alt=|centro|366x366px]]
+
+
+== Día 50-59 ==
+El día 14 de mayo de 2020 se publicaron más cambios.
+
+El día 50 es un día importante. Por eso queremos celebrarlo por todo lo alto. ¡Vivan los bacalaos! Cuando el servidor esté online y actualizado publicaremos TODOS los cambios, de momento os dejo con la miel en los labios. -Rich
+
+* AUMENTO DE DIFICULTAD[[Archivo:Decimonoveno cambio de dificultad.jpg|miniaturadeimagen|[https://twitter.com/PermadeathSMP/status/1260964568358170625 Esta imagen se usó para el decimonoveno cambio de dificultad.]]]Bacalao de la Muerte- Espada de madera con Sharpness L (50) y Knockback C (100).
+
+[[Archivo:Vigésimo cambio de dificultad.jpg|miniaturadeimagen|[https://twitter.com/PermadeathSMP/status/1261010671262674946 Esta imagen se usó para el vigésimo cambio de dificultad.] ]]
+¡NUEVO AUMENTO DE DIFICULTAD! Miaurid.
+
+* AUMENTO DE DIFICULTAD Los Gatos Supernova ahora son Gatos Gálacticos.  Ya no explotan, pero pueden invocar cualquier mob de Permadeath al morir, incluido un Gato Supernova o un Permadeath Demon.
+
+MORID
+
+* AUMENTO DE DIFICULTAD  Ya no se pueden craftear Cubos de Lava y Agua.  Los totems tienen un 5% de probabilidad de fallar y ya no se obtienen en Raids.  Las Raid dan efecto de Hero Of The Village durante 5Min.  Picar bloques quitan medio corazón cada uno.  Fundir ores de Hierro y Oro dan Pepitas en vez de lingotes.  Te ahogas 5 veces más rápido.  Estar en Soulsand da Slowness II.[[Archivo:Vigésimoprimero cambio de dificultad.jpg|izquierda|miniaturadeimagen|257x257px|[https://twitter.com/PermadeathSMP/status/1261011493887381506 Esta imagen se usó para el vigésimoprimero cambio de dificultad.]]]En el overworld puedes tener aleatoriamente Levitación de 3s a 20s durante las noches.  En el Nether llueven Mobs.  Hay más probabilidad de recibir ceguera durante la lluvia.  En el día 55 se darán medallas a los supervivientes.  Los mobs hostiles ahora tienen Resistencia contra el fuego.  Las arañas de cueva ya no pueden tener Glowing.  Los Creepers Energéticos son ahora Quantum Creepers y el 20% Ender Creepers.  Los Phantoms ahora son Giga Phantoms y hay un 1/100 de que cuando Spawnean sean 4 Ender ghasts.  Los pollos son ahora Silverfish.  Los salmones son ahora Pufferfish Invulnerables.  Los Ravagers ahora son Ultra Ravagers pero no dropean tótems.  El 20% de los Pigmans son Pigmans Jockeys, los Drops están al 33%.  El 1% de los Illagers son ahora Evokers.  Los Iron Golems tienen ahora resistencia II.  Los Drowneds llevan ahora Tridentes.  Las abejas hacen ahora 15 corazones de daño base.  El efecto de Mining Fatigue no se puede quitar con leche y dura el doble.
+
+YOU DIE, I LAUGH Los esqueletos suben de nivel.
+
+* AUMENTO DE DIFICULTAD [[Archivo:Vigésimosegundo cambio de dificultad.jpg|miniaturadeimagen|254x254px|[https://twitter.com/PermadeathSMP/status/1261013838784315395 Esta imagen se usó para el vigésimosegundo cambio de dificultad.]]]Esqueleto guerrero- Esqueleto Full Diamante Protección IV (4) con 50 corazones.  Esqueleto Infernal- Esqueleto Full Hierro, Diamond Axe con Fire Aspect XX (20) y Sharpness XXV (25), con 20 corazones.  Esqueleto Asesino- Esqueleto Full Oro con Speed II (2), Crossbow con Sharpness L (50), y con 20 corazones.  Esqueleto Táctico- Wither Skeleton Full Mayas, Bow con Punch L (50) y PowerXXX (40), y con 20 corazones.  Esqueleto Pesadilla- wither Skeleton Full Cuero, Bow LX (60), y con 90 corazones.
+
+[[Archivo:Vigésimotercer cambio de dificultad.jpg|miniaturadeimagen|256x256px|[https://twitter.com/PermadeathSMP/status/1261015239249801223 Esta imagen se usó para el vigésimotercer cambio de dificultad.]]]
+Y a continuación los cambios sorpresa:
+
+¡ARMADURA DE NETHERITE INFERNAL!
+
+* AUMENTO DE DIFICULTAD SORPRESA ¡ARMADURA DE NETHERITE INFERNAL DESBLOQUEADA!  Puedes conseguir una mejor armadura consiguiendo 4 bloques de netherite infernal y poniéndolos en forma de cruz en una mesa de crafteo con tu armadura de netherite que deseas mejorar.
+
+Morid. Morid. Morid. Morid. Morid. Morid. Morid. Morid. Morid. Morid. Morid. Morid. Morid. Morid. Morid. Morid. Morid. Morid. Morid. Morid. Morid. Morid. Morid. Morid. Morid. Morid. 
+
+* RESET DEL DEATH TRAIN  Cada día que pasa aumenta 30min. en ves de 60min.[[Archivo:Vigésimocuarto cambio de dificultad.jpg|miniaturadeimagen|255x255px|[https://twitter.com/PermadeathSMP/status/1261016396412129283 Esta imagen se usó para el vigésimocuarto cambio de dificultad.]]]Todos los mobs tienen Fuerza II (2) Velocidad II (2) y Resistencia II (2).  Durante los Death Train el mundo se convierte en modo UHC. 
+
+¡CAMBIOS DE DIFICULTAD SORPRESA! ¡LOS JUGADORES NO ESTABAN LISTOS PARA ESTO Y VAN A MORIR!
+
+* CAMBIOS SORPRESAS  Los últimos 10 muertos podrán sugerir 5 cambios de los cuales se seleccionará 1 para fastidiar a los vivos.  Dormir tiene un 10% de resetear el contador de Phantoms.  La tarta de calabaza es ahora la mejor comida del juego, da 5s de saturación.  Los ojos de araña, Roten Flesh, Patata venenosa y Pez globo dan los efectos permanentemente al comerlos.  Los escupitajos de las llamas dan ahora Veneno III 30s, Náusea 10s y tienen Empuje III.  Las arañas de cueva dan ahora Veneno III y Náusea.  Los osos polares ahora explotan.[[Archivo:Vigésimoquinto cambio de dificultad.jpg|miniaturadeimagen|256x256px|[https://twitter.com/PermadeathSMP/status/1261017303568834565 Esta imagen se usó para el vigésimoquinto cambio de dificultad.]]]Los Shulkers explosivos son ahora Invulnerables.  Los Blazes tienen ahora 100 Corazones.  Los Phantoms tienen ahora algunos efectos de poción.  Los Illagers tienen ahora Hacha de diamante con Sharpness V.  Los Vexes tienen ahora Resistencia III.  Los Giga MagmaCubes y Giga Slimes tienen ahora el doble de vida.
+
+¡MONSTRUOS! ¡DEMONIOS! ¡Y AHORA GIGANTES!
+
+* CAMBIO SORPRESA[[Archivo:Vigésimosexto cambio de dificultad.jpg|miniaturadeimagen|257x257px|[https://twitter.com/PermadeathSMP/status/1261019125855465474 Esta imagen se usó para el vigésimosexto cambio de dificultad.]]]Ahora spawnean GIGANTES en los biomas de PLAINS.  Tienen 300 corazones, drop: Arco de Gigante, Power X (10).  Quitan mucho de vida.
+
+[[Archivo:Vigésimoctavo cambio de dificultad.jpg|izquierda|miniaturadeimagen|[https://twitter.com/PermadeathSMP/status/1261025488245571584 Esta imagen se usó para el vigésimocatvo cambio de dificultad.]]]¡HERRAMIENTAS DE NETHERITE YA DISPONIBLES! 
+
+* AUMENTO DE DIFICULTAD SORPRESA  ¡HERRAMIENTAS DE NETHERITE YA DISPONIBLES!   Las herramientas evitan que quitar bloques te haga daño, y la Espada y la Hacha hacen más daño. 
+
+¡THE BEGINNING, LA NUEVA DIMENSIÓN, EL MEJOR SITIO PARA SER PERMABANEADO!
+
+* AUMENTO DE DIFICULTAD SORPRESA[[Archivo:Vigésimoseptimo cambio de dificultad.jpg|miniaturadeimagen|261x261px|[https://twitter.com/PermadeathSMP/status/1261023629766201345 Esta imagen se usó para el vigésimoseptimo cambio de dificultad.]]]THE BEGINNING YA ESTÁ ABIERTO  No se dará ningún tipo de información a los jugadores.  Solo se puede entrar a la dimensión si no hay un Death Train activo.
+
+[[Archivo:Vigésimonoveno cambio de dificultad.jpg|izquierda|miniaturadeimagen|[https://twitter.com/PermadeathSMP/status/1261314629353037825 Esta imagen se usó para el vigésimonoveno cambio de dificultad.]]]
+¡Dije que hay más! ¡Y HAY MÁS MUERTE! ¡MÁS DOLOR! ¡Y MUCHO SUFRIMIENTO! 
+
+CAMBIOS SORPRESAS   Wither Skeleton Emperador- Wither Skeleton Full Oro con Bow- Power C (100) y Punch V (5), 40 corazones Drop: 50% Espada de Netherite.  1 de cada 50 Wither Skeletons de un Nether Fortress son emperadores.  Las flechas no le hacen daño.  
+
+== Dia 60 ==
+El dia 19 de mayo se publicaron más cambios
+[[Archivo:Cambio 1.png|miniaturadeimagen|Esta imagen se uso para el primer cambio]]
+¡DIABÓLICO EL PERMADEATH DEMON! 
+
+Ahora se puede craftear las '''Elytras de netherite infernal'''
+
+[[Archivo:Image.png|miniaturadeimagen|Esta imagen se uso para el vigesimosegundo cambio de dificultad]]
+¡MORID! 
+
+¿1%? 
+
+¿3%?                                  Cuando se usa un totem ahora se gastan 3
+
+¿5%?                                   Ahora tiene 7% de fallar
+
+¡7%!
+[[Archivo:Imagess.png|miniaturadeimagen|Esta Imagen se uso para el vigesimotercero cambio de dificultad]]
+
+
+Cada 60 minutos se spawnea un wither en tus bloques
+
+
+
+
+¡Da igual que les de ayuda a estos 7 supervivientes que quedan, son tan estúpidos que las pocas cosas buenas que se les dan ni las usan! 
+[[Archivo:Imagesssss.png|miniaturadeimagen|Esta imagen se uso para el vigesimocuarto cambio de dificultad]]
+
+
+Los iron golems tienen Fuerza 4,Velocidad 4,Resistencia 4 y Resistencia contra el fuego
+
+
+
+¡DIFÍCIL! ¡NO MUCHO LA VERDAD! Próximamente... el día 60...
+[[Archivo:ImageSSS.png|miniaturadeimagen|Esta imagen se uso para el vigesimoquinto cambio de dificultad]]
+Cambios de dificultad enteros dia 60 ->
+
+
+[[Archivo:ImageSASAS.png|miniaturadeimagen|Esta imagen se uso para el vigesimosexto cambio de dificultad]]
+You're dead now.  
+
+
+Un muerto sugirio que los creepers spawneen en otros tipos de bloques y sin importar la luz
+
+[[Archivo:Imageadasdw.png|miniaturadeimagen|Esta imagen se uso para el vigesimoseptimo cambio de dificultad]]
+¡HYPER GOLDEN APPLE+! 
+
+Los jugadores pueden volver a ingerir otra hyper golden apple
+
+
+
+
+[[Archivo:Imageoqpwqp.png|miniaturadeimagen|Esta imagen se uso para el vigesimooctavo cambio de dificultad]]
+Tic. Tac. Tic. Tac. Tic. Tac. Tic. Tac. Tic. Tac. 
+
+Los jugadores tienen 8 horas para conseguir la orbe de vida,de lo contrario se les removera 8 contenedores de vida
+
+
+
+[[Archivo:Imageqw.png|miniaturadeimagen|Esta imagen se uso para el vigesimonoveno cambio de dificultad]]
+¿Alguien tiene hambre? 
+
+Ahora la tarta de calabaza da '''Daño instantaneo IV'''
+
+
+[[Archivo:Imageasaqwq.png|miniaturadeimagen|Esta imagen se uso para el decimo cambio de dificultad]]
+Ahora sí. Ahora no. 
+
+Los equipos se eliminan y solo quedan los equipos originales
+
+
+
+[[Archivo:Imageqqqqqqq.png|miniaturadeimagen|Esta imagen se uso para el decimosegundo cambio de dificultad]]
+Morid. MORID..
+
+Los jugadores pierden muchos mas slots ,La reliquia del comienzo puede revertir esto
+
+
+[[Archivo:Imageqwqwsdasdw.png|miniaturadeimagen|Esta imagen se uso para el decimotercero cambio de dificultad]]
+¡MORID!¡MORID!¡MORID!¡MORID!¡MORID!¡MORID!¡MORID!¡MORID!¡MORID!¡MORID!¡MORID!¡MORID!¡MORID!¡MORID!¡MORID!¡MORID!¡MORID!¡MORID!¡MORID!¡MORID!¡MORID!¡MORID!¡MORID!¡MORID!¡MORID!¡MORID!¡MORID!¡MORID!¡MORID!¡MORID!¡MORID!¡MORID!¡MORID!¡MORID!¡MORID!¡MORID!¡MORID!¡MORID!¡MORID!¡MORID!
+
+
+[[Archivo:Imagelpñpsaw.png|miniaturadeimagen|Esta imagen se uso para el decimocuarto cambio de dificultad]]
+
+
+Ahora sí es el beginning de vuestro end. ¡LOS ESQUELETOS SUBEN A NIVEL ULTRA!
+
+
+
+[[Archivo:ImageFQDP'LÑQ.png|miniaturadeimagen|Esta imagen se uso para el decimoquinto cambio de dificultad]]
+MORID :) 
+[[Categoría:Final]]
+[[Categoría:Imposible]]

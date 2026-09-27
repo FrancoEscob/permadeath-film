@@ -1,0 +1,33 @@
+# Renders: several GB each. The final video is on YouTube (see README).
+out/
+render/
+
+# Dependencies
+node_modules/
+
+# Vercel project link (local only)
+.vercel/
+
+# Third-party media downloaded only to research the deaths.
+# It belongs to its creators; the links to every original are in FACTS.md and research/*.md.
+research/clips/
+research/subs/
+research/sheets/
+research/frames/
+research/evidence/overview/ingame_frames/
+research/evidence/overview/rubik_historia_completa_transcript_es.txt
+research/**/*.jpg
+research/**/*.jpeg
+research/**/*.png
+research/**/*.webp
+research/**/*.gif
+research/**/*.mp4
+research/**/*.webm
+research/**/*.m4a
+research/**/*.wav
+research/**/*.vtt
+
+# Misc
+__pycache__/
+*.pyc
+.DS_Store

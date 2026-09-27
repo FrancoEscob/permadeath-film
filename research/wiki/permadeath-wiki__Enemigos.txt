@@ -1,0 +1,79 @@
+== <big><span style=color:red>'''Minecraft'''</span></big> ==
+<big>En <span style=color:red>Minecraft</span> existen una gran cantidad de Mobs que sin sufrir ninguna modificación resultan ser bastante peligrosos, algunos han tenido un gran desarrollo en [[Permadeath]] y los veremos a continuación:</big>
+
+{| class="article-table article-table-selected" border="0" cellpadding="1" cellspacing="1" style="width: 50px;"
+|-
+! scope="col" style="text-align:center;"| [[Blazes]] [[Archivo:Blazes.gif|thumb|100px|link=Blazes]]
+! scope="col" style="text-align:center;"| [[Creeper]] [[Archivo:Creeper.png|thumb|80px|link=Creeper]]
+! scope="col" style="text-align:center;"| [[Creeper Eléctrico]] [[Archivo:Creeper Eléctrico.gif|thumb|80px|link=Creeper Eléctrico]]
+! scope="col" style="text-align:center;"| [[Ghasts]] [[Archivo:Ghasts.gif|thumb|100px|link=Ghasts]]
+|-
+! scope="col" style="text-align:center;"| [[Gólems de Hierro]] [[Archivo:Golem de hierro.gif|thumb|100px|link=Gólems de Hierro]]
+! scope="col" style="text-align:center;"| [[Jinetes Esqueléticos]] [[Archivo:Jinete Esquelético.png|thumb|130px|link=Jinetes Esqueléticos]]
+|}
+
+== <big>'''[[Permadeath]]'''</big> ==
+<big>En [[Permadeath]] se ha introducido una cantidad gigante de enemigos originales, en este apartado veremos uno por uno con todas sus características, separados por su día de aparición:</big>
+
+=== <u>'''Día 10:'''</u> ===
+{| class="article-table article-table-selected" border="0" cellpadding="1" cellspacing="1" style="width: 50px;"
+|-
+! scope="col" style="text-align:center;"| [[Arañas con efectos]] [[Archivo:Araña.png|thumb|100px|link=Arañas con efectos]]
+|}
+
+=== <u>'''Día 20:'''</u> ===
+{| class="article-table article-table-selected" border="0" cellpadding="1" cellspacing="1" style="width: 50px;"
+|-
+! scope="col" style="text-align:center;"| [[Esqueleto Asesino]] [[Archivo:Esqueleto Asesino.png|thumb|100px|link=Esqueleto Asesino]]
+! scope="col" style="text-align:center;"| [[Esqueleto Guerrero]] [[Archivo:Esqueleto Guerrero.png|thumb|100px|link=Esqueleto Guerrero]]
+! scope="col" style="text-align:center;"| [[Esqueleto Infernal]] [[Archivo:Esqueleto Infernal.png|thumb|90px|link=Esqueleto Infernal]]
+! scope="col" style="text-align:center;"| [[Esqueleto Pesadilla]] [[Archivo:Esqueleto Pesadilla.png|thumb|90px|link=Esqueleto Pesadilla]]
+! scope="col" style="text-align:center;"| [[Esqueleto Táctico]] [[Archivo:Esqueleto Táctico.png|thumb|90px|link=Esqueleto Táctico]]
+|-
+! scope="col" style="text-align:center;"| [[Phantoms Buffeados]] [[Archivo:Phantom.gif|thumb|100px|link=Phantoms Buffeados]]
+! scope="col" style="text-align:center;"| [[Ravagers Buffeados]] [[Archivo:Ravager.png|thumb|100px|link=Ravagers Buffeados]]
+|}
+
+
+=== <u>'''Día 25:'''</u> ===
+{| class="article-table article-table-selected" border="0" cellpadding="1" cellspacing="1" style="width: 50px;"
+|-
+! scope="col" style="text-align:center;"| [[Ghast Demoníacos]] [[Archivo:Ghasts.gif|thumb|100px|link=Ghast Demoníacos]]
+! scope="col" style="text-align:center;"| [[Giga Magmacubes]] [[Archivo:Giga Magmacube.png|thumb|100px|link=Giga Magmacube]]
+! scope="col" style="text-align:center;"| [[GigaSlime]] [[Archivo:GigaSlime.png|thumb|100px|link=GigaSlime]]
+|}
+
+=== <u>'''Día 30:'''</u> ===
+{| class="article-table article-table-selected" border="0" cellpadding="1" cellspacing="1" style="width: 50px;"
+|-
+! scope="col" style="text-align:center;"| [[Blazes Buffeados]] [[Archivo:Blazes.gif|thumb|100px|link=Blazes Buffeados]]
+! scope="col" style="text-align:center;"| [[Ender Ghasts]] [[Archivo:Ghasts.gif|thumb|100px|link=Ender Ghasts]]
+! scope="col" style="text-align:center;"| [[Gólems de Hierro Buffeados]] [[Archivo:Golem de hierro.gif|thumb|100px|link=Gólems de Hierro Buffeados]]
+! scope="col" style="text-align:center;"| [[Guardianes Buffeados]] [[Archivo:Guardian.gif|thumb|100px|link=Guardianes Buffeados]]
+|-
+! scope="col" style="text-align:center;"| [[Permadeath Demon]] [[Archivo:Permadeath Demon.gif|thumb|100px|link=Permadeath Demon]]
+! scope="col" style="text-align:center;"| [[Pigmans Buffeados]] [[Archivo:Diamond Pigman.png|thumb|120px|link=Pigmans Buffeados]]
+! scope="col" style="text-align:center;"| [[Pillagers Buffeados]] [[Archivo:Pillager.png|thumb|100px|link=Pillagers Buffeados]]
+|}
+
+=== <u>'''Día 40:'''</u> ===
+{| class="article-table article-table-selected" border="0" cellpadding="1" cellspacing="1" style="width: 50px;"
+|-
+! scope="col" style="text-align:center;"| [[Demonios Flotantes]] [[Archivo:Ghasts.gif|thumb|100px|link=Demonios Flotantes]]
+! scope="col" style="text-align:center;"| [[Ultra Ravager]] [[Archivo:Ravager.png|thumb|100px|link=Ultra Ravager]]
+|}
+
+=== <u>'''Día 50:'''</u> ===
+{| class="article-table article-table-selected" border="0" cellpadding="1" cellspacing="1" style="width: 50px;"
+|-
+! scope="col" style="text-align:center;"| [[GigaPhantoms]] [[Archivo:Phantom.gif|thumb|100px|link=GigaPhantoms]]
+|}
+
+=== <u>'''Día 60:'''</u> ===
+{| class="article-table article-table-selected" border="0" cellpadding="1" cellspacing="1" style="width: 50px;"
+|-
+! scope="col" style="text-align:center;"| [[Ultra Esqueleto Asesino]] [[Archivo:Esqueleto Asesino.png|thumb|100px|link=Ultra Esqueleto Asesino]]
+! scope="col" style="text-align:center;"| [[Ultra Esqueleto Guerrero]] [[Archivo:Esqueleto Guerrero.png|thumb|100px|link=Ultra Esqueleto Guerrero]]
+! scope="col" style="text-align:center;"| [[Ultra Esqueleto Infernal]] [[Archivo:Esqueleto Infernal.png|thumb|90px|link=Ultra Esqueleto Infernal]]
+! scope="col" style="text-align:center;"| [[Ultra Esqueleto Pesadilla]] [[Archivo:Esqueleto Pesadilla.png|thumb|90px|link=Ultra Esqueleto Pesadilla]]
+! scope="col" style="text-align:center;"| [[Ultra Esqueleto Táctico]] [[Archivo:Esqueleto Táctico.png|thumb|90px|link=Ultra Esqueleto Táctico]]

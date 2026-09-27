@@ -1,0 +1,68 @@
+{{Infobox_Jugador
+|title1= TheGamerMaldito
+|image1= [[Archivo:TheGamerMaldito Youtube.jpg]]
+|nick_de_minecraft= TheGamerMaldito
+|nombre_en_youtube= TheGamerMaldito
+|redes_sociales=
+[[Archivo:Youtube.png|35px|link=https://www.youtube.com/user/thegamermaldito]][[Archivo:Twitter.png|35px|link=http://twitter.com/gamermaldito]]
+|suscriptores_en_youtube= +300.000
+|participaciones= 1 Edición
+|mejor_resultado= 37º lugar
+|muertes= Explosión de un Creeper
+|mensajes_de_muerte= '''Null'''
+|row13=
+[[Archivo:¡MÁS DE 30 CREADORES DE CONTENIDO Y SI MUERES, ERES BANEADO! - Minecraft PERMADEATH|255px|center]]
+|row14=
+[[Archivo:¡MÁS DE 30 CREADORES DE CONTENIDO Y SI MUERES, ERES BANEADO! - Minecraft PERMADEATH|255px|center]]
+}}<span style="color:red">'''TheGamerMaldito'''</span> o como le llaman sus amigos "Maldito", fue uno de los participantes de Permadeath. Participando en la 1ª Edición de este Evento. Es conocido como el segundo jugador en morir en el servidor.
+
+==Desempeño==
+
+<span style="color:red"><u>'''1ª Edición:'''</u></span>
+*<u>'''Día 0:'''</u>
+El Evento Comenzó,y GamerMaldito como jugador experimentado, pudo recolectar todo lo posible como para hacerse un Full Hierro. Para la busca de más minerales, como los sería el diamante, se adentra nuevamente en las minas, y logra encontrar una Mineshaft abandonada, y Maldito sabiendo los peligros que se encuentran dentro de ella , toma todas las precauciones para poder seguir adelante. Cuando avanza en la Mineshaft se encuentra una Ravine, pero en la altura suficiente como para conseguir diamantes. En estos momentos parecía que nuestro personaje saldría victorioso, pero con la muerte repentina de Alvaro, Maldito decidió quedarse en las minas antes de subir rápidamente, debido al Death Train. Lamentablemente cuando avanza por la Ravine se encuentra un Creeper que cae encima de el, por suerte contaba con un escudo, el cual no le sirvió de nada por el delay de este. El Creeper al tocar el suelo y sufrir daño exploto inmediatamente, provocando la muerte de Maldito poco tiempo después que la muerte de Alvaro.<br>
+Fue una verdadera pena cuando los jugadores se enteraron de su muerte en el servidor, uno de ellos fue el ElRichMC que deseaba con ansias tener algún roce con este Sujeto.
+
+==Equipos==
+{| class="wikitable"
+!Edición
+!Equipo Original
+!Equipo Temporal
+|-
+| '''1ª Edición'''
+|<center>'''-'''<center>
+|<center>'''-'''<center>
+|}
+
+==Resultados==
+{| class="wikitable"
+!Edición
+!Lugar
+!Causa de Muerte
+|-
+| '''1ª Edición'''
+| 37º
+| Creeper
+|}
+
+==Totéms Utilizados==
+{| class="wikitable"
+!Edición
+!Totéms Utilizados
+|-
+| '''1ª Edición'''
+| '''0'''
+|}
+
+==Valoración de Jugador (porcentaje sobrevivido/participaciones)==
+{| class="wikitable"
+!Lugar
+!Cálculo
+!Valoración
+|-
+|'''37º'''
+|0,09%/1 participación
+|'''0,09'''
+|}
+
+[[Categoría:Participantes]]

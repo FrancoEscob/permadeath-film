@@ -1,0 +1,771 @@
+AQUI TENEMOS LA PAGINA QUE TIRO LA PAGINA DE DESAFIO ATAN
+
+<br />
+
+== Día 0-9 | ==
+Los primeros días fueron totalmente Vanilla, con solo una modificación (plugin) que aportase dificultad adicional, el Death train: Cada vez que moría alguien iniciaba una tormenta dependiendo en los días que lleven jugando.
+
+== Día 10-19 | ==
+El 4 de abril de 2020 se publicó a través de la cuenta oficial de Twitter del servidor el primer aumento de dificultad, con la cita "3 MUERTES NO SON SUFICIENTES... ¡SUBAMOS LA DIFICULTAD E INCREMENTEMOS EL DOLOR!', adjuntando una imagen con los primeros tres cambios:
+
+* ¡Todas las arañas ahora tienen efectos de poción! Entre 1 y 3 efectos aplicados de esta lista: Velocidad III (3), Fuerza IV (4), Salto V (5), Brillo, Regeneración IV (4), Invisibilidad, Caída lenta, Resistencia III (3).
+* Doble de Mobs.
+* Mínimo 4 jugadores para pasar la noche.
+
+== Día 20-29 | ==
+Estrenando los cambios de dificultad de aquel día se llevó a cabo el primer Evento del servidor, el cual consistía en un Homenaje a los Caídos.. En esta ocasión fueron tres anuncios que se publicaron el día 13 de abril de 2020. "9 muertes no son suficientes... ¡SUBAMOS LA DIFICULTAD!"
+
+* Todos los drops de esta lista, eliminados: Iron Golems, Pigmans, Ghasts, Guardianes, Magma Cubes, Endermans, Brujas, Wither Skeletons, Evokers, Phantoms, Slimes, Drowneds, Blazes.
+
+9 muertes no son nada... ¡DOLOR, SUFRIMIENTO... PERMANENTE! ¡MORID TODOS!
+
+* Ciclo de día y noche constante, no puedes saltar la noche.
+* Todos los mobs pacíficos son ahora agresivos, y los pigmans están cabreados de antemano.
+* Todas las arañas tienen ahora de 3 a 5 efectos.
+* 1 de cada 100 Ravagers suelta un Tótem de Inmortalidad.
+* Todos los Phantoms son ahora de tamaño 9 y doble de vida.
+* Ya no puedes ayudar o ser ayudado por jugadores externos a tu equipo a cazar/sobrevivir (Hacer raids, cacerías, wither bosses,..).
+
+¿9 muertes? Que sean mejor 20. ¡MUERTE! ¡MUERTE! ¡MUERTE! ¡MUERTE! ¡MUERTE!
+
+Todas las arañas aparecen ahora con un esqueleto encima de 1 a 5 clases:
+
+* Nada especial- Esqueleto full diamante con 10 corazones.
+* Bow- Arco con punch XX (20), wither skeleton full mayas con 20 corazones.
+* Iron axe- Hacha de hierro con fire aspect II (2), esqueleto full hierro con 10 corazones.
+* Crossbow- Ballesta con sharpness XX (20), esqueleto fulll oro con 20 corazones.
+* Bow- Arco con power X (10), wither skeleton full cuero con 20 corazones.
+
+=== Cambio sorpresa | ===
+Además el día 19 de abril de 2020 se publicaron tres cambios extras ya que no hubo ningún muerto en 24h, contando con 6 muertes después de los cambios:
+
+¡DEATH TRAIN HYPE!
+
+RESET DEL DEATH TRAIN!
+
+* Cada 25 días el Death Train se vuelve más peligroso la cantidad de horas de tormenta en X día se reinicia como si fuese el día 0.
+* Durante el Death Train ahora todos los mobs tienen Fuerza I (1), Velocidad I (1) y Resistencia I (1),
+
+¡AUMENTO DE DIFICULTAD SORPRESA!
+
+* Todas las arañas tienen ahora 5 efectos.
+
+* Todos los Ravagers tiene ahora Fuerza II (2) y Speed I (1), los tótems ahora los sueltan con un 20%.
+* GIGASLIMES: Los slimes solo spwanean de tamaño 15 con doble de vida.
+* GIGA MAGMACUBES: Los magmacubes solo spawnean de tamaño 16 .
+* GHAST DEMONÍACOS: Los ghats se spawnean con 40 a 60 de vida y sus bolas de fuego pueden ser de explosionpwer: 3, 4 y 5.
+
+¡DESBLOQUEAMOS NUEVA ARMADURA!
+
+AUMENTO DE DIFICULTAD SORPRESA
+
+* ¡ARMADURA DE NETHERITE!
+* Puedes obtener una mejor armadura matando GIGASLIMES, GIGA MAGMACUBES, GHAST DEMONÍACOS y ARAÑAS DE CUEVA.
+* Estos enemigos son extremadamente peligrosos.
+* La armadura de Netherite será completamente necesaria para poder sobrevivir más días.
+
+=== Reacción | ===
+Además la cuenta de twitter de ElRichMC publicó, el día 9 de abril de 2020, las reacciones de algunos miembros antes de hacer la revelación al publico.
+
+hardyluski: Ay dios... qué locura.
+
+KillerCreeper55: Bueno chicos, ha sido un placer.
+
+Luh: L O L Con permiso pongo esto y se puede continuar con la conversación. Pero es que creo que es importante que lo adjunte:
+
+Brian: Pero, qué cojones, esas subidas de dificultad? omg
+
+== Día 30-39 | ==
+El día 24 de abril de 2020 se publicó los nuevos cambios de dificultad, justo antes del evento de la batalla contra el dragón.
+
+EMPECEMOS CON UN AUMENTO DE DIFICULTA QUE LOS MIEMBROS DESCONOCÍAN
+
+* AUMENTO DE DIFICULTAD<br />Esqueleto Guerrero- Esqueleto Full Diamante, Full Protection IV (4) con 20 corazones. Esqueleto Infernal- Esqueleto Full Hierro, Diamond Axe con Fire Aspect X (10) y 20 corazones. Esqueleto Asesino- Esqueleto Full Oro, Crossbow con Sharpness XXV (25), Speed II (2) y 20 corazones. Esqueleto Táctico- Wither Skeleton Full Mayas, Bow con Punch XXX (30) y Power XXV (25), con 20 corazones. Esqueleto Pesadilla- Wither Skeleton Full Cuero, Bow con power L (50) y 20 corazones.
+
+Morid. :)
+
+* AUMENTO DE DIFICULTAD Ya no se puede obtener la armadura de Netherite. Ya no se pueden usar las Zonas Comunitarias a excepción del SPAWN. Los Tótems tienen un 99% de probabilidades de activarse y 1% de fallar. La batalla contra la dragona está completamente modificada. Los Mobs Especiales ahora tienen nombre especial. Los Calamares son ahora Guardianes con Speed II (2). Los Murciélagos son ahora Blazes de Resistencia II (2). Los Creepers son ahora Eléctricos. Los Pillagers son ahora invisibles y tienen ballestas de Quick Charge X (10). Los Esqueletos son ahora Esqueletos con CLASE y llevan en la mano izquierda flechas de Daño II (2). Los Pigmans tienen ahora armadura de diamante. Los Iron Golems tienen ahora Velocidad IV (4). Los Endermans tienen ahora Fuerza II (2). Los Silverfish tienen 5 efectos de la misma lista que las Arañas. Los Shulkers son Shulkers Explosivos y dropean con 20% de probabilidad una Shulker Shell. Aparecen Ender Ghasts y Ender Creepers en el End.
+
+=== Cambio sorpresar | ===
+Cuatro días después, el 28 de abril de 2020, se publicó un cambio de dificultad sorpresa: En el mismísimo infierno no habrá ítem que te salve. Vuestro destino está escrito, solo estáis alargando lo inevitable.
+
+* ANUNCIO DE DIFICULTAD Los Tótems se activarán con un 3% de probabilidad de fallar.
+
+Junto con este cambio, en total murieron 11 personas de los días 30-39.
+
+== Día 40-49 | ==
+El día 4 de mayo de 2020 se publicó la primera gran cantidad de cambios, con un adelante el día anterior.
+
+¿Es este el fin?
+
+* ANUNCIO DE DIFICULTAD Todos los jugadores perderán 5 Slots del inventario.
+
+11 jugadores vivos, próximamente: 0 ¡NUEVO AUMENTO DE DIFICULTAD! Bienvenidos al mismísimo INFIERNO.
+
+* AUMENTO DE DIFICULTAD Se habilita el fuego amigo. Se eliminan 5 slots del inventario. Se establecen nuevas normas para evitar jugar de forma sedentaria y monótona. Ya no se puede hacer ni stripmining ni branchmining. Ya no se pueden craftear antorchas ni antorchas de redstone. Ya no se generan algunas estructuras nuevas. Todos los jugadores pierden 4 contenedores de vida. Los Tótems tienen un 3% de probabilidad de fallar y al activarse se consumen 2 en vez de 1. Las Elytras en los barcos ahora aparecen rotas. Respawnear al Dragón genera un Permadeath Demond, el aliento de dragón se obtiene de las Chorus Flower. Aparecen Mobs en las Mushroom Islands. Los Shulkers dropean Shulkers Shells con una 2%. Un % de los Endermans spawnean hostiles. Los Phantoms llevan ahora encima un Esqueleto de Clase. Los Creepers tienen ahora Velocidad II (2) y Resistencia II (2). Los Iron Golems tienen ahora Fuerza I (1). Los guardianes tienen ahora Resistencia II (2) y Velocidad III (3) y el rayo es el doble de rápido. Las arañas son ahora Arañas de Cuevas. Los zombies son ahora Vindicators con fuerza I (1) y doble de vida. Los perros son ahora Gatos. Las Vacas, Ovejas, Cerdos, Pollos y Vacasetas son ahora Ravagers. Los Endermans del Nether son ahora Ender Creepers. Las brujas son ahora brujas imposibles, tienen el doble de vida, Speed II (2) y las pociones que lanzan son Daño Instantáneo IV (4), Veneno III (3) 5m, Slowness V (5) 20s.
+* AUMENTO DE DIFICULTAD Todos los jugadores tienen 1/10000 de recibir 1 minuto de efecto de CEGUERA si están bajo la lluvia. El Death Train ahora es más peligroso que nunca.
+* AUMENTO DE DIFICULTAD ¡NUEVO ÍTEM! La Super Golden Apple+ proporciona 5 minutos de Heath Boost I (1), puede comerse siempre que se quiera pero su efecto no es stackable.  AUMENTO DE DIFICULTAD ¡NUEVO ÍTEM! La Hyper Golden Apple+ solo puede ser consumida 1 vez y proporciona 2 contenedores permanentes de vida adicional.
+* MORID AUMENTO DE DIFICULTAD Los gatos son ahora Gatos Supernova. Su poder de explosión es capaz de arrasar una base entera.
+* ¿Compañeros?  AUMENTO DE DIFICULTAD Todos lo jugadores tienen derecho ahora a un compañero de equipo. La norma es: Desde tu cama, la cama de tu vecino más cercana se convierte en tu compañero. (No puedes compartir ítems con tu compañero pero puedes salvarle, hacer actividades con él).
+* ¡NUEVO ÍTEM, RELIQUIA DEL FIN! ¡NUEVO ÍTEM! Esta Reliquia permite recuperar los 5 slots que se han perdido. Se debe llevar siempre en el inventario. Ahora se pueden descraftear Shulker Boxes para obtener Shulker Shells. AUMENTO DE DIFICULTAD Se ha generado en algún lugar del mundo un portal al 'The Beginning'. Se recomienda a los jugadores buscarlo en grupo antes de 10 días.  AUMENTO DE DIFICULTAD Los Ghasts Demoníacos son ahora un 75% de las veces Demonios Flotantes. Las bolas de los Demonios Flotantes dan Levitación 50 y Wither V (5) 20s. No explotan y o hacen daño.
+* ¡PIGMAN JOCKEYS! Pigman sobre Cerdo- El Cerdo tiene 5 efectos como las arañas, 20 de daño y armadura rosa. Pigman sobre Abeja- La Abeja tiene 50 corazones, el Pigman armadura amarilla y 6 de daño base. Pigman sobre Ghast- El Ghast no es peligroso pero se tpea el 80% de las veces, el Pigman tiene Velocidad IV (4) y 4 de daño base. Pigman sobre Magma Cube- Tiene medio corazón, inmunes a proyectiles.
+* ¡MÁS DOLOR! ¡MÁS SUFRIMIENTO! AUMENTO DE DIFICULTAD Jess la Emperatriz- Drop: 2 manzanas doradas. 120 corazones. Carlos el Esclavo- Drop: 32 lingotes de oro. 75 corazones. Full Mayas Protección II (2). Espada de madera Empuje X (10). Ultra Ravager- Drop: 1 tótem. 250 corazones. Velocidad II (2) y Fuerza II (2). A pesar de la gran cantidad de cambios, a día de hoy solo ha muerto una persona.
+
+== Día 50-59 | ==
+El día 14 de mayo de 2020 se publicaron más cambios.
+
+El día 50 es un día importante. Por eso queremos celebrarlo por todo lo alto. ¡Vivan los bacalaos! Cuando el servidor esté online y actualizado publicaremos TODOS los cambios, de momento os dejo con la miel en los labios. -Rich
+
+* AUMENTO DE DIFICULTAD Bacalao de la Muerte- Espada de madera con Sharpness L (50) y Knockback C (100).
+
+¡NUEVO AUMENTO DE DIFICULTAD! Miaurid.
+
+* AUMENTO DE DIFICULTAD Los Gatos Supernova ahora son Gatos Gálacticos. Ya no explotan, pero pueden invocar cualquier mob de Permadeath al morir, incluido un Gato Supernova o un Permadeath Demon.
+
+MORID
+
+* AUMENTO DE DIFICULTAD Ya no se pueden craftear Cubos de Lava y Agua. Los totems tienen un 5% de probabilidad de fallar y ya no se obtienen en Raids. Las Raid dan efecto de Hero Of The Village durante 5Min. Picar bloques quitan medio corazón cada uno. Fundir ores de Hierro y Oro dan Pepitas en vez de lingotes. Te ahogas 5 veces más rápido. Estar en Soulsand da Slowness II. En el overworld puedes tener aleatoriamente Levitación de 3s a 20s durante las noches. En el Nether llueven Mobs. Hay más probabilidad de recibir ceguera durante la lluvia. En el día 55 se darán medallas a los supervivientes. Los mobs hostiles ahora tienen Resistencia contra el fuego. Las arañas de cueva ya no pueden tener Glowing. Los Creepers Energéticos son ahora Quantum Creepers y el 20% Ender Creepers. Los Phantoms ahora son Giga Phantoms y hay un 1/100 de que cuando Spawnean sean 4 Ender ghasts. Los pollos son ahora Silverfish. Los salmones son ahora Pufferfish Invulnerables. Los Ravagers ahora son Ultra Ravagers pero no dropean tótems. El 20% de los Pigmans son Pigmans Jockeys, los Drops están al 33%. El 1% de los Illagers son ahora Evokers. Los Iron Golems tienen ahora resistencia II. Los Drowneds llevan ahora Tridentes. Las abejas hacen ahora 15 corazones de daño base. El efecto de Mining Fatigue no se puede quitar con leche y dura el doble.
+
+YOU DIE, I LAUGH Los esqueletos suben de nivel.
+
+* AUMENTO DE DIFICULTAD  Esqueleto guerrero- Esqueleto Full Diamante Protección IV (4) con 50 corazones. Esqueleto Infernal- Esqueleto Full Hierro, Diamond Axe con Fire Aspect XX (20) y Sharpness XXV (25), con 20 corazones. Esqueleto Asesino- Esqueleto Full Oro con Speed II (2), Crossbow con Sharpness L (50), y con 20 corazones. Esqueleto Táctico- Wither Skeleton Full Mayas, Bow con Punch L (50) y PowerXXX (40), y con 20 corazones. Esqueleto Pesadilla- wither Skeleton Full Cuero, Bow LX (60), y con 90 corazones.
+
+Y a continuación los cambios sorpresa:
+
+¡ARMADURA DE NETHERITE INFERNAL!
+
+* AUMENTO DE DIFICULTAD SORPRESA ¡ARMADURA DE NETHERITE INFERNAL DESBLOQUEADA! Puedes conseguir una mejor armadura consiguiendo 4 bloques de netherite infernal y poniéndolos en forma de cruz en una mesa de crafteo con tu armadura de netherite que deseas mejorar.
+
+Morid. Morid. Morid. Morid. Morid. Morid. Morid. Morid. Morid. Morid. Morid. Morid. Morid. Morid. Morid. Morid. Morid. Morid. Morid. Morid. Morid. Morid. Morid. Morid. Morid. Morid.
+
+* RESET DEL DEATH TRAIN Cada día que pasa aumenta 30min. en ves de 60min. Todos los mobs tienen Fuerza II (2) Velocidad II (2) y Resistencia II (2). Durante los Death Train el mundo se convierte en modo UHC.
+
+¡CAMBIOS DE DIFICULTAD SORPRESA! ¡LOS JUGADORES NO ESTABAN LISTOS PARA ESTO Y VAN A MORIR!
+
+* CAMBIOS SORPRESAS Los últimos 10 muertos podrán sugerir 5 cambios de los cuales se seleccionará 1 para fastidiar a los vivos. Dormir tiene un 10% de resetear el contador de Phantoms. La tarta de calabaza es ahora la mejor comida del juego, da 5s de saturación. Los ojos de araña, Roten Flesh, Patata venenosa y Pez globo dan los efectos permanentemente al comerlos. Los escupitajos de las llamas dan ahora Veneno III 30s, Náusea 10s y tienen Empuje III. Las arañas de cueva dan ahora Veneno III y Náusea. Los osos polares ahora explotan. Los Shulkers explosivos son ahora Invulnerables. Los Blazes tienen ahora 100 Corazones. Los Phantoms tienen ahora algunos efectos de poción. Los Illagers tienen ahora Hacha de diamante con Sharpness V. Los Vexes tienen ahora Resistencia III. Los Giga MagmaCubes y Giga Slimes tienen ahora el doble de vida.
+
+¡MONSTRUOS! ¡DEMONIOS! ¡Y AHORA GIGANTES!
+
+* CAMBIO SORPRESA Ahora spawnean GIGANTES en los biomas de PLAINS. Tienen 300 corazones, drop: Arco de Gigante, Power X (10). Quitan mucho de vida.
+
+¡HERRAMIENTAS DE NETHERITE YA DISPONIBLES!
+
+* AUMENTO DE DIFICULTAD SORPRESA ¡HERRAMIENTAS DE NETHERITE YA DISPONIBLES! Las herramientas evitan que quitar bloques te haga daño, y la Espada y la Hacha hacen más daño.
+
+¡THE BEGINNING, LA NUEVA DIMENSIÓN, EL MEJOR SITIO PARA SER PERMABANEADO!
+
+* AUMENTO DE DIFICULTAD SORPRESA THE BEGINNING YA ESTÁ ABIERTO No se dará ningún tipo de información a los jugadores. Solo se puede entrar a la dimensión si no hay un Death Train activo.
+
+¡Dije que hay más! ¡Y HAY MÁS MUERTE! ¡MÁS DOLOR! ¡Y MUCHO SUFRIMIENTO!
+
+* CAMBIOS SORPRESAS Wither Skeleton Emperador- Wither Skeleton Full Oro con Bow- Power C (100) y Punch V (5), 40 corazones Drop: 50% Espada de Netherite. 1 de cada 50 Wither Skeletons de un Nether Fortress son emperadores. Las flechas no le hacen daño.
+
+a Muerte de un Jugador ocurre cuando su personaje pierde todos sus Puntos de Vida. En Permadeath, la muerte de un jugador lo lleva a ser Permabaneado, tras lo cual no puede volver a entrar al Servido
+
+==Mensajes de Muerte | ==
+Cuando un Jugador muere, el título "¡Permadeath!" aparece en pantalla, con el subtítulo "<code>Player</code> ha muerto" (donde Player es el nombre del jugador). Este mensaje se muestra a todos los jugadores, y viene acompañado de dos alertas sonoras: un rugido de dragón y un "Permadeath" dicho por Rich, seguidos por el sonido de muerte de un Jinete Esqueleto.
+
+En el Chat del juego se muestra el mensaje en rojo "Este es el comienzo del sufrimiento eterno de <code>Player</code>. ¡HA SIDO PERMABANEADO!", seguido por un mensaje de muerte personalizado, generalmente a modo de burla o chiste, con una frase personalizada según el Jugador (si bien no todos tienen). Por último, se muestra el mensaje de muerte normal de Minecraft, en el que especifica la Causa de Muerte.
+
+Tras su muerte, el jugador es baneado instantáneamente del servidor, sin posibilidad de volver a entrar. El mensaje mostrado dice "Conexión Perdida. Motivo: ¡Has sido PERMABANEADO!".
+
+Esta es una Lista de todos los Mensajes de Muerte Personalizados.
+
+-No tuvo por morir el primer día (Alvaro)
+
+-No tuvo por morir el primer día (Thegamermaldito)
+
+-No tuvo por morir el primer día (Cecililla)
+
+-Has sido deleteado, titi (Kau)
+
+-Su estado es muerto (Felipez)
+
+-Llano estás en el server, Ebay (Ibai)
+
+-Equivalente a quedarse AFK en el LOL (Raven)
+
+-De noob a doble noob (AKA)
+
+-No es cortés irse antes de tiempo (Ander)
+
+-No tuvo por ser baneado(a) por AFK (Lilicross)
+
+-Muere en el PvE otra vez (Rubik)
+
+-Ahora descansa en paz (Zeling)
+
+-Le han puesto mirando a Cuenca (Tonacho)
+
+-No tuvo por ser baneado(a) por AFK (Perxita)
+
+-No tuvo por ser baneado(a) por AFK (Alex)
+
+-Se la han colado por el aro (Outconsumer)
+
+-Comer niños no le confirió vida eterna (Rangu)
+
+-Se ha quedado congelado (Frigo)
+
+-Failagor a partir de ahora (Folagor)
+
+-¿Dónde está el paracetamol? (Paracetamor)
+
+-Verdaderamente lamentable (Gona)
+
+-Por esto hizo 18 h de esclavitud (Carlos)
+
+-El diamantito le sirvió de poco (Mike)
+
+-No tuvo por ser baneado(a) por AFK (BarbeQ)
+
+-Ahora descansa en paz (Cibergun)
+
+-MYM: Malo y muerto (ALKApone)
+
+-Dice nyasu pero no tiene 7 vidas (Nia)
+
+-¡Más bien EZylusky! (Hardy)
+
+-No tuvo por ser baneado(a) por AFK (Jaky)
+
+-No tuvo por ser baneado(a) por AFK (Antonio)
+
+-Ahora por fin descansa en paz (Breen)
+
+-Eso no ha sido muy Ey Ey Ey de tu parte... (ElRichMC)
+
+-Has sido promocionado al rango boomer (Esvandal)
+
+-Ahora por fin descansa en paz (kakytron)
+
+-Ahora por fin descansa en paz (Crisgreen)
+
+-Oui Oui, la baguette est bien mort (Shadoune666)
+
+-Más conocido como el jugador permabaneado (killer_creeper55))
+
+-HDluh. Código Luh-XD en el cementerio del server (Luh)
+
+-Ahora descansá en paz (omnirich)
+
+==Lista de Muertes |==
+
+===Días 0-9 |===
+
+*'''Alvaro845 (25/03/2020, 19:15:18), Muerte por Creeper'''
+
+La muerte de Alvaro fue la primer muerte del Servidor, ocurriendo el primer día.
+
+*'''TheGamerMaldito (25/03/2020, 19:30:04), Muerte por Creeper'''
+
+.
+
+*'''Cecililla (25/03/2020, 21:29:16), Muerte por Creeper'''
+
+.
+
+===Días 10-19 |===
+
+*'''Kaumaru (4/04/2020, 16:50:27), Muerte por Araña de Cueva'''
+
+.
+
+*'''Felipez360 (4/04/2020, 20:19:39), Muerte por Araña'''
+
+.
+
+*'''Ibai (5/04/2020, 17:23:54), Muerte por Creeper'''
+
+.
+
+*'''ReventXzz (5/04/2020, 17:28:08), Muerte por Araña de Cueva'''
+
+.
+
+*'''AKAWonder (6/04/2020, 01:17:26), Muerte por Blaze'''
+
+.
+
+*'''Ander (12/04/2020, 22:46:29), Muerte por Araña'''
+
+.
+
+===Días 20-29 | ===
+
+* '''LiliCross (19/04/2020, 15:03:00), Ban por AFK'''
+
+Pese a que en ese momento solo se aplicaba el Ban por AFK tras 10 días seguidos sin conectarse, Lili acordó con el administrador para ser Baneada debido a su inactividad, y sumado al hecho de que no iba a ser capaz de jugar durante los próximos días tampoco. Es el único Ban por AFK que no ocurre a las 00:00:00 horas.
+
+*'''Rubik (19/04/2020, 17:35:13), Muerte por Araña de Cueva'''
+
+..
+
+* '''Zeling (20/04/2020, 01:58:13), Muerte por Magma Cube'''
+
+.
+
+*'''Tonacho (20/04/2020, 14:30:30), Muerte por Slime'''
+
+.
+
+===Días 30-39 |  ===
+
+*'''Perxitaa (24/04/2020, 00:00:00), Ban por AFK'''
+
+.
+
+*'''AlexElCapo (24/04/2020, 00:00:00), Ban por AFK'''
+
+.
+
+*'''OutConsumer (24/04/2020, 13:38:31), Muerte por Pollo'''
+
+.
+
+*'''RanguGamer (24/04/2020, 17:20:36), Muerte por Silverfish de la Muerte'''
+
+.
+
+*'''FrigoAdri (24/04/2020, 18:22:16), Muerte por Ender Creeper'''
+
+.
+
+*'''Folagor (26/04/2020, 20:54:43), Muerte por Ender Ghast'''
+
+.
+
+*'''Paracetamor (26/04/2020, 20:58:49), Muerte por Caer al Vacío'''
+
+.
+
+*'''Gona89 (28/04/2020, 17:03:26), Muerte por Shulker Explosivo'''
+
+.
+
+*'''MrCarlosNoob (28/04/2020, 17:23:34), Muerte por Caída escapando de una Araña de Cueva'''
+
+.
+
+*'''Mikecrack (29/04/2020, 22:49:47), Muerte por Ender Ghast'''
+
+.
+
+* '''BarbeQ (30/04/2020, 00:00:00), Ban por AFK'''
+
+.
+
+*'''Cibergun (30/04/2020, 19:55:59), Muerte por Ender Ghast'''
+
+.
+
+*'''Alkapone (2/05/2020, 04:07:22), Muerte por Caída'''
+
+.
+
+*'''Lakshart (2/05/2020, 18:22:00), Muerte por Ender Ghast'''
+
+.
+
+===Días 40-49 | ===
+
+*'''Hardyluski (8/05/2020, 14:10:12), Muerte por Gato Supernova'''
+
+.
+
+===Días 50-59 |===
+
+* '''ELRICHMC (15/05/2020, 19:23:55), Muerte por Caer al vacío'''
+
+*'''EsVandal (16/05/2020, 22:58:41), Muerte por Wither Skeleton Emperador'''
+
+.
+
+=== Días 60-69 |===
+'''* Kakytron (24/05/2020, 14:58:18), Muerte por Ender Quantum Creeper'''
+
+.
+
+*'''CrisGreen (24/05/2020, 15:32:41), Muerte por Ender Quantum Creeper'''
+
+.
+
+* '''Shadoune (24/05/2020, 15:37:14), Muerte por Ahogarse'''
+
+.
+
+*'''Killercreeper (24/05/2020, 20:43:39), Muerte por Ender Quantum Creeper'''
+
+.
+
+*'''Luh (24/05/2020, 20:50:35), Muerte por Ahogarse<nowiki>'''</nowiki>'''
+
+
+==Orden de Muertes |==
+Aclaración: PermadeathSMP no es una competición entre jugadores, sino entre el jugador y el juego. El Número de Superviviente se determina según el orden de las muertes, pero no tiene ningún valor (el mérito es por el tiempo sobrevivido, no por su posición en comparación con otros jugadores).
+{| class="sortable article-table"
+|+Muertes de Permadeath
+!
+!Fecha de Muerte
+!Hora de Muerte
+!Causa de Muerte
+!N° de Muerte
+!N° de Superviviente
+! Totem
+|-
+|Alvaro845
+|25/03/2020
+|19:15:18
+| Creeper
+|#1
+|#39
+|No Equipado
+|-
+| TheGamerMaldito
+|25/03/2020
+|19:30:04
+|Creeper
+|#2
+|#38
+| No Equipado
+|-
+|Cecililla
+|25/03/2020
+|21:29:16
+|Creeper
+|#3
+|#37
+|No Equipado
+|-
+|Kaumaru
+|04/04/2020
+|16:50:27
+|Araña de Cueva
+|#4
+|#36
+|No Equipado
+|-
+|Felipez360
+|04/04/2020
+|20:19:39
+|Araña
+|#5
+|#35
+|Consumido
+|-
+|Ibai
+|05/04/2020
+|17:23:54
+|Creeper
+|#6
+|#34
+|No Equipado
+|-
+|ReventXzz
+|05/04/2020
+|17:28:08
+|Araña de Cueva
+|#7
+|#33
+|No Equipado
+|-
+|AKAWonder
+|06/04/2020
+|01:17:26
+|Blaze
+|#8
+|#32
+|No Equipado
+|-
+|Ander
+|12/04/2020
+|22:46:29
+|Araña
+|#9
+|#31
+|Consumido
+|-
+|LiliCross
+|19/04/2020
+|15:03:00
+|AFK
+|#10
+|#30
+|AFK
+|-
+|RubikYT
+|19/04/2020
+|17:35:13
+|Araña de Cueva
+|#11
+|#29
+|Consumido
+|-
+|Zeling
+|20/04/2020
+|01:58:13
+|Magma Cube
+|#12
+|#28
+|Consumido
+|-
+|Tonacho
+|20/04/2020
+|14:30:30
+|Slime
+|#13
+|#27
+|Consumido
+|-
+|Perxitaa
+|24/04/2020
+|00:00:00
+|AFK
+|#14
+|#26
+|AFK
+|-
+|AlexElCapo
+|24/04/2020
+|00:00:00
+|AFK
+|#15
+|#25
+|AFK
+|-
+|OutConsumer
+|24/04/2020
+|13:38:31
+|Pollo
+|#16
+|#24
+|Consumido
+|-
+|RanguGamer
+|24/04/2020
+|17:20:36
+|Silverfish de la Muerte
+|#17
+|#23
+|No Equipado
+|-
+|FrigoAdri
+|24/04/2020
+|18:22:16
+|Ender Creeper
+|#18
+|#22
+|No Activado (1%)
+|-
+|Folagor
+|26/04/2020
+|20:54:43
+|Ender Ghast
+|#19
+|#21
+|Consumido
+|-
+|Paracetamor
+|26/04/2020
+|20:58:49
+|Caer al Vacío
+|#20
+|#20
+|No Activado (Vacío)
+|-
+|Gona89
+|28/04/2020
+|17:03:26
+|Shulker Explosivo
+|#21
+|#19
+|No Activado (1%)
+|-
+|MrCarlosNoob
+|28/04/2020
+|17:23:34
+|Caída escapando de una Araña de Cueva
+|#22
+|#18
+|No Activado (1%)
+|-
+|Mikecrack
+|29/04/2020
+|22:49:47
+|Ender Ghast
+|#23
+|#17
+|Consumido
+|-
+|BarbeQ
+|30/04/2020
+|00:00:00
+|AFK
+|#24
+|#16
+|AFK
+|-
+|Cibergun
+|30/04/2020
+|19:55:59
+|Ender Ghast
+| #25
+|#15
+|Consumido
+|-
+|Alkapone
+|02/05/2020
+|04:07:22
+|Caída
+|#26
+|#14
+| Consumido
+|-
+|Lakshart
+|02/05/2020
+|18:22:00
+|Ender Ghast
+|#27
+|#13
+|Consumido
+|-
+|Hardyluski
+|08/05/2020
+|14:10:12
+|Gato Supernova
+|#28
+|#12
+|No Activado (3%)
+|-
+|Th3Antonio
+|14/05/2020
+|00:00:00
+|AFK
+|#29
+|#11
+|AFK
+|-
+|CooLifeGame
+|14/05/2020
+|00:00:00
+|AFK
+|#30
+|#10
+|AFK
+|-
+|BriiHD
+|14/05/2020
+|07:59:25
+|Ghast Demoníaco
+|#31
+|#9
+|No Equipado (Por falta de slots)
+|-
+|ElRichMC
+|20/05/2020
+|19:23:55
+|Caer al Vacío
+|#32
+|#8
+|No Activado (Vacío)
+|-
+|EsVandal
+|23/05/2020
+|22:58:41
+|Wither Skeleton Emperador
+|#33
+|#7
+|Consumido
+|-
+|Kakytron
+|24/05/2020
+|14:58:18
+|Ender Quantum Creeper
+|#34
+|#6
+|No Equipado (Por falta de slots)
+|-
+|CrisGreen
+|24/05/2020
+|15:32:41
+|Ender Quantum Creeper
+|#35
+|#5
+|No Equipado (Por falta de slots)
+|-
+|Shadoune
+|24/05/2020
+|15:37:14
+|Ahogarse
+|#36
+|#4
+|Consumido
+|-
+|Killercreeper55
+|24/05/2020
+|20:43:39
+|Ender Quantum Creeper
+| #37
+|#3
+|No Equipado (Equipaba su medalla en la mano derecha por la falta de slots, pero en el ultimo segundo se puso el escudo, y tuvo tiempo de usarlo)
+|-
+|Luh
+|24/05/2020
+|20:50:35
+|Ahogarse
+|#38
+|#2
+|Consumido
+|-
+|omnirich
+|5/06/2020
+|14:30:20
+|Vex
+|#39
+|#1
+|No Equipado
+|}
+ '''Hecho por juani10022'''
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br /><activityfeed />
+
+__NOTOC__
+
+__NOEDITSECTION__
+[[Categoría:Navegación]]
+[[Categoría:Minecraft]]
+[[Categoría:Permadeath]]
+[[Categoría:Apuntarse]]

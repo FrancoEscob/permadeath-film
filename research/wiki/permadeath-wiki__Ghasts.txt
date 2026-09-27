@@ -1,0 +1,54 @@
+{{Infobox_Enemigos
+|title1=Ghasts
+|image1=[[Archivo:Ghasts.gif]]
+|puntos_de_salud= '''10''' [[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]]
+|ataque= '''6''' [[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]]
+|explosión= '''22''' [[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]]
+|recompensa=
+<u>Normal:</u>
+[[Archivo:Pólvora.png|20px]] '''Pólvora'''
+<br>[[Archivo:Lágrima de ghast.png|20px]] '''Lágrima de Ghast'''
+<br><u>Día 20:</u>
+<br>[[Archivo:Pólvora.png|20px]] '''Eliminado'''
+<br>[[Archivo:Lágrima de ghast.png|20px]] '''Eliminado'''
+|aparece_en:= El Nether
+|día_de_aparición= Día 0
+|jugadores_asesinados= '''0'''
+|tótems_utilizados= '''0'''}}Los '''Ghasts''' son un mob hóstil proveniente de Minecraft, y al ser originario de este, estuvo en [[Permadeath]] desde el día 0.
+
+== Cambios ==
+<u>'''Día 20'''</u>
+*Todos los <span style=color:red>drops</span> de los Ghasts, <span style=color:red>Eliminados</span>.
+
+== Desarrollo ==
+*<span style=color:red><u>'''Día 0 - Día 20'''</u></span>
+Los Ghasts son el mob favorito de muchos, algunos les gusta por sus característicos sonidos y otros por su letalidad en momentos poco oportunos. Pero en este servidor, en el estado base, no causaron muchos problemas. hay que recordar que su vida es bastante, y aunque su daño sea uno de los más altos, la mayoría de jugadores ya contaban con una buena armadura para la ocasión.
+Los Ghast fueron una buena forma de recuperar vida, sus lágrimas son parte de una de las pociones más rotas de Minecraft, las pociones de Regeneración.
+
+*<span style=color:red><u>'''Día 20 - Día 25'''</u></span>
+LLega un nuevo cambio de dificultad, que comparado con el anterior, es bastante extenso. Entre estos cambios, se ha eliminado el drop de muchos mobs bastante importantes, entre ellos estan los Ghasts. Por suerte, [[ElRichMC]] le comunico a cada uno de los participantes, este cambio a venir. Por ello muchos jugadores durante los días 15 a 20, fueron uno de los muchos mobs a farmear,
+Después de este cambio, no valía la pena matar a uno de estos enemigos, a menos que te estuviese atacando.
+
+== Estadísticas ==
+
+=== Cantidad de muertes ===
+{| class="wikitable"
+! Lugar
+! Cantidad de Muertes
+! Jugadores
+|-
+| <center>'''7º'''</center>
+| <center>'''0'''</center>
+| '''null'''
+|}
+
+=== Cantidad de Tótems ===
+{| class="wikitable"
+! Cantidad de Tótems
+! Jugadores
+|-
+| <center>'''0'''</center>
+| '''null'''
+|}
+
+[[Categoría:Enemigos]]

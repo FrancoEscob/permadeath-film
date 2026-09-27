@@ -1,0 +1,85 @@
+{{Infobox_Jugador
+|title1= Ander
+|image1= [[File:Ander Cortés_Youtube.jpg|thumb|180px]]
+|nick_de_minecraft= 4andeR
+|nombre_en_youtube= Ander Cortés
+|nombre_en_twitch= tvandeR
+|redes_sociales= 
+[[Archivo:Youtube.png|35px|link=https://www.youtube.com/user/aragorn575]][[Archivo:Twitch.png|35px|link=https://www.twitch.tv/tvander]][[Archivo:Twitter.png|35px|link=https://twitter.com/andercortes]]
+|suscriptores_en_youtube= +190.000
+|seguidores_en_twitch= +380.000
+|participaciones= 1 Edición
+|mejor_resultado= 30º lugar
+|muertes= Atacado por una Araña
+|mensajes_de_muerte= ''"No es cortés irse antes de tiempo"''
+|row13=
+[[Archivo:ANDER EN PERMADEATH (Episodio 1)|255px|center]]
+|row14=
+[[Archivo:PERMADEATH - El final|255px|center]]
+}}<span style="color:red">'''Ander'''</span>, fue uno de los participantes de Permadeath. Participando en la 1ª Edición de este Evento. Formaba parte del equipo de G2 junto a [[BarbeQ]], [[Ibai]] y [[ReventXzz]].
+
+==Desempeño==
+
+<span style="color:red"><u>'''1ª Edición:'''</u></span>
+
+*<u>'''Día 0 - Día 10:'''</u>
+
+El servidor abre sus puertas, '''Ander''' se encuentra en el equipo original mas grande que existe conformado solamente por integrantes de G2. Aunque fuera así, la mayoría eran bastante novatos, provocando que sus integrantes no tuvieran un gran interés en el juego, entre ellos tenemos al mismo [[Ibai]] y a [[ReventXzz]]. En general este equipo fue bastante ausente, sin embargo '''Ander''' era el único que tenía interés para seguir con la serie y sobrevivir el mayor número de días posibles. 
+
+*<u>'''Día 10 - Día 18:'''</u>
+
+Se introducen los nuevos cambios de dificultad, ahora las arañas tienen efectos bastante poderosos, pudiendo derrotar tanto a [[Kaumaru102|Kaumaru]], como al gran [[Felipez360]]. Este ultimo hecho provoco que regresara aquel interés de lo que pasaba en el servidor para todos los integrantes del equipo G2. Tenían que equiparse lo suficiente como para no morir por las arañas y para no ser baneados por AFK. Los jugadores de G2, empezaron el día 11 en malas condiciones en frente a los demás, por suerte '''Ander''' había dedicado un gran numero de horas al juego desde antes y los guió lo suficiente como para conseguir los primeros recursos. ReventXzz estaba minando e Ibai se le adelanta, pero comete el error de asustarse y desesperarse al momento de que ve a un Creeper, esto provoco que explotase y matara a Ibai en aquel momento. Poco tiempo después también muere el jugador ReventXzz, por culpa de una Araña con Velocidad III y Fuerza IV. Con estas bajas el equipo de G2 de pasar de ser uno con el mayor número de integrantes, pasa a tener solo 2, donde '''Ander''' está incluido.
+
+Fue gracias a la muerte de sus compañeros, que '''Ander''' se propone seguir adelante y dar lo mejor de sí.
+
+Sin embargo a partir de estos hechos queda deambulando dentro del server, ya que no contaba con el resto de su equipo y no contaba con una base para sobrevivir los demás, con estos acontecimientos es que '''Ander''' llega a la base de [[Zeling|Zeling]] y [[Th3Antonio|Antonio]], y como las reglas entre equipos eran bastante más flojas, no tuvieron problemas en abrirle un pequeño hueco a '''Ander''' dentro de la base.
+
+Con este suceso '''Ander''' logra relacionarse con más participantes dentro del servidor y va aprendiendo poco a poco más sobre Minecraft con la ayuda de [[Lakshart Nia|Nia]], aprendiendo como conseguir totems, como hacer pociones, como encantar armas y herramientas, como hacer granjas de aldeano y demás. '''Ander''' comprende por completo la complejidad que lleva esta juego de cubos, y se convierte en un jugador bastante habilidoso en pocos días.
+
+Todo va muy bien hasta el día 18 del servidor, en donde '''Ander''' va en una expedición con Nia y Zeling en busca de tridentes, en cierto momento se encuentra en graves problemas, hordas de enemigos atacan a '''Ander''' y este trata de defenderse lo mejor posible, pero aparecen las [[Arañas con efectos]], las cuales son las responsables de la muerte de nuestro protagonista de esta historia. EL susto que se llevo Nia ante tal muerte dentro del servidor, fue bastante inmenso ya que sentía de cierta forma que era responsable del fallecimiento de su compañero.
+
+'''Ander''' fue una gran sorpresa, lamentablemente duro bastante poco dentro del servidor, su potencial iba incrementando con el transcurso de los días, y su muerte fue bastante honorable dentro de todo.
+
+==Equipos==
+{| class="wikitable"
+!Edición
+!Equipo Original
+!Equipo Temporal
+|-
+|'''1ª Edición'''
+|<center>'''<u>G2:</u> <span style="color:red">Ander</span>, [[BarbeQ]], [[Ibai]] y [[ReventXzz]]'''<center>
+|<center>'''-'''<center>
+|}
+
+==Resultados==
+{| class="wikitable"
+!Edición
+!Lugar
+!Causa de Muerte
+|-
+|'''1ª Edición'''
+|30º
+|[[Arañas con efectos|Araña]]
+|}
+
+==Totéms Utilizados==
+{| class="wikitable"
+!Edición
+!Totéms Utilizados
+|-
+|'''1ª Edición'''
+|'''1''' [(1)Araña]
+|}
+
+==Valoración de Jugador (porcentaje sobrevivido/participaciones)==
+{| class="wikitable"
+!Lugar
+!Cálculo
+!Valoración
+|-
+|'''30º'''
+|16,7%/1 participación
+|'''16,7'''
+|}
+
+[[Categoría:Participantes]]

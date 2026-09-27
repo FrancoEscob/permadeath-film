@@ -1,0 +1,57 @@
+{{Infobox Enemigos
+|title1=GigaPhantoms
+|image1=[[Archivo:Phantom.gif]]
+|puntos_de_salud= '''40''' [[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]]
+|ataque=
+<u>Normal:</u> '''18'''  [[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]]
+<u>Fuerza IV:</u> '''93,6''' [[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Half Heart.png]]
+|recompensa= [[Archivo:PhantomMembraneNew.png|16px]] '''Eliminada día 20'''
+|aparece_en:= en cualquier bioma (si no has dormido en 3 días)
+|día_de_aparición= día 50
+|jugadores_asesinados= '''null'''
+|tótems_utilizados= '''null'''
+|resistencia= '''15''' [[Archivo:Armor.png]][[Archivo:Armor.png]][[Archivo:Armor.png]][[Archivo:Armor.png]][[Archivo:Armor.png]][[Archivo:Armor.png]][[Archivo:Armor.png]][[Archivo:Half Armor.png]]
+|regeneración= '''1/6 ticks''' [[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]]}}
+
+Los '''GigaPhantoms''' son una modificación de los '''Phantoms Buffeados''', que se incorporó a [[Permadeath]] a partir del día 50.
+
+== Cambios ==
+<u>'''Día 50'''</u>
+*Ahora los <span style=color:red>Phantoms</span> son ahora <span style=color:red>GigaPhantoms</span> y hay <span style=color:red>1/100</span> de que cuando spawnean sean <span style=color:red>4 Ender Ghast</span>
+*Los <span style=color:red>Phantoms</span> tienen ahora algunos efectos de poción.
+
+<u>'''Día 60'''</u>
+*Ahora hay un <span style=color:red>25%</span> de que cuando se spawnean <span style=color:red>Phantoms</span> sean <span style=color:red>4 Ender Ghast</span>
+
+== Desarrollo ==
+*<span style=color:red><u>'''Día 50 - Día 60:'''</u></span>
+Los Phantoms se vuelven seres super peligrosos, además de ser mucho más grandes, tienen algunos efectos de poción igual que las arañas. Aunque otra vez, no provocaron muertes ni nada por el estilo porque los jugadores estaban concentrados en The Beginning, hubiera sido divertido ver como actuaba un Phantom de Fuerza IV que tiene el poder de instakillear a algunos.
+
+*<span style=color:red><u>'''Día 60:'''</u></span>
+Ultimo día de [[Permadeath]]. Los GigaPhantoms ahora tienen muchas probabilidades de ser 4 Ender Ghast,  los enemigos más temidos y que provocaron muchos tótems perdidos y muertes. Lamentablemente todos murieron este día y no se pudo ver el efecto que podrían traer estos enemigos.
+
+== Estadísticas ==
+
+=== Cantidad de muertes ===
+{| class="wikitable"
+! Lugar
+! Cantidad de Muertes
+! Jugadores
+|-
+| <center>'''6º'''</center>
+| <center>'''0'''</center>
+|
+'''null'''
+|}
+
+=== Cantidad de Tótems ===
+{| class="wikitable"
+! Cantidad de Tótems
+! Jugadores
+|-
+| <center>'''0'''</center>
+|
+'''null'''
+|}
+
+[[Categoría:Enemigos]]

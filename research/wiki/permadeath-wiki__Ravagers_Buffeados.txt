@@ -1,0 +1,69 @@
+{{Infobox Enemigos
+|title1=Ravagers Buffeados
+|image1=[[Archivo:Ravager.png]]
+|puntos_de_salud= '''100''' [[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]]
+|resistencia=
+|regeneración=
+|ataque= 
+<u>Normal:</u> '''18''' [[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]]
+<u>Rugido:</u> '''24''' [[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]]
+<br><u>Fuerza II:</u> '''46,8''' [[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]]</br>
+<u>Rugido II:</u> '''62,4''' [[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]]
+|recompensa=
+<u>Día 20:</u> [[Archivo:Tótem.png|18px]] '''1%'''
+<u>Día 25:</u> [[Archivo:Tótem.png|18px]] '''20%'''
+|aparece_en:=
+<u>Día 20:</u> Junto a los Pillagers
+<u>Día 40:</u> En cualquier bioma
+|día_de_aparición= Día 20
+|jugadores_asesinados=0
+|tótems_utilizados=1}}
+
+Los '''Ravagers Buffeados''' son una modificación de los Ravagers, que se incorporó a [[Permadaeth]] a partir del día 20.
+
+== Cambios ==
+<u>'''Día 20:'''</u>
+*<span style=color:red>1</span> de cada 100 <span style=color:red>Ravagers</span> suelta un <span style=color:red>Tótem de inmortalidad</span>.
+
+<u>'''Día 25:'''</u>
+*Todos los <span style=color:red>Ravagers</span> tienen ahora <span style=color:red>Fuerza II</span> y <span style=color:red>Speed II</span>, los <span style=color:red>tótems</span> ahora los sueltan con un <span style=color:red>20%</span>.
+
+<u>'''Día 40:'''</u>
+*Las <span style=color:red>Vacas, Ovejas, Cerdos, Pollos</span> y <span style=color:red>Vacasetas</span> son ahora <span style=color:red>Ravagers</span>.
+
+== Desarrollo ==
+*<span style=color:red><u>Día 20 - Día 25:</u></span>
+Los Evokers dejan de dropear tótems, por lo que la única manera de seguir consiguiéndolos es derrotando Ravagers. Más que un buff fue un debuff para estos enemigos, pero la inexistencia de enemigos que dropearan este mítico objeto alentaba a los jugadores a que se enfrentaran más con ellos.
+
+*<span style=color:red><u>Día 25 - Día 40:</u></span>
+Los Ravagers tienen más probabilidad de soltar un tótem con un 20%, pero a cambio de esto, se vuelven mucho más fuerte adquiriendo Fuerza II y Speed II.
+El primero en darse cuenta del peligro que presentaba fue el jugador [[Mikecrack]], quien se confió y lamentable perdió un tótem contra ellos.
+
+Durante el día 30 y 40, no presentaron problemas, por la entrada al End.
+
+*<span style=color:red><u>Día 40 - Día 50:</u></span>
+Los Ravagers se vuelven un enemigo muy común, se vuelven un peligro real, y muchos jugadores se acercaron a la muerte gracias a este cambio.
+
+== Estadísticas ==
+
+=== Cantidad de Muertes ===
+{| class="wikitable"
+! Lugar
+! Cantidad de Muertes
+! Jugadores
+|-
+| <center>'''6º'''</center>
+| <center>'''0'''</center>
+| '''null'''
+|}
+
+=== Cantidad de Tótems ===
+{| class="wikitable"
+! Cantidad de Tótems
+! Jugadores
+|-
+| <center>'''1'''</center>
+|
+*[Día 26]: '''Mikecrack''' ha usado un tótem contra un '''Ravager'''
+|}
+[[Categoría:Enemigos]]

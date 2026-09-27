@@ -1,0 +1,20 @@
+<mainpage-leftcolumn-start />{{Encabezado Portada}}{{Slider Portada}}
+<!-- etiqueta que marca el inicio de la columna a la izquierda -->
+
+{{Personajes Portada}}
+{{Tabla de Emisión Portada}}
+{{Twitter Portada}}
+
+<mainpage-endcolumn />
+
+<mainpage-rightcolumn-start />
+{{Wikis Aliadas}}
+{{Discord Portada}}
+{{Artículo destacado portada}}
+{{Vídeo destacado}}
+{{Imagen Destacada}}
+
+<mainpage-endcolumn /><!-- importante: etiqueta que marca el final de la columna derecha -->
+__NOTOC__
+__NOEDITSECTION__
+[[Categoría:Navegación]]

@@ -1,0 +1,42 @@
+# GersoonSG "TODAS LAS MU3RT3S PERMADEATH" https://www.youtube.com/watch?v=vYTcFdeAxE0 (uploaded 2020-05-24)
+# local file: /home/franescob/Gaming/research/clips/gersoon_all_v480.mp4 (854x480, video only)
+# transcript: /home/franescob/Gaming/research/subs/gersoon_all.txt ([mm:ss] = compilation time)
+# start_s end_s chapter
+6 50 Alvaro
+50 79 TheGamerMaldito
+79 118 Cecililla
+118 185 Kaumaru
+185 235 Felipez360
+235 261 Ibai
+261 290 ReventXzz
+290 336 AKAWonder
+336 374 Ander
+374 384 LiliCross(AFK)
+384 419 Rubik
+419 453 Zeling
+453 523 Tonacho
+523 534 Perxitaa(AFK)
+534 543 AlexElCapo(AFK)
+543 607 OutConsumer
+607 641 RanguGamer
+641 705 FrigoAdri
+705 745 Folagor
+745 765 Paracetamor
+765 795 Gona89
+795 812 MrCarlosNoob
+812 966 Mikecrack
+966 970 BarbeQ(AFK)
+970 1004 Cibergun
+1004 1068 Alkapone
+1068 1096 NiaLakshart
+1096 1126 Hardyluski
+1126 1136 Th3Antonio(AFK)
+1136 1173 CooLifeGame(AFK)
+1173 1206 BriiHD
+1206 1270 ElRichMC
+1270 1303 EsVandal
+1303 1327 Kakytron
+1327 1361 CrisGreen
+1361 1384 Shadoune
+1384 1416 Killercreeper55
+1416 1480 Luh

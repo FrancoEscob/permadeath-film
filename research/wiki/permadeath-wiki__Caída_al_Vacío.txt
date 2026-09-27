@@ -1,0 +1,10 @@
+{{Infobox_Enemigos_Técnicos
+|title1=Caída al Vacío
+|image1=[[Archivo:Vacío.gif]]
+|daño= '''4/10 ticks''' [[Archivo:Damage Heart 10 Ticks.gif|9px]][[Archivo:Damage Heart 10 Ticks.gif|9px]]
+|aparece_en=
+*El End
+*El Beginning
+|día_de_aparición= Día 30
+|jugadores_asesinados= '''2'''
+|tótems_utilizados= '''null'''}}

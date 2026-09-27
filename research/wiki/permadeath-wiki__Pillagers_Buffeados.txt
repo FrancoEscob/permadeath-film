@@ -1,0 +1,15 @@
+{{Infobox Enemigos
+|title1=Pillagers Buffeados
+|image1=[[Archivo:Pillager.png]]
+|puntos_de_salud= '''24''' [[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]]
+|ataque= 
+<u>Rango:</u> '''4 [[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]]- 5''' [[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Half Heart.png]]
+<u>Cuerpo a Cuerpo:</u> '''5''' [[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Half Heart.png]]
+|aparece_en:=
+*Raids
+*Patrullas
+*Puestos de Pillagers
+|día_de_aparición=30
+|jugadores_asesinados=0
+|tótems_utilizados=0}}
+[[Categoría:Enemigos]]

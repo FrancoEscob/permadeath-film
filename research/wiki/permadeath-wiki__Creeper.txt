@@ -1,0 +1,51 @@
+{{Infobox Enemigos
+|title1=Creeper
+|image1=[[Archivo:Creeper.png]]
+|puntos_de_salud= '''20''' [[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]]
+|explosión= '''64''' [[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]]
+|recompensa= 
+[[Archivo:Pólvora.png|20px]] '''Pólvora'''
+[[Archivo:Disco de Música.png|20px]] '''Disco de Música'''
+<br>[[Archivo:Cabeza de Creeper.png|20px]] '''Cabeza de Creeper'''
+|aparece_en:= '''En la Oscuridad'''
+|día_de_aparición= Día 0
+|jugadores_asesinados= '''4'''
+|tótems_utilizados= '''0'''}}Los '''Creepers''' son un mob hóstil proveniente de Minecraft, y al ser originario de este, estuvo en [[Permadeath]] desde el día 0.
+
+== Desarrollo ==
+*<span style=color:red><u>'''Día 0 - Día 30'''</u></span>
+Aunque se crea que los Creeper al ser originarios de Minecraft y no sufrir ninguna modificación no causarían grandes problemas, al final fue todo lo contrario. Estos enemigos hicieron de las suyas durante todo el día 0, aprovechando que los jugadores estaban poco preparados. Al ser enemigos kamikazes y quitar un daño brutal, no muchos tuvieron la oportunidad de salvarse de estos enemigos. Los jugadores [[Alvaro845]] y [[TheGamerMaldito]] que murieron casi a la par, sufrieron las consecuencias de que te caiga uno de estos enemigos en la cabezas, teniendo muertes inevitables.
+[[Cecililla Juega]] gracias a un serie de acontecimientos bastante desafortunados también cae victima ante este enemigo.
+Los Creepers fueron los primeros enemigos en causar asesinatos dentro de este servidor y no es de sorprenderse. Esto origino que todos los jugadores fueran mucho más cuidadosos y que no se tenían que confiar en ningún momento.
+
+Ahora saltemos rápidamente al día 11, parte del equipo de G2 vuelve a jugar después de un gran tiempo de inactividad, el jugador [[Ibai]] al ser bastante inexperto, reacciona de manera inadecuada cuando se encuentra con un creeper en plana cara. Al final esto termino en una muerte más provocada por la explosión de un Creeper.
+
+En sintesis, el Creeper fue el enemigo mas temido de todo Permadeath, sin importar que no sufriera ningún cambio de dificultad.
+
+== Estadísticas ==
+
+=== Cantidad de muertes ===
+{| class="wikitable"
+! Lugar
+! Cantidad de Muertes
+! Jugadores
+|-
+| <center>'''3º'''</center>
+| <center>'''4'''</center>
+|
+*[Día 0]:'''Alvaro845''' ha explotado por un '''Creeper'''
+*[Día 0]:'''TheGamerMaldito''' ha explotado por un '''Creeper'''
+*[Día 0]:'''Cecililla''' ha explotado por un '''Creeper'''
+*[Día 11]:'''Ibaillanos''' ha explotado por un '''Creeper'''
+|}
+
+=== Cantidad de Tótems ===
+{| class="wikitable"
+! Cantidad de Tótems
+! Jugadores
+|-
+| <center>'''0'''</center>
+| '''null'''
+|}
+
+[[Categoría:Enemigos]]

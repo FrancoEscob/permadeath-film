@@ -1,0 +1,117 @@
+{{Infobox_Enemigos
+|title1=Arañas con Efectos
+|image1=
+<gallery>
+Araña.png | Araña
+Araña de Cueva.png | Araña de Cueva
+</gallery>
+|puntos_de_salud=
+Araña: '''16''' [[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]]
+Araña de Cueva: '''12''' [[Archivo:9px-Heart.png|9px-Heart.png]][[Archivo:9px-Heart.png|9px-Heart.png]][[Archivo:9px-Heart.png|9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]] 
+|resistencia= '''15''' [[Archivo:Armor.png]][[Archivo:Armor.png]][[Archivo:Armor.png]][[Archivo:Armor.png]][[Archivo:Armor.png]][[Archivo:Armor.png]][[Archivo:Armor.png]][[Archivo:Half Armor.png]]
+|regeneración= '''1/6 ticks''' [[Archivo:Regeneration Heart 6 Ticks.gif|9px]][[Archivo:Regeneration Heart 6 Ticks 2.gif|9px]]
+|ataque=
+'''Normal''': '''3''' [[Archivo:9px-Heart.png]][[Archivo:9px-Half Heart.png]]
+<br>'''Fuerza IV''': '''15,6''' [[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Half Heart.png]]
+|veneno= 
+<u>Normal:</u> '''10''' [[Archivo:Poisoned Heart.png]][[Archivo:Poisoned Heart.png]][[Archivo:Poisoned Heart.png]][[Archivo:Poisoned Heart.png]][[Archivo:Poisoned Heart.png]]
+<u>Día 50:</u> '''50''' [[Archivo:Poisoned Heart.png]][[Archivo:Poisoned Heart.png]][[Archivo:Poisoned Heart.png]][[Archivo:Poisoned Heart.png]][[Archivo:Poisoned Heart.png]][[Archivo:Poisoned Heart.png]][[Archivo:Poisoned Heart.png]][[Archivo:Poisoned Heart.png]][[Archivo:Poisoned Heart.png]][[Archivo:Poisoned Heart.png]][[Archivo:Poisoned Heart.png]][[Archivo:Poisoned Heart.png]][[Archivo:Poisoned Heart.png]][[Archivo:Poisoned Heart.png]][[Archivo:Poisoned Heart.png]][[Archivo:Poisoned Heart.png]][[Archivo:Poisoned Heart.png]][[Archivo:Poisoned Heart.png]][[Archivo:Poisoned Heart.png]][[Archivo:Poisoned Heart.png]][[Archivo:Poisoned Heart.png]][[Archivo:Poisoned Heart.png]][[Archivo:Poisoned Heart.png]][[Archivo:Poisoned Heart.png]][[Archivo:Poisoned Heart.png]]
+|recompensa= 
+<u>Día 25:</u> [[Archivo:Casco.png|20px]] '''Casco de Netherite (Arañas de Cueva)'''
+<u>Día 30:</u> [[Archivo:Casco.png|20px]] '''Eliminado'''
+|aparece_en:= '''Cualquier bioma 
+(Las arañas de cueva en las minas abandonadas)'''
+|día_de_aparición= Día 10
+|jugadores_asesinados= '''5'''
+|tótems_utilizados= '''3'''}}Las Arañas con Efectos son una modificación a las Arañas y las Arañas de Cueva, que se incorporó en [[Permadeath]] a partir del Día 10.
+
+== Cambios ==
+
+<u>'''Día 10:'''</u>
+* Todas las <span style=color:red>arañas</span> tienen efectos de poción entre <span style=color:red>1</span> y <span style=color:red>3</span> efectos aplicados de esta lista.
+**Velocidad III
+**Fuerza IV
+**Salto V
+**Brillo
+**Regeneración IV
+**Invisibilidad
+**Caída Lenta
+**Resistencia III
+
+<u>'''Día 20:'''</u>
+* Todas las <span style=color:red>arañas</span> tienen de <span style=color:red>3</span> a <span style=color:red>5</span> efectos.
+*Todas las <span style=color:red>arañas</span> aparecen ahora con un <span style=color:red>Esqueleto de Clase</span>.
+
+<u>'''Día 25:'''</u>
+* Todas las <span style=color:red>arañas</span> tienen ahora <span style=color:red>5</span> efectos.
+
+* Puedes obtener una parte de la armadura de <span style=color:red>Netherite</span> matando <span style=color:red>Arañas de Cueva</span>.
+
+<u>'''Día 40:'''</u>
+* Todas las <span style=color:red>Arañas</span> son ahora <span style=color:red>Arañas de Cueva</span>.
+
+<u>'''Día 50:'''</u>
+* Las <span style=color:red>Arañas de Cueva</span> ya no pueden tener <span style=color:red>Glowing(Brillo)</span>.
+
+* Las <span style=color:red>Arañas de Cueva</span> dan ahora Veneno III y Náusea.
+
+== Desarrollo ==
+
+*<span style=color:red><u>'''Día 10 - Día 20:'''</u></span>
+Llega el cambio en donde debutan las nuevas Arañas y rápidamente muere un jugador. [[Kaumaru]], es el primer jugador en morir por culpa de una de estas arañas por un bug de iluminación. 3 horas después sucede otra muerte, la muerte de [[Felipez360]] por otra de estas arañas con efectos.
+La mayoría de jugadores se ven bastante presionados y se ven obligados a crear estrategias para no caer enfrente de estas arañas.
+Para el día 11, el jugador [[ReventXzz]] es asesinado por una araña de cueva, por subestimar su poder, muriendo de un one shoot.
+Por lo tanto, todos los jugadores empiezan a utilizar armas encantadas con <span style=color:purple>Perdición de los Artrópodos V</span>, aumentando el daño de la espada y del hacha 12,5 puntos de daño en las arañas.
+Con este conocimiento, la mayoría de jugadores en esta situación la afrontan sin problemas. Pero [[Ander|4nder]] muere el día 18, por el spawneo de una de estas cerca de él, provocando una muerte bastante rápida.
+
+*<span style=color:red><u>'''Día 20 - Día 25:'''</u></span>
+Todas las arañas tienen más efectos, aunque no presentan ahora un gran peligro, este cambio provoca que se mantenga un cierto distanciamiento para no morir por si las moscas.
+
+*<span style=color:red><u>'''Día 25 - Día 40:'''</u></span>
+El nuevo cambio sorpresa impone que las arañas tengan 5 efectos, lo suficiente para derrotar a cualquier jugador en un santiamén, esto lo podemos probar cuando vemos que [[ElRichMC]] y [[KillerCreeper55]], hacian pruebas con estas arañas y se dieron cuenta, que si había una cantidad grande de estos enemigos, era completamente imposible derrotarlos.
+Pero la nueva armadura de Netherite se convirtió en objeto preciado y que era completamente necesario para seguir sobreviviendo en [[Permadeath]]. Para obtener el casco había que derrotar a una Araña de Cueva, la más peligrosa y que ningún jugador se atrevía a acercarse a una de ellas.
+Para conseguir el nuevo casco, pensaron en hacer "granjas" de Arañas con todas las medidas de seguridad, lamentablemente el primer jugador en probar estas granjas fue [[RubikYT|Rubik]], que estaba obsesionado en conseguir la armadura completa primero, sus nervios provocaron que destruyera un bloque de su "granja", dejando a una araña de cueva pasar, [[RubikYT|Rubik]] intentó escapar con todas su fuerzas pero solamente le espero el final.
+[[RubikYT|Rubik]] se convirtió en el ultimo en utilizar tótem y morir por las Arañas con Efectos, pero estos enemigos dejaron una gran huella en el servidor.
+
+*<span style=color:red><u>'''Día 40 - Día 50:'''</u></span>
+Las arañas comunes desaparecieron, ahora solamente existen Arañas de Cueva. Aunque esto suena como un cambio bastante difícil, estos enemigos no crearon muchos problemas durante estos días.
+
+*<span style=color:red><u>'''Día 50 - Día 60:'''</u></span>
+Las arañas con efectos ya no tiene el efecto glowing, un efecto beneficioso para el jugador que permitía visualizar a estos enemigos de lejos. Este cambio también permite que algún otro efecto lo remplace y las Arañas sean infernales. eso sin contar los nuevos efectos de Veneno III y Naúsea.
+ya en este punto, la mejor estrategia para estos enemigos era simplemente no acercarse a ellos.
+
+== Estadísticas ==
+
+=== Cantidad de muertes ===
+{| class="wikitable"
+! Lugar
+! Cantidad de Muertes
+! Jugadores
+|-
+| <center>'''2º'''</center>
+| <center>'''5'''</center>
+|
+*[Día 10]:'''Kaumaru''' fue asesinado por una '''Araña de Cueva'''
+*[Día 10]:'''xXmineCr4fterXx''' fue asesinado por una '''Araña'''
+*[Día 11]:'''ReventXzz''' fue asesinado por una '''Araña de Cueva'''
+*[Día 18]:'''4ndeR''' fue asesinado por una '''Araña'''
+*[Día 25]:'''RubikYT''' fue asesinado por una '''Araña de Cueva'''
+|}
+
+=== Cantidad de Tótems ===
+{| class="wikitable"
+! Cantidad de Tótems
+! Jugadores
+|-
+| <center>'''3'''</center>
+|
+*[Día 10]: '''xXmineCr4fterXx''' ha usado un tótem contra una '''Araña'''
+*[Día 18]: '''4ndeR''' ha usado un tótem contra una '''Araña'''
+*[Día 25]: '''RubikYT''' ha usado un tótem contra una '''Araña de Cueva'''
+|}
+
+== Curiosidades ==
+*Es el primer enemigo exclusivo de '''Permadeath'''
+*Durante un tiempo fue el enemigo con más muertes, hasta la llegada de los Ender Ghast que provoco un empate. Y la llegada de los '''Ender Creeper''' y '''Ender Quantum Creeper'''.
+
+[[Categoría:Enemigos]]

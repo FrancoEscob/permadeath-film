@@ -1,0 +1,71 @@
+{{Infobox_Jugador
+|title1= Kaumaru102
+|image1= [[Archivo:Kaumaru102 Youtube.jpg]]
+|nick_de_minecraft= Kaumaru
+|nombre_en_youtube= Kaumaru102
+|nombre_en_twitch= Kaumaru102
+|redes_sociales=
+[[Archivo:Youtube.png|35px|link=https:https://www.youtube.com/user/Kaumaru102]][[Archivo:Twitch.png|35px|link=https://www.twitch.tv/kaumaru102]][[Archivo:Twitter.png|35px|link=https://twitter.com/Kaumaru102]]
+|suscriptores_en_youtube= +100.000
+|seguidores_en_twitch= +70.000
+|participaciones= 1 Edición
+|mejor_resultado= 35º lugar
+|muertes= Atacado por una Araña de Cueva
+|mensajes_de_muerte= ''"has sido deleteado, titi"''
+}}<span style="color:red">'''Kaumaru102'''</span> o como lo llaman sus amigos "Kau", fue uno de los participantes de Permadeath. Participando en la 1ª Edición de este Evento. Se convirtió en el primer jugador en morir por un cambio de dificultad.
+
+==Desempeño==
+
+<span style="color:red"><u>'''1ª Edición:'''</u></span>
+
+*<u>'''Día 0 - Día 10:'''</u>
+El server abre sus puertas, y Kaumaru avanza de forma muy rápida, no es de sorprenderse sabiendo que es uno de los participantes de UHC España. Con el transcurso de los días, Kau logra armarse su base con mucha facilidad en un bioma nevado, podemos decir que su progreso fue bastante excelente, teniendo ya cautivos una gran cantidad de aldeanos como para conseguir los recursos que necesitaba para poder seguir progresando. Además de tener una casa muy bonita, era bastante funcional.
+
+*<u>'''Día 10:'''</u>
+
+Llega el primer cambio de dificultad, Arañas completamente buffeadas con la probabilidad de tener entre 1 a 3 efectos aleatorios, Kaumaru se encontraba en una Dungeon Múltiple con varios spawners de arañas, al parecer esperaba poder farmearlas con facilidad ya al tener todo iluminado. Pero sucede algo que Kau no se esperaba, al momento de picar un bloque ocurre un bug de iluminación originando que una Araña de Cueva con Velocidad III y Fuerza IV spawneara en aquel espacio oscuro, Kau no se esperaba que una Araña lo atacara de imprevisto y peor aún con los efectos del cambio de dificultad de los más complicados de contraatacar, al final esta única Araña causo la muerte de nuestro Kau. Lamentablemente esta muerte sucedió en OffStream, siendo la primera muerte que no pudimos ver con claridad.
+Aunque esta muerte parezca un tanto injusta por involucrar un bug, al ser provocado por Minecraft y no por el Plugin, la muerte fue contada como completamente válida.
+
+==Equipos==
+{| class="wikitable"
+!Edición
+!Equipo Original
+!Equipo Temporal
+|-
+|'''1ª Edición'''
+|<center>'''-'''<center>
+|<center>'''-'''<center>
+|}
+
+==Resultados==
+{| class="wikitable"
+!Edición
+!Lugar
+!Causa de Muerte
+|-
+|'''1ª Edición'''
+|35º
+|[[Arañas con efectos|Araña de Cueva]]
+|}
+
+==Totéms Utilizados==
+{| class="wikitable"
+!Edición
+!Totéms Utilizados
+|-
+|'''1ª Edición'''
+|'''0'''
+|}
+
+==Valoración de Jugador (porcentaje sobrevivido/participaciones)==
+{| class="wikitable"
+!Lugar
+!Cálculo
+!Valoración
+|-
+|'''35º'''
+|9,1%/1 participación
+|'''9,1'''
+|}
+
+[[Categoría:Participantes]]

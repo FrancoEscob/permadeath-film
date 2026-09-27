@@ -1,0 +1,51 @@
+{{Infobox Enemigos
+|title1=Phantoms Buffeados
+|image1=[[Archivo:Phantom.gif]]
+|puntos_de_salud= '''40''' [[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]]
+|ataque= '''12''' [[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]][[Archivo:9px-Heart.png]]
+|recompensa= [[Archivo:PhantomMembraneNew.png|16px]] '''Eliminada día 20'''
+|aparece_en:= en cualquier bioma (si no has dormido en 3 días)
+|día_de_aparición= día 20
+|jugadores_asesinados= '''null'''
+|tótems_utilizados= '''null'''
+}}
+
+Los '''Phantoms Buffeados''' son una modificación de los Phantoms, que se incorporó en [[Permadeath]] a partir del día 20.
+
+== Cambios ==
+<u>'''Día 20''':</u>
+*Todos los <span style=color:red>Phantoms</span> son ahora de tamaño <span style=color:red>9</span> y <span style=color:red>doble</span> de vida.
+
+<u>'''Día 40:'''</u>
+*Los <span style=color:red>Phantoms</span> ahora llevan encima un <span style=color:red>Esqueleto de Clase</span>
+
+== Desarrollo ==
+*<span style=color:red><u>'''Día 20 - Día 40:'''</u></span>
+Este cambio comienza, y [[Permadeath]] demuestra de lo que es capaz, los Phantoms ya no dropean su membrana, por lo que era imposible crear pociones de flotación, a menos que tuvieras guardadas. Estos enemigos con el size 9 y doble de vida eran muy peligrosos, pero no eran equivalentes a los demás que se habían colocado, debido a que la mayoría contaba ya con armadura de netherite full protection IV, y se podían evitar simplemente utilizando una cama. El verdadero problema fue  la inexistencia de su drop y mucho más en las multiples situaciones tensas que se originaron en el End durante el día 30 y 40.
+
+*<span style=color:red><u>'''Día 40 - Día 50:'''</u></span>
+Los Phantoms ahora tienen los esqueletos de clase tan característicos, estos podrían haber sido un enemigo formidable. Pero eran muy poco comunes, sin contar que todos estaban concentrados con la búsqueda de The Beginning y los famosos '''Gato Supernova'''.
+
+== Estadísticas ==
+
+=== Cantidad de muertes ===
+{| class="wikitable"
+! Lugar
+! Cantidad de Muertes
+! Jugadores
+|-
+| <center>'''6º'''</center>
+| <center>'''0'''</center>
+| '''null'''
+|}
+
+=== Cantidad de Tótems ===
+{| class="wikitable"
+! Cantidad de Tótems
+! Jugadores
+|-
+| <center>'''0'''</center>
+| '''null'''
+|}
+
+[[Categoría:Enemigos]]
