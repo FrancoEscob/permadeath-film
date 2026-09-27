@@ -165,7 +165,7 @@ cost_html = f"""
 <tr><td>23:07</td><td>Tu feedback de la v1</td></tr>
 <tr><td>23:13 – 23:59</td><td>Segunda pasada con 5 subagentes</td></tr>
 <tr><td>23:59 – 00:25</td><td>Render de la v2, parche del segmento 4 y mux final</td></tr>
-<tr><td>00:35 – {span1:%H:%M}</td><td>Doc, costos y esta página</td></tr>
+<tr><td>00:35 – {span1:%H:%M}</td><td>Doc, costos, esta página, el repo de GitHub y el video en YouTube</td></tr>
 </tbody></table></div>
 <ul>
 <li><strong>Tiempo con actividad</strong>: {hm(active)}. Cuento como pausa todo hueco de más de 10 minutos sin ninguna acción de ningún agente; hubo 3, que suman {hm(idle)}.</li>
@@ -185,6 +185,60 @@ cost_html = f"""
 
 body, toc = render(md)
 toc.append(('costo-tokens-y-tiempo', 'Costo, tokens y tiempo'))
+toc.append(('links-y-recursos', 'Links y recursos'))
+
+# ---------------------------------------------------------------- links (every YouTube source was checked with YouTube's oEmbed)
+VIDEO = 'yK6PzUACrbg'
+REPO = 'https://github.com/FrancoEscob/permadeath-film'
+SITE = 'https://permadeath-making-of.vercel.app'
+YT = json.loads((HERE / 'sources_youtube.json').read_text())
+MAIN_YT = {'vYTcFdeAxE0': 'un capítulo por muerte: la base de cada recreación',
+           'QhHMTOs40mo': 'contexto, fechas y las palabras de los jugadores',
+           '7i83fhYvBZo': 'entrevistas a los jugadores'}
+RICH_YT = [k for k, v in YT.items() if v['author'].startswith('ElRichMC')]
+CLIPS = [k for k in YT if k not in MAIN_YT and k not in RICH_YT]
+def a(url, text): return f"<a href='{html.escape(url, quote=True)}' target='_blank' rel='noopener'>{html.escape(text)}</a>"
+def by(s): return f" <span class='by'>· {html.escape(s)}</span>"
+def yt(k): return a(f'https://www.youtube.com/watch?v={k}', YT[k]['title']) + by(YT[k]['author'])
+WIKI, WIKI2 = 'https://permadeath.fandom.com/es/wiki/', 'https://permadeath-wiki.fandom.com/es/wiki/'
+GROUPS = [
+    ('Este proyecto', [a(f'https://www.youtube.com/watch?v={VIDEO}', 'El video final en YouTube') + by('PERMADEATH video by Opus 5.5'),
+                       a(REPO, 'El código en GitHub') + by('film, investigación, skins, esta página y el cálculo de costos'),
+                       a(SITE, 'Esta página')]),
+    ('Fuentes principales', [yt(k) + by(note) for k, note in MAIN_YT.items()]),
+    ('Permadeath: sitios y datos', [
+        a('https://www.youtube.com/@ElRichMC', 'Canal de YouTube de ElRichMC'),
+        a('https://x.com/PermadeathSMP', '@PermadeathSMP en X') + ' · ' + a('https://web.archive.org/web/2020/https://twitter.com/PermadeathSMP', 'su archivo en el Wayback Machine') + by('de ahí salieron los 128 tuits, las tarjetas de muerte y las imágenes de cada cambio'),
+        a(WIKI + 'Muertes', 'Wiki de Permadeath: Muertes') + ' · ' + a(WIKI + 'Participantes', 'Participantes') + ' · ' + a(WIKI + 'Cambios_de_dificultad', 'Cambios de dificultad'),
+        a(WIKI2 + 'Permadeath', 'Permadeath Wiki') + by('otra wiki de fans, con páginas por día y por jugador'),
+        a('https://twitchtracker.com/elrichmc/streams', 'TwitchTracker: directos de ElRichMC') + by('fechas de los directos'),
+        a('https://bolavip.com/gamer/La-serie-de-Minecraft-Permadeath-2-se-retrasa-hasta-2022-20210601-0029.html', 'Bolavip: Permadeath 2 se retrasa') + by('2021'),
+        a('https://www.spigotmc.org/resources/permadeathcore-%E2%98%A0%EF%B8%8F.78993/', 'PermaDeathCore en SpigotMC') + by('plugin de fans; no está confirmado que sea el del servidor'),
+        a('https://github.com/seulloaca/Permadeath', 'seulloaca/Permadeath en GitHub') + by('recreación del plugin hecha por fans'),
+    ]),
+    ('Episodios de ElRichMC citados', [yt(k) for k in RICH_YT]),
+    (f'Otros {len(CLIPS)} videos citados: POV de los jugadores, multi-POV, reacciones y explicaciones', [yt(k) for k in CLIPS]),
+    ('Skins', [a('https://namemc.com/', 'NameMC') + by('historial de skins de cada cuenta'),
+               a('https://minecraft.wiki/w/Mojang_API', 'API de Mojang') + by('nombre → UUID → skin actual')]),
+    ('Herramientas', [a('https://claude.com/product/claude-code', 'Claude Code') + by('Claude Opus 5.5 y sus subagentes'),
+                      a('https://threejs.org', 'three.js') + by('3D'), a('https://pptr.dev', 'Puppeteer') + by('maneja Chromium headless'),
+                      a('https://www.chromium.org', 'Chromium'), a('https://ffmpeg.org', 'FFmpeg') + by('codificación y mezcla'),
+                      a('https://vercel.com', 'Vercel') + by('hosting de esta página')]),
+    ('Tipografías', [a('https://github.com/IdreesInc/Monocraft', 'Monocraft') + by('la letra de Minecraft'),
+                     a('https://fonts.google.com/specimen/Caveat', 'Caveat') + by('las notas a mano'),
+                     a('https://fonts.google.com/specimen/VT323', 'VT323'), a('https://fonts.google.com/specimen/Permanent+Marker', 'Permanent Marker'),
+                     a('https://fonts.google.com/specimen/Cinzel', 'Cinzel'), a('https://fonts.google.com/specimen/Oswald', 'Oswald'),
+                     a('https://fonts.google.com/specimen/Press+Start+2P', 'Press Start 2P'), a('https://fonts.google.com/specimen/UnifrakturCook', 'UnifrakturCook')]),
+    ('Precios', [a('https://platform.claude.com/docs/en/about-claude/pricing', 'Precios de la API de Claude') + by('base del cálculo de costos')]),
+]
+def group(title, items):
+    ul = '<ul class="links">' + ''.join(f'<li>{x}</li>' for x in items) + '</ul>'
+    if len(items) > 12: return f"<details><summary>{html.escape(title)}</summary>{ul}</details>"
+    return f'<h3>{html.escape(title)}</h3>{ul}'
+links_html = ("<section id='links-y-recursos'><h2>Links y recursos</h2>"
+              f"<p>Todo lo que usamos y que es público en internet. Los {len(YT)} videos de YouTube se verificaron uno por uno y siguen disponibles; otros 2 que citaba la investigación ya no lo están y no se enlazan. "
+              "Las tarjetas de muerte, los tuits y los frames se usaron solo para contrastar datos: acá están los originales.</p>"
+              + ''.join(group(t, i) for t, i in GROUPS) + '</section>')
 GAL = [('title', 'Título 3D: PERMA / DEATH hecho de bloques, sobre la lava'), ('players', 'Presentación: cada jugador con su skin real'),
        ('decree', 'Decreto del día 40, con el Gato Supernova en el pedestal'), ('tonacho', 'Tonacho, día 26: salta el tótem'),
        ('rich', 'ElRichMC, día 56: el inventario copiado del frame real'), ('killer', 'KillerCreeper55, día 60: notas a mano sobre el Ender Quantum Creeper'),
@@ -195,7 +249,7 @@ page = f"""<!doctype html>
 <html lang='es'><head><meta charset='utf-8'><meta name='viewport' content='width=device-width,initial-scale=1'>
 <title>PERMADEATH · cómo se hizo el video</title>
 <meta name='description' content='Making-of de un film de motion graphics sobre Permadeath hecho 100 % en código: investigación, skins reales, muertes redibujadas, música sintetizada, render y costos.'>
-<meta property='og:title' content='PERMADEATH · cómo se hizo el video'><meta property='og:image' content='img/title.jpg'>
+<meta property='og:title' content='PERMADEATH · cómo se hizo el video'><meta property='og:image' content='https://permadeath-making-of.vercel.app/img/title.jpg'><meta property='og:url' content='https://permadeath-making-of.vercel.app'><meta name='twitter:card' content='summary_large_image'>
 <style>
 @font-face{{font-family:MC;src:url(fonts/monocraft.ttf) format('truetype');font-display:swap}}
 @font-face{{font-family:Hand;src:url(fonts/caveat700.woff2) format('woff2');font-display:swap}}
@@ -251,7 +305,19 @@ figcaption{{font-size:13px;color:var(--muted);margin-top:6px}}
 .kpis b{{display:block;font-family:VT;font-size:34px;line-height:1;color:var(--gold);font-weight:400}}
 .kpis span{{font-size:13px;color:var(--muted)}}
 .muted{{color:var(--muted);font-size:14px}}
-footer{{border-top:2px solid var(--line);color:var(--muted);font-size:14px;text-align:center;padding:28px 24px 40px}}
+footer{{border-top:2px solid var(--line);color:var(--muted);font-size:14px;text-align:center;padding:28px 24px 40px;line-height:2}}
+.cta{{display:flex;flex-wrap:wrap;gap:10px;margin-top:18px}}
+.btn{{font-family:VT;font-size:24px;line-height:1.3;text-decoration:none;color:#fff;background:#2a2530;border:2px solid #4a4352;padding:4px 16px;box-shadow:inset -3px -3px 0 rgba(0,0,0,.35),inset 3px 3px 0 rgba(255,255,255,.12)}}
+.btn:hover{{background:#3a3342}}.btn.red{{background:#8e1f12;border-color:#c43a26}}.btn.red:hover{{background:#a8281a}}
+.watch{{max-width:1100px;margin:0 auto 34px;padding:0 24px}}
+.frame{{position:relative;aspect-ratio:16/9;background:#000;border:3px solid #3b3542;box-shadow:0 20px 60px rgba(0,0,0,.6)}}
+.frame iframe{{position:absolute;inset:0;width:100%;height:100%;border:0}}
+.watch .cap{{font-size:13px;color:var(--muted);margin:8px 0 0}}
+ul.links{{padding-left:20px}}ul.links li{{margin:6px 0;font-size:15.5px}}
+.by{{color:var(--muted);font-size:14px}}
+details{{margin:22px 0 8px;border:1px solid var(--line);border-radius:6px;padding:10px 14px;background:var(--panel)}}
+summary{{cursor:pointer;color:var(--gold);font-weight:600}}
+details[open] summary{{margin-bottom:8px}}
 @media (max-width:900px){{header.hero::after{{background:linear-gradient(180deg,rgba(13,12,15,.55) 0%,rgba(13,12,15,.8) 50%,var(--bg) 100%)}}.wrap{{grid-template-columns:1fr}}nav.toc{{position:static;padding-top:24px}}.gallery{{grid-template-columns:repeat(2,1fr)}}.kpis{{grid-template-columns:repeat(2,1fr)}}}}
 </style></head>
 <body>
@@ -261,15 +327,19 @@ footer{{border-top:2px solid var(--line);color:var(--muted);font-size:14px;text-
  <p class='lede'>Un film de motion graphics de 7:47 sobre el servidor hardcore de ElRichMC, hecho 100 % en código. Las 33 muertes están redibujadas a partir de sus clips, los jugadores aparecen con sus skins reales y la música se sintetiza en el navegador. Ningún dato está inventado.</p>
  <div class='hand'>el frame manda.</div>
  <div class='stats'><span>1920×1080 · 30 fps</span><span>14.015 frames</span><span>55 escenas</span><span>38 jugadores</span><span>−14 LUFS</span><span>{usd(T['usd'])} equivalente API</span></div>
+ <div class='cta'><a class='btn red' href='#video'>▶ Ver el video</a><a class='btn' href='https://www.youtube.com/watch?v={VIDEO}' target='_blank' rel='noopener'>YouTube</a><a class='btn' href='{REPO}' target='_blank' rel='noopener'>Código en GitHub</a></div>
 </div></header>
+<div class='watch' id='video'><div class='frame'><iframe src='https://www.youtube-nocookie.com/embed/{VIDEO}?rel=0' title='PERMADEATH video by Opus 5.5' loading='lazy' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe></div>
+<p class='cap'>La versión final, 7:47. Mejor en pantalla grande y con sonido.</p></div>
 {gallery}
 <div class='wrap'>
 <nav class='toc'><b>ÍNDICE</b><ol>{''.join(f"<li><a href='#{s}'>{html.escape(h)}</a></li>" for s, h in toc)}</ol></nav>
 <main>
 {body}
 {cost_html}
+{links_html}
 </main></div>
-<footer>PERMADEATH (ElRichMC, 2020) · film y making-of hechos con Claude Code (Opus 5.5) · Minecraft es una marca de Mojang/Microsoft; este es un proyecto de fans sin afiliación.</footer>
+<footer><a href='https://www.youtube.com/watch?v={VIDEO}' target='_blank' rel='noopener'>Video</a> · <a href='{REPO}' target='_blank' rel='noopener'>Código</a><br>PERMADEATH (ElRichMC, 2020) · film y making-of hechos con Claude Code (Opus 5.5) · Minecraft es una marca de Mojang/Microsoft; este es un proyecto de fans sin afiliación.</footer>
 </body></html>"""
 (HERE / 'index.html').write_text(page)
 print('ok', len(page), 'bytes;', len(toc), 'sections;', usd(T['usd']), mtok(tok_total), hm(wall), hm(active), hm(agents_time))
